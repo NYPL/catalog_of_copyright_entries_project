@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT copyrightEntries (copyrightEntry+) >
+<!ELEMENT copyrightEntry (workTitle?, author*, workDescription?, editionStatement?, placeOfPublication?, firstNamedPublisher?, numberOfVolumes?, seriesSatement?, issuedInAnotherWork?, otherAuthor*, employerName*, earlierVersion?,
+                          newMatterClaimed?, pubDate?, claimant*, registrationNumber?, registrationDate?, classCode?, copiesDeposited?, copiesDepositedDate?, affidavitDate?, otherCopyrightInfo? )>
+<!ELEMENT workTitle (#PCDATA)>
+<!ELEMENT authorName (#PCDATA)>
+<!ELEMENT authorBirth (#PCDATA)>
+<!ELEMENT authorDeath (#PCDATA)>
+<!ELEMENT author (authorName, authorBirth?, authorDeath?)>
+<!ELEMENT workDescription (#PCDATA)>
+<!ELEMENT editionStatement (#PCDATA)>
+<!ELEMENT placeOfPublication (#PCDATA)>
+<!ELEMENT firstNamedPublisher (#PCDATA)>
+<!ELEMENT numberOfVolumes (#PCDATA)>
+<!ELEMENT seriesSatement (#PCDATA)>
+<!ELEMENT issuedInAnotherWork (#PCDATA)>
+<!ELEMENT otherAuthor (#PCDATA)>
+<!ELEMENT employerName (#PCDATA)>
+<!ELEMENT earlierVersion (#PCDATA)>
+<!ELEMENT newMatterClaimed (#PCDATA)>
+<!ELEMENT pubDate (#PCDATA)>
+<!ELEMENT claimant (#PCDATA)>
+<!ELEMENT registrationNumber (#PCDATA)>
+<!ELEMENT registrationDate (#PCDATA)>
+<!ELEMENT classCode (#PCDATA)>
+<!ELEMENT copiesDeposited (#PCDATA)>
+<!ELEMENT copiesDepositedDate (#PCDATA)>
+<!ELEMENT affidavitDate (#PCDATA)>
+<!ELEMENT otherCopyrightInfo (#PCDATA)>
