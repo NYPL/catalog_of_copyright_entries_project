@@ -1,45 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!ELEMENT copyrightEntries (copyrightEntry+) >
-<!ELEMENT copyrightEntry (title?, author*, desc?, edition?, pubPlace?, publisher?, volumes?, series?, issuedInAnotherWork?, otherauthor*, employerName*, prev-regnum?,
-                          newMatterClaimed?, pubDate?, pubName?, claimant?, claimantPlace?, regDate?, classCode?, copies?, affDate?,
-			  vol?, noticeDate?, see?)>
+<!ELEMENT copyrightEntry ANY>
 <!ATTLIST copyrightEntry
 	  id NMTOKEN #REQUIRED
 	  regnum NMTOKEN #IMPLIED>
 <!ELEMENT title (#PCDATA)>
-<!ELEMENT author (authorName, authorBirth?, authorDeath?)>
+<!ELEMENT author (#PCDATA | role | authorName|  authorBirth | authorDeath)*>
 <!ATTLIST author
 	  role NMTOKEN #IMPLIED>
 <!ELEMENT authorName (#PCDATA)>
+<!ELEMENT role (#PCDATA)>
 <!ELEMENT authorBirth (#PCDATA)>
 <!ELEMENT authorDeath (#PCDATA)>
 <!ELEMENT desc (#PCDATA)>
 <!ELEMENT edition (#PCDATA)>
 <!ELEMENT pubPlace (#PCDATA)>
 <!ELEMENT pubName (#PCDATA)>
+<!ATTLIST pubName
+	  claimant (yes | no) "yes">
 <!ELEMENT pubDate (#PCDATA)>
-<!ELEMENT publisher (pubName?, pubPlace?, pubDate?)>
+<!ELEMENT publisher (#PCDATA | pubName | pubPlace | pubDate )* >
 <!ELEMENT volumes (#PCDATA)>
 <!ELEMENT vol (#PCDATA)>
 <!ELEMENT series (#PCDATA)>
 <!ELEMENT issuedInAnotherWork (#PCDATA)>
 <!ELEMENT otherauthor (#PCDATA)>
-<!ATTLIST otherauthor
-	  role NMTOKEN #IMPLIED>
 <!ELEMENT employerName (#PCDATA)>
 <!ELEMENT prev-regnum (#PCDATA)>
 <!ELEMENT newMatterClaimed (#PCDATA)>
 <!ELEMENT claimant (#PCDATA)>
 <!ELEMENT claimantPlace (#PCDATA)>
 <!ELEMENT regDate (#PCDATA)>
+<!ATTLIST regDate
+	  date CDATA #REQUIRED>
 <!ELEMENT classCode (#PCDATA)>
 <!ELEMENT copies (#PCDATA)>
 <!ATTLIST copies
-	  Date NMTOKEN #IMPLIED>
+	  date NMTOKEN #IMPLIED
+	  num CDATA #IMPLIED>
 <!ELEMENT affDate (#PCDATA)>
+<!ATTLIST affDate
+	  date CDATA #REQUIRED>
 <!ELEMENT noticeDate (#PCDATA)>
 <!ELEMENT see (#PCDATA)>
 <!ATTLIST see
 	  rid NMTOKEN #REQUIRED>
+<!ELEMENT registrationNumber (#PCDATA)>
 
 
