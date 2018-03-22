@@ -19,14 +19,14 @@
     <regDate date="1950-11-01">1Nov50</regDate>
     <registrationNumber>A50966</registrationNumber>
   </copyrightEntry>
-  <copyrightEntry id="GUID2">
-    <author role="ed.">
+  <crossRef id="GUID2">
+    <author>
       <authorName>BELL, ELEXIOUS THOMPSON</authorName>,
       <role>ed.</role>
     </author>
     <title>Hypertension</title>
-    SEE <see rid="GUID20000">Symposium on Hypertension, University of Minnesota, 1950</see>
-  </copyrightEntry>
+    SEE <see rid="GUID20000"><title>Symposium on Hypertension, University of Minnesota</title>, <pubDate>1950</pubDate></see>
+  </crossRef>
   <copyrightEntry id="GUID3" regnum="A50980">
     <author>
       <authorName>BELL, ERIC TEMPLE</authorName>
@@ -57,13 +57,14 @@
     <regDate date="1951-01-05">5Jan51</regDate>;
     <registrationNumber>AF0-4873</registrationNumber>.
   </copyrightEntry>
-  <copyrightEntry id="GUID5">
-    <author role="joint_author">
-      <authorName>BELL, JAMES ALEXANDER</authorName>
+  <crossRef id="GUID5">
+    <author>
+      <authorName>BELL, JAMES ALEXANDER</authorName>,
+      <role>joint author</role>
     </author>
     <title>Mr. Chairman</title>
-    SEE <see rid="GUID20001">Randolph, Jennings</see>
-  </copyrightEntry>
+    SEE <see rid="GUID20001"><author>Randolph, Jennings</author></see>
+  </crossRef>
   <copyrightEntry id="GUID6" regnum="A53625">
     <author>
       <authorName>BELL, MARGARET ELIZABETH</authorName>
@@ -99,14 +100,14 @@
     <regDate date="1951-01-03">3Jan51</regDate>;
     <registrationNumber>A53040</registrationNumber>.
   </copyrightEntry>
-  <copyrightEntry id="GUID8">
+  <crossRef id="GUID8">
     <author>
-      <authorName>BELL, WILLIS HARVEY</authorName>.
+      <authorName>BELL, WILLIS HARVEY</authorName>,
       <role>joint author</role>
     </author>
     <title>Yuman Indian agriculture</title>.
     SEE <see rid="GUID20002">Castetter, E. F.</see>
-  </copyrightEntry>
+  </crossRef>
   <copyrightEntry id="GUID9" regnum="A55750">
     <author>
       <authorName>BELLAFIORE, JOSEPH</authorName>
