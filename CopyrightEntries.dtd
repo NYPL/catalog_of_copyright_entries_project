@@ -30,7 +30,7 @@
 <!ELEMENT newMatterClaimed (#PCDATA)>
 <!ELEMENT claimant (#PCDATA)>
 <!ELEMENT claimantPlace (#PCDATA)>
-<!ELEMENT note (#PCDATA)>
+<!ELEMENT note (#PCDATA | author | publisher )*>
 <!ELEMENT regDate (#PCDATA)>
 <!ATTLIST regDate
 	  date CDATA #REQUIRED>
