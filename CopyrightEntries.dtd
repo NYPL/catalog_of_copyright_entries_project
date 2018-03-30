@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT copyrightEntries (copyrightEntry+) >
+<!ELEMENT copyrightEntries (copyrightEntry | crossRef)+ >
 <!ELEMENT copyrightEntry ANY>
 <!ATTLIST copyrightEntry
 	  id NMTOKEN #REQUIRED
 	  regnum NMTOKEN #IMPLIED>
+
+<!ELEMENT crossRef (#PCDATA | author | title | see)*>
+<!ATTLIST crossRef
+	  id NMTOKEN #REQUIRED>
+          
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT author (#PCDATA | role | authorName|  authorBirth | authorDeath)*>
 <!ATTLIST author
@@ -30,6 +35,7 @@
 <!ELEMENT newMatterClaimed (#PCDATA)>
 <!ELEMENT claimant (#PCDATA)>
 <!ELEMENT claimantPlace (#PCDATA)>
+<!ELEMENT note (#PCDATA | author | publisher )*>
 <!ELEMENT regDate (#PCDATA)>
 <!ATTLIST regDate
 	  date CDATA #REQUIRED>
@@ -42,7 +48,7 @@
 <!ATTLIST affDate
 	  date CDATA #REQUIRED>
 <!ELEMENT noticeDate (#PCDATA)>
-<!ELEMENT see (#PCDATA)>
+<!ELEMENT see (#PCDATA | author | title | pubDate)*>
 <!ATTLIST see
 	  rid NMTOKEN #REQUIRED>
 <!ELEMENT registrationNumber (#PCDATA)>

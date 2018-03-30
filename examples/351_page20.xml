@@ -2,137 +2,140 @@
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
   <copyrightEntry id="GUID1" regnum="A50966">
-    <title>The Land of Pretend.</title>
     <author>
       <authorName>BELL, EDITH VIOLA</authorName>
     </author>
-    <desc>47 p. illus. [Poems for children]</desc>
+    <title>The Land of Pretend.</title>
+    <desc>[Poems for children]</desc>
     <edition>[Limited ed.]</edition>
+    [<note>
     <publisher>
       <pubPlace>Boston? Mass.</pubPlace>
       <pubDate>1950</pubDate>
     </publisher>
-    <claimant>Edith Viola Bell</claimant>
-    <regDate>1950-11-01</regDate>
-    <classCode>A</classCode>
+    </note>]
+    <desc>47 p. illus.</desc>
+    © <claimant>Edith Viola Bell</claimant>
+    <regDate date="1950-11-01">1Nov50</regDate>
+    <registrationNumber>A50966</registrationNumber>
   </copyrightEntry>
-  <copyrightEntry id="GUID2">
-    <title>Hypertension</title>
-    <author role="ed.">
-      <authorName>BELL, ELEXIOUS THOMPSON</authorName>
+  <crossRef id="GUID2">
+    <author>
+      <authorName>BELL, ELEXIOUS THOMPSON</authorName>,
+      <role>ed.</role>
     </author>
-    <see rid="GUID20000">Symposium on Hypertension, University of Minnesota, 1950</see>
-  </copyrightEntry>
+    <title>Hypertension</title>
+    SEE <see rid="GUID20000"><title>Symposium on Hypertension, University of Minnesota</title>, <pubDate>1950</pubDate></see>
+  </crossRef>
   <copyrightEntry id="GUID3" regnum="A50980">
-    <title>Mathematics, queen and servant of science. [An integration and amplification of The queen of the sciences (1931) and The handmaiden of the sciences (1937)]</title>
     <author>
       <authorName>BELL, ERIC TEMPLE</authorName>
     </author>
-    <desc>437 p. illus.</desc>
+    <title>Mathematics, queen and servant of science.</title>
+    <note>[An integration and amplification of The queen of the sciences (1931) and The handmaiden of the sciences (1937)]</note>
     <edition/>
     <publisher>
-      <pubName>McGraw-Hill</pubName>
-      <pubPlace>New York</pubPlace>
-      <pubDate/>
+      <pubPlace>New York</pubPlace>,
+      <pubName>McGraw-Hill</pubName>.
     </publisher>
-    <claimant>Eric Temple Bell</claimant>
-    <regDate>1951-01-02</regDate>
-    <classCode>A</classCode>
+    <desc>437 p. illus.</desc>
+    © <claimant>Eric Temple Bell</claimant>
+    <regDate date="1951-01-02">2Jan51</regDate>;
+    <registrationNumber>A50980</registrationNumber>.
   </copyrightEntry>
   <copyrightEntry id="GUID4" regnum="AF0-4873">
-    <title>Die zehn Gebote, als lebendige Kraft in heutigen Leben.</title>
     <author>
       <authorName>BELL, FREDERICK</authorName>
-    </author>
+    </author>.
+    <title>Die zehn Gebote, als lebendige Kraft in heutigen Leben</title>.
     <desc>151 p.</desc>
     <edition/>
-    <publisher>
-      <pubName>McGraw-Hill</pubName>
-      <pubPlace>New York</pubPlace>
-      <pubDate/>
-    </publisher>
-    <claimant>Rufer-Verlag</claimant>
-    <claimantPlace>Gütersloh</claimantPlace>
-    <regDate>1951-01-05</regDate>
-    <classCode>AF</classCode>
+    © <publisher>
+      <pubName claimant="yes">Rufer-Verlag</pubName>.
+      <pubPlace>Gütersloh</pubPlace>
+    </publisher>;
+    <regDate date="1951-01-05">5Jan51</regDate>;
+    <registrationNumber>AF0-4873</registrationNumber>.
   </copyrightEntry>
-  <copyrightEntry id="GUID5">
-    <title>Mr. Chairman</title>
-    <author role="joint_author">
-      <authorName>BELL, JAMES ALEXANDER</authorName>
+  <crossRef id="GUID5">
+    <author>
+      <authorName>BELL, JAMES ALEXANDER</authorName>,
+      <role>joint author</role>
     </author>
-    <see rid="GUID20001">Randolph, Jennings</see>
-  </copyrightEntry>
+    <title>Mr. Chairman</title>
+    SEE <see rid="GUID20001"><author>Randolph, Jennings</author></see>
+  </crossRef>
   <copyrightEntry id="GUID6" regnum="A53625">
-    <title>Ride out the storm.</title>
     <author>
       <authorName>BELL, MARGARET ELIZABETH</authorName>
-    </author>
-    <desc>256 p. [Morrow junior books]</desc>
+    </author>.
+    <title>Ride out the storm</title>.
+    <note>[
+      <author>
+        <role>Illus. by</role>
+        <authorName>Barye Phillips</authorName>
+      </author>
+    ]</note>
     <edition/>
     <publisher>
-      <pubName>Morrow</pubName>
-      <pubPlace>New York</pubPlace>
-      <pubDate/>
+      <pubPlace>New York</pubPlace>,
+      <pubName>Morrow</pubName>.
     </publisher>
-    <otherauthor role="illus.">Barye Phillips</otherauthor>
-    <claimant>Margaret E. Bell</claimant>
-    <regDate>1951-03-16</regDate>
-    <classCode>A</classCode>
+    <desc>256 p.</desc>
+    <note>[Morrow junior books]</note>
+    © <claimant>Margaret E. Bell</claimant>;
+    <regDate date="1951-03-16">16Mar51</regDate>;
+    <registrationNumber>A53625</registrationNumber>.
   </copyrightEntry>
   <copyrightEntry id="GUID7" regnum="A53040">
-    <title>The street singer.</title>
     <author>
-      <authorName>BELL, SALLIE LEE</authorName>
+      <authorName>BELL, SALLIE LEE</authorName>.
     </author>
+    <title>The street singer</title>.
     <desc>246 p.</desc>
-    <edition/>
     <publisher>
-      <pubName>Morrow</pubName>
-      <pubPlace>New York</pubPlace>
-      <pubDate/>
+      <pubName claimant="yes">Zondervan Pub. House</pubName>,
+      <pubPlace>Grand Rapids</pubPlace>;
     </publisher>
-    <otherauthor role="illus.">Barye Phillips</otherauthor>
-    <claimant>Zondervan Pub. House</claimant>
-    <claimantPlace>Grand Rapids</claimantPlace>
-    <regDate>1951-01-03</regDate>
-    <classCode>A</classCode>
+    <regDate date="1951-01-03">3Jan51</regDate>;
+    <registrationNumber>A53040</registrationNumber>.
   </copyrightEntry>
-  <copyrightEntry id="GUID8">
-    <title>Yuman Indian agriculture.</title>
-    <author role="joint_author">
-      <authorName>BELL, WILLIS HARVEY</authorName>
+  <crossRef id="GUID8">
+    <author>
+      <authorName>BELL, WILLIS HARVEY</authorName>,
+      <role>joint author</role>
     </author>
-    <see rid="GUID20002">Castetter, E. F.</see>
-  </copyrightEntry>
+    <title>Yuman Indian agriculture</title>.
+    SEE <see rid="GUID20002">Castetter, E. F.</see>
+  </crossRef>
   <copyrightEntry id="GUID9" regnum="A55750">
-    <title>Grammar for today.</title>
     <author>
       <authorName>BELLAFIORE, JOSEPH</authorName>
     </author>
+    <title>Grammar for today.</title>
     <desc>152 p.</desc>
-    <edition/>
-    <claimant>Amsco School Publications, inc.</claimant>
-    <claimantPlace>New York</claimantPlace>
-    <regDate>1951-05-01</regDate>
-    <classCode>A</classCode>
+    © <publisher>
+    <pubName claimant="yes">Amsco School Publications, inc.</pubName>,
+    <pubPlace>New York</pubPlace>;
+    </publisher>
+    <regDate date="1951-05-01">1May51</regDate>;
+    <registrationNumber>A55750</registrationNumber>.
   </copyrightEntry>
   <copyrightEntry id="GUID10" regnum="A54859">
-    <title>The Apache.</title>
     <author>
-      <authorName>BELLAH, JAMES WARNER.</authorName>
+      <authorName>BELLAH, JAMES WARNER</authorName>.
     </author>
-    <desc>[A shorter version appeared
+    <title>The Apache</title>.
+    <note>[A shorter version appeared
     in the Saturday evening post under the
     title The Apache curse] 158 p. (Gold
-    medal book, 155)</desc>
-    <edition/>
+    medal book, 155)</note>
     <publisher>
-      <pubName>Fawcett Publications</pubName>
-      <pubPlace>New York</pubPlace>
+      <pubPlace>New York</pubPlace>,
+      <pubName>Fawcett Publications</pubName>.
     </publisher>
-    <claimant>James Warner Bellah, inc.</claimant>
-    <regDate>1951-04-06</regDate>
-    <classCode>A</classCode>
+    © <claimant>James Warner Bellah, inc.</claimant>;
+    <regDate date="1951-04-06">6Apr51</regDate>;
+    <registrationNumber>A54859</registrationNumber>.
   </copyrightEntry>
 </copyrightEntries>
