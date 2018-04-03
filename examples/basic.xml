@@ -70,5 +70,30 @@
     <regDate date="1962-08-10">10Aug62</regDate>;
     <registrationNumber>A578172</registrationNumber>.
   </copyrightEntry>
-  
+
+  <!-- 1962 Books and Pamphlets July-Dec 3D Ser Vol 16 Pt 1 p. 1142 -->
+  <!-- https://archive.org/stream/catalogofcopyrig3161lib#page/1142/mode/1up -->
+  <entryGroup>
+    <author><authorName>ADLER, MORTIMER J.</authorName></author>
+    <copyrightEntry id="GUID4" regnum="A574004">
+      <title>Ethics; the study of moral values</title>,
+      <author><role>by</role> <authorName>Mortimer
+      J. Adler</authorName></author> &amp; <author><authorName>Seymour
+      Cain</authorName></author>. <author><role>Pref. by</role>
+      <authorName>William Ernest
+      Hocking</authorName></author>. (<series>The Great ideas program,
+      8</series>) © <claimant>Encyclopaedia Brittanica,
+      Inc.</claimant>; <regDate date="1962-07-02">2Jul62</regDate>;
+      <registrationNumber>A574004</registrationNumber>.
+    </copyrightEntry>
+
+    <copyrightEntry id="GUID5">
+      <title>Imaginative literatur I; from Homer
+      to Shakespeare</title>, <author><role>by</role> <authorName>Mortimer J.
+      Adler</authorName></author> &amp; <author><authorName>Seymour Cain</authorName></author>. <author><role>Pref. by</role>
+      <authorName>Saul Bellow</authorName></author>. (<series>The Great ideas
+      program, 6</series>) © <claimant>Encyclopaedia
+      Brittanica, Inc.</claimant>; <regDate date="1961-12-01">1Dec61</regDate>; <registrationNumber>A574002</registrationNumber>.
+    </copyrightEntry>
+  </entryGroup>
 </copyrightEntries>

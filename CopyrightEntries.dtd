@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT copyrightEntries (copyrightEntry | crossRef)+ >
+<!ELEMENT copyrightEntries (copyrightEntry | crossRef | entryGroup)+ >
 <!ELEMENT copyrightEntry ANY>
 <!ATTLIST copyrightEntry
 	  id NMTOKEN #REQUIRED
@@ -8,6 +8,8 @@
 <!ELEMENT crossRef (#PCDATA | author | title | see)*>
 <!ATTLIST crossRef
 	  id NMTOKEN #REQUIRED>
+
+<!ELEMENT entryGroup (author, (copyrightEntry|crossRef)+)*>
           
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT author (#PCDATA | role | authorName|  authorBirth | authorDeath)*>
