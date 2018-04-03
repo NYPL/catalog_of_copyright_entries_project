@@ -26,6 +26,8 @@
 <!ATTLIST pubName
 	  claimant (yes | no) "yes">
 <!ELEMENT pubDate (#PCDATA)>
+<!ATTLIST pubDate
+	  date CDATA #IMPLIED>
 <!ELEMENT publisher (#PCDATA | pubName | pubPlace | pubDate )* >
 <!ELEMENT volumes (#PCDATA)>
 <!ELEMENT vol (#PCDATA)>
@@ -54,5 +56,7 @@
 <!ATTLIST see
 	  rid NMTOKEN #REQUIRED>
 <!ELEMENT registrationNumber (#PCDATA)>
-
+<!ELEMENT additionalEntry ANY>
+<!ATTLIST additionalEntry
+	  regnum NMTOKEN #REQUIRED>
 
