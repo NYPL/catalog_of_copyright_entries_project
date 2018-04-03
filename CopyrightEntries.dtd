@@ -12,10 +12,13 @@
 <!ELEMENT entryGroup (author, (copyrightEntry|crossRef)+)*>
           
 <!ELEMENT title (#PCDATA)>
-<!ELEMENT author (#PCDATA | role | authorName|  authorBirth | authorDeath)*>
+<!ELEMENT author (#PCDATA | role | authorName|  authorBirth | authorDeath |
+	  authorPlace)*>
 <!ATTLIST author
+	  claimant (yes | no) "yes"
 	  role NMTOKEN #IMPLIED>
 <!ELEMENT authorName (#PCDATA)>
+<!ELEMENT authorPlace (#PCDATA)>
 <!ELEMENT role (#PCDATA)>
 <!ELEMENT authorBirth (#PCDATA)>
 <!ELEMENT authorDeath (#PCDATA)>
