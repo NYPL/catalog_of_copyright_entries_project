@@ -9,9 +9,9 @@ The aim of this XML format is to be descriptive, not to specify the "perfect" ca
    
 Because there is such a wide variation in the formats of the entries,
 some of the definition has to be very generous. Anything added will be
-added as attributes of the various elements, so that it the XML is
+added as attributes of the various elements, so that if the XML is
 stripped out, the original text of the entry will remain. We are not
-concerned with formatting ssuch as lin breaks and font changes.
+concerned with formatting such as line breaks and font changes.
 
 ## Top level elements
 
@@ -46,7 +46,7 @@ title, and publisher, along with the date (`6Jun51`) and the number
 	  
 Each of these examples would be contained in a `catalogEntry` element. Each entry will have unique ID for reference, and the registration number will be repeated as a `regnum` attribute:
 
-      <copyrightEntry id="[GUID]" regnum="A50966">
+      <copyrightEntry id="[GUID]" regnum="A56505">
           ...
       </copyrightEntry>
 
@@ -77,8 +77,7 @@ When multiple entries are listed under a single author, the are an
 		program, 6) © Encyclopaedia
         Brittanica, Inc.; 1Dec61; A574002.
 
-These two entries would be marked up as an `entryGroup` with and
-,`author` and two `catalogEntry` elements:
+These two entries would be marked up as an `entryGroup` with an `author` and two `catalogEntry` elements:
 
     <entryGroup>
       <author><authorName>ADLER, MORTIMER J.</authorName><author>
@@ -109,7 +108,7 @@ These are contained in a `crossRef` element, which is mostly like a `copyrightEn
 	  <pubDate>1950</pubDate></see>
     </crossRef>
 	
-The `rid` attribrute of the `see` element point to the `id` of the
+The `rid` attribrute of the `see` element should point to the `id` of the
 corresponding `copyrightEntry`.
 
 ## Contents of a `copyrightEntry`
@@ -125,12 +124,12 @@ A `copyrightEntry` is has no required or forbidden children, so it is very flexi
    will suffice for all these variations to be contained in an
    `authorName` as a lot of indexing and massaging will probably
    required later to make them useful, anyway.
-3. Punctuation and symbols do not need to be marked up. Exclued as
+3. Punctuation and symbols do not need to be marked up. Exclude as
    much punctuation as possible from the contents of elements.
 
 ### `author`
 
-An author can contain `authorName`, `authorBirth`, `authorDeath`, ` authorPlace` and `role` in any combination. `author` is used both when the authors name is an implicit or explicit heading, and when it is in the body of an entry
+An author can contain `authorName`, `authorBirth`, `authorDeath`, ` authorPlace` and `role` in any combination. `author` is used both when the author's name is an implicit or explicit heading, and when it is in the body of an entry
 
 
     <copyrightEntry id="[GUID]" regnum="A56505">
@@ -184,9 +183,9 @@ An author can contain `authorName`, `authorBirth`, `authorDeath`, ` authorPlace`
 Note that, in the first example, the name in `© J. Donald Adams` is
 not an `author` (see `claimant` below). 
 
-In the last example, the asterisk after eahj of the authors names
+In the last example, the asterisk after each of the authors' names
 indicates that they are the copyright claimants. We record this by
-adding the attribute,`claimant="yes"`. The asterix dows not need to be
+adding the attribute,`claimant="yes"`. The asterix does not need to be
 included in any element.
 
 ### `title`
@@ -204,7 +203,7 @@ Simple, the title of the work.
 	
 ### `publisher`
 
-A `publisher` can contain `pubPlace`, and `pubDate`:
+A `publisher` can contain `pubName`, `pubPlace`, and `pubDate`:
 
     <copyrightEntry id="[GUID]" regnum="A56505">
       <author><authorName>ADAMS, JAMES DONALD</authorName></author>.
@@ -265,7 +264,7 @@ Pagination, book dimensions, etc. are contained in a `desc` element
 
 ### Copyright claim details
 
-The most important items in these entries are the details of the copyright claim. Each entry should have a claimant (explicit or implied) a registration date (`regDate`) and a `regNum`. In addition there are elements to record the number of copies depositied (`copies`) and the other date (`affDate`).
+The most important items in these entries are the details of the copyright claim. Each entry should have a claimant (explicit or implied) a registration date (`regDate`) and a registration number (`regNum`). In addition there are elements to record the number of copies depositied (`copies`) and the other dates (`affDate`).
 
     <copyrightEntry id="[GUID]" regnum="A56505">
       <author><authorName>ADAMS, JAMES DONALD</authorName></author>.
@@ -277,7 +276,7 @@ The most important items in these entries are the details of the copyright claim
 		<regdate date="1951-06-06">6Jun51</regDate>; <regNum>A56505</regNum>.
     </copyrightEntry>
 	
-`regDate` must have a `date` attribute with a normalized form (YYY-MM-DD). The registration number should both be marked up with a `regNum` element _and_ duplicated as the `regnum` attribute of the `copyrightEntry`. The claimant may the same as the author, as above, or be the publisher. In neither case is the `claimant` further parsed as an `author` or a `publisher`
+`regDate` must have a `date` attribute with a normalized form (YYYY-MM-DD). The registration number should both be marked up with a `regNum` element _and_ duplicated as the `regnum` attribute of the `copyrightEntry`. The claimant may the same as the author, as above, or be the publisher. In neither case is the `claimant` further parsed as an `author` or a `publisher`
 
     <copyrightEntry id="[GUID]" regnum="A17700">
       <author><authorName>Burnett, William Riley</authorName>,
@@ -324,7 +323,7 @@ Sometimes there extra information is given in brackets or parentheses. These can
 
 Multiple volumes or issues of a work may be joined in a single entry. For this there is `additionalEntry`. The entry should be marked up as it would be for a single registration through the first registration number, then as many `additionalEntry` elements as necessary are added. An `additionalEntry` can contain any of the elements that a `copyrightEntry` can, but each will be distinguished by it's own `regNum` and probably `regDate`:
 
-    <copyrightEntry id="GUID6" regnum="BB21264">
+    <copyrightEntry id="[GUID]" regnum="BB21264">
       <title>THE ADVENTURES OF HAP HAZARD</title> <note>(in The
       Co-operator)</note> <author><role>Appl. author</role>:
       <authorName>Jack Hamilton</authorName></author>. ©
