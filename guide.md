@@ -100,7 +100,7 @@ Some entries are simply cross-references:
 	  
 These are contained in a `crossRef` element, which is mostly like a `copyrightEntry` except that it doesn't have a registration number, but does have a `see` element:
 
-    <crossRef id="[GUID[">
+    <crossRef id="[GUID]">
       <author><authorName>BELL, ELEXIOUS THOMPSON</authorName>, 
 	  <role>ed.</role></author>
       <title>Hypertension</title> SEE <see rid="[GUID]">
