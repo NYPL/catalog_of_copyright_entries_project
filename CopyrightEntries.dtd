@@ -58,7 +58,7 @@
 <!ELEMENT see (#PCDATA | author | title | pubDate)*>
 <!ATTLIST see
 	  rid NMTOKEN #REQUIRED>
-<!ELEMENT registrationNumber (#PCDATA)>
+<!ELEMENT regNum (#PCDATA)>
 <!ELEMENT additionalEntry ANY>
 <!ATTLIST additionalEntry
 	  regnum NMTOKEN #REQUIRED>

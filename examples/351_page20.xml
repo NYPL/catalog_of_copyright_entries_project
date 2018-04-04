@@ -17,7 +17,7 @@
     <desc>47 p. illus.</desc>
     © <claimant>Edith Viola Bell</claimant>
     <regDate date="1950-11-01">1Nov50</regDate>
-    <registrationNumber>A50966</registrationNumber>
+    <regNum>A50966</regNum>
   </copyrightEntry>
   <crossRef id="GUID2">
     <author>
@@ -41,7 +41,7 @@
     <desc>437 p. illus.</desc>
     © <claimant>Eric Temple Bell</claimant>
     <regDate date="1951-01-02">2Jan51</regDate>;
-    <registrationNumber>A50980</registrationNumber>.
+    <regNum>A50980</regNum>.
   </copyrightEntry>
   <copyrightEntry id="GUID4" regnum="AF0-4873">
     <author>
@@ -55,7 +55,7 @@
       <pubPlace>Gütersloh</pubPlace>
     </publisher>;
     <regDate date="1951-01-05">5Jan51</regDate>;
-    <registrationNumber>AF0-4873</registrationNumber>.
+    <regNum>AF0-4873</regNum>.
   </copyrightEntry>
   <crossRef id="GUID5">
     <author>
@@ -85,7 +85,7 @@
     <note>[Morrow junior books]</note>
     © <claimant>Margaret E. Bell</claimant>;
     <regDate date="1951-03-16">16Mar51</regDate>;
-    <registrationNumber>A53625</registrationNumber>.
+    <regNum>A53625</regNum>.
   </copyrightEntry>
   <copyrightEntry id="GUID7" regnum="A53040">
     <author>
@@ -98,7 +98,7 @@
       <pubPlace>Grand Rapids</pubPlace>;
     </publisher>
     <regDate date="1951-01-03">3Jan51</regDate>;
-    <registrationNumber>A53040</registrationNumber>.
+    <regNum>A53040</regNum>.
   </copyrightEntry>
   <crossRef id="GUID8">
     <author>
@@ -119,7 +119,7 @@
     <pubPlace>New York</pubPlace>;
     </publisher>
     <regDate date="1951-05-01">1May51</regDate>;
-    <registrationNumber>A55750</registrationNumber>.
+    <regNum>A55750</regNum>.
   </copyrightEntry>
   <copyrightEntry id="GUID10" regnum="A54859">
     <author>
@@ -136,6 +136,6 @@
     </publisher>
     © <claimant>James Warner Bellah, inc.</claimant>;
     <regDate date="1951-04-06">6Apr51</regDate>;
-    <registrationNumber>A54859</registrationNumber>.
+    <regNum>A54859</regNum>.
   </copyrightEntry>
 </copyrightEntries>

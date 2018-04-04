@@ -18,8 +18,8 @@
 
     © <regDate date="1926-12-23">Dec. 23, 1926</regDate>; <copies
     num="2">2c</copies> and aff. <affDate
-    date="1926-12-31">Dec. 31</affDate>; <registrationNumber>A
-    957926</registrationNumber>; <claimant>Outdoor enterprise
+    date="1926-12-31">Dec. 31</affDate>; <regNum>A
+    957926</regNum>; <claimant>Outdoor enterprise
     pub. co.</claimant> (27-1104) 17
   </copyrightEntry>
 
@@ -40,8 +40,8 @@
     <desc> 5 p. l., 3-312 p. 19 ½ cm.</desc> © <regDate
     date="1930-01-02">Jan. 2, 1930</regDate>; <copies
     num="2">2c</copies> and aff. <affDate
-    date="1930-01-06">Jan. 6</affDate>; <registrationNumber>A
-    17700</registrationNumber>; <claimant>Dial Press, inc.</claimant>
+    date="1930-01-06">Jan. 6</affDate>; <regNum>A
+    17700</regNum>; <claimant>Dial Press, inc.</claimant>
     (30-842) 11
   </copyrightEntry>
 
@@ -55,7 +55,7 @@
     <authorName>C. P. Curtis, jr.</authorName></author> and
     <author><authorName>Ferris Greenslet</authorName></author>. ©
     <regDate date="1945-10-09">>Oct. 9, 1945</regDate>;
-    <registrationNumber>A 190420</registrationNumber>.
+    <regNum>A 190420</regNum>.
   </copyrightEntry>
 
   <copyrightEntry id="GUI8" regnum="A189950">
@@ -69,7 +69,7 @@
     Obeler</authorName></author>, <author><authorName>Archibald
     MacLeish</authorName></author> <note>[and others]</note> ©
     <regDate date="1945-09-17">Sept.  17, 1945</regDate>;
-    <registrationNumber>A 189950</registrationNumber>. 5511
+    <regNum>A 189950</regNum>. 5511
   </copyrightEntry>
 
   <!-- 1951 Books Jan-Dec 3D Ser Vol 5 Pt 1A p. 402 -->
@@ -82,7 +82,7 @@
     Pearce</pubName></publisher>.  <desc>175 p.</desc> ©
     <claimant>J.Donald Adams</claimant>; <regDate
     date="1950-06-06">6Jun51</regDate>;
-    <registrationNumber>A56505</registrationNumber>.
+    <regNum>A56505</regNum>.
   </copyrightEntry>
 
 
@@ -95,7 +95,7 @@
     claimant="yes">Lea &amp; Febiger</pubName></publisher>;
 
     <regDate date="1962-08-10">10Aug62</regDate>;
-    <registrationNumber>A578172</registrationNumber>.
+    <regNum>A578172</regNum>.
   </copyrightEntry>
 
   <!-- 1962 Books and Pamphlets July-Dec 3D Ser Vol 16 Pt 1 p. 1142 -->
@@ -116,7 +116,7 @@
       Hocking</authorName></author>. (<series>The Great ideas program,
       8</series>) © <claimant>Encyclopaedia Brittanica,
       Inc.</claimant>; <regDate date="1962-07-02">2Jul62</regDate>;
-      <registrationNumber>A574004</registrationNumber>.
+      <regNum>A574004</regNum>.
     </copyrightEntry>
 
     <copyrightEntry id="GUID5" regnum="A574002">
@@ -129,7 +129,7 @@
       Great ideas program, 6</series>) © <claimant>Encyclopaedia
       Brittanica, Inc.</claimant>; <regDate
       date="1961-12-01">1Dec61</regDate>;
-      <registrationNumber>A574002</registrationNumber>.
+      <regNum>A574002</regNum>.
     </copyrightEntry>
   </entryGroup>
 
@@ -149,26 +149,26 @@
     <publisher><pubName claimant="yes">Employers Casualty
     Co.</pubName> <pubDate date="1962-07">Jul62></pubDate></publisher>
     © <regDate date="1962-07-12">12Jul</regDate>;
-    <registrationNumber>BB21264</registrationNumber>.
+    <regNum>BB21264</regNum>.
     <additionalEntry regnum="BB21524">
       <pubDate date="1962-08">Aug62</pubDate>
       © <regDate date="1962-08-15">15Aug</regDate>;
-      <registrationNumber>BB21524</registrationNumber>
+      <regNum>BB21524</regNum>
     </additionalEntry>.
     <additionalEntry regnum="BB21695">
       <pubDate date="1962-09">Sep62</pubDate>
       © <regDate date="1962-09-11">11Sep</regDate>;
-      <registrationNumber>BB21695</registrationNumber>
+      <regNum>BB21695</regNum>
     </additionalEntry>.
     <additionalEntry regnum="BB21839">
       <pubDate date="1962-10">Oct62</pubDate>
       © <regDate date="1962-10-05">5Oct</regDate>;
-      <registrationNumber>BB21839</registrationNumber>
+      <regNum>BB21839</regNum>
     </additionalEntry>.
     <additionalEntry regnum="BB22021">
       <pubDate date="1962-11">Oct62</pubDate>
       © <regDate date="1962-10-23">23Oct</regDate>;
-      <registrationNumber>BB22010</registrationNumber>
+      <regNum>BB22010</regNum>
     </additionalEntry>.
   </copyrightEntry>
   
