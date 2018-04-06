@@ -171,5 +171,16 @@
       <regNum>BB22010</regNum>
     </additionalEntry>.
   </copyrightEntry>
+
+
+  <!-- Range of registration numbers -->
+  <copyrightEntry id="GUID" regnum="A160078 A160079 A160080">
+    <title>Callaghan's Michigan digest</title>, <desc>v.16-18</desc>
+    © <regDate date="1941-12-15">Dec. 15, 1941</regDate>; 
+    <regNum>A 160078-160080</regNum>; 
+    <publisher><pubName claimant="yes">Callaghan &amp; co.</pubName>, 
+    <pubPlace>Chicago</pubPlace></publisher>.
+    103-105
+  </copyrightEntry>
   
 </copyrightEntries>

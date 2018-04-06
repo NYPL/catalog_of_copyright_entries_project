@@ -3,7 +3,7 @@
 <!ELEMENT copyrightEntry ANY>
 <!ATTLIST copyrightEntry
 	  id NMTOKEN #REQUIRED
-	  regnum NMTOKEN #IMPLIED>
+	  regnum NMTOKENS #IMPLIED>
 
 <!ELEMENT crossRef (#PCDATA | author | title | see)*>
 <!ATTLIST crossRef
