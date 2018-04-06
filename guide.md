@@ -355,4 +355,27 @@ Multiple volumes or issues of a work may be joined in a single entry. For this t
 	
 Note that the `copyrightEntry` as a whole has the first `regNum` as its `regnum` attribute.
 
+Sometimes the registrations are expressed as a range:
+
+    Callaghan's Michigan digest, v.16-18 © Dec. 15,
+    1941; A 160078-160080; Callaghan & co., Chicago.
+	                                         103-105
+											 
+In this case wrap the registration numbers in a `regNum` element as
+they are. The explicit range of registration numbers is expressed in
+the `regnum` attribute of the `copyrightEntry`:
+
+
+    <copyrightEntry id="[GUID]" regnum="A160078 A160079 A160080">
+      <title>Callaghan's Michigan digest</title>, <desc>v.16-18</desc>
+      © <regDate date="1941-12-15">Dec. 15, 1941</regDate>; 
+      <regNum>A 160078-160080</regNum>; 
+      <publisher><pubName claimant="yes">Callaghan &amp; co.</pubName>, 
+      <pubPlace>Chicago</pubPlace></publisher>.
+      103-105
+    </copyrightEntry>
+
+
+    
+
 
