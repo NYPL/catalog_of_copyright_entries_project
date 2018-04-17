@@ -8,6 +8,8 @@
 	  id NMTOKEN #REQUIRED
 	  regnum NMTOKENS #IMPLIED>
 <!ATTLIST crossRef>
+<!ATTLIST crossRef
+	  id NMTOKEN #REQUIRED>
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT author (#PCDATA | role | authorName | authorPlace | authorBirth | authorDeath)*>
 <!ATTLIST author
