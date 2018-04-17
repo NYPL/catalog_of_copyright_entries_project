@@ -43,7 +43,7 @@
 <!ELEMENT classCode (#PCDATA)>
 <!ELEMENT copies (#PCDATA)>
 <!ATTLIST copies
-	  Num NMTOKEN #IMPLIED>
+	  num NMTOKEN #IMPLIED>
 <!ELEMENT copyDate (#PCDATA)>
 <!ATTLIST copyDate
 	  date NMTOKEN #REQUIRED>
