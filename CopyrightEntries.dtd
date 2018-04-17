@@ -13,7 +13,7 @@
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT author (#PCDATA | role | authorName | authorPlace | authorBirth | authorDeath)*>
 <!ATTLIST author
-	  claimant (no|yes) #IMPLIED>
+	  claimant ( no | yes ) "no">
 <!ELEMENT authorName (#PCDATA)>
 <!ELEMENT authorPlace (#PCDATA)>
 <!ELEMENT authorBirth (#PCDATA)>
@@ -24,7 +24,7 @@
 <!ELEMENT pubPlace (#PCDATA)>
 <!ELEMENT pubName (#PCDATA)>
 <!ATTLIST pubName 
-	  claimant NMTOKEN #IMPLIED>
+	  claimant ( yes | no ) "no">
 <!ELEMENT pubDate (#PCDATA)>
 <!ATTLIST pubDate 
             date NMTOKEN #REQUIRED>
