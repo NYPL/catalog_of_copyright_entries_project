@@ -51,7 +51,7 @@
 <!ATTLIST affDate
 	  date NMTOKEN #REQUIRED>
 <!ELEMENT noticeDate (#PCDATA)>
-<!ELEMENT note (#PCDATA)>
+<!ELEMENT note (#PCDATA | author | publisher )*>
 <!ELEMENT see (#PCDATA | author | title | pubPlace | pubDate)*>
 <!ATTLIST see
 	  rid NMTOKEN #REQUIRED>
