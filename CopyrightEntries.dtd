@@ -1,65 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT copyrightEntries (copyrightEntry | crossRef | entryGroup)+ >
-<!ELEMENT copyrightEntry ANY>
+<!ELEMENT copyrightEntries (#PCDATA | copyrightEntry | entryGroup | crossRef)*>
+<!ELEMENT copyrightEntry (#PCDATA | title | author | role | desc | edition | pubPlace | publisher | volumes | series | copyDate | prevPub | employerName | prev-regNum | newMatterClaimed | pubDate | pubName | claimant | claimantPlace | regDate | regNum | classCode | copies | affDate | vol | noticeDate | note | additionalEntry)*>
+<!ELEMENT crossRef (#PCDATA | title | author | see)*>
+<!ELEMENT entryGroup (#PCDATA | title | author | copyrightEntry | crossRef)*>
+
 <!ATTLIST copyrightEntry
 	  id NMTOKEN #REQUIRED
 	  regnum NMTOKENS #IMPLIED>
-
-<!ELEMENT crossRef (#PCDATA | author | title | see)*>
-<!ATTLIST crossRef
-	  id NMTOKEN #REQUIRED>
-
-<!ELEMENT entryGroup (author, (copyrightEntry|crossRef)+)*>
-          
+<!ATTLIST crossRef>
 <!ELEMENT title (#PCDATA)>
-<!ELEMENT author (#PCDATA | role | authorName|  authorBirth | authorDeath |
-	  authorPlace)*>
+<!ELEMENT author (#PCDATA | role | authorName | authorPlace | authorBirth | authorDeath)*>
 <!ATTLIST author
-	  claimant (yes | no) "yes"
-	  role NMTOKEN #IMPLIED>
+	  claimant (no|yes) #IMPLIED>
 <!ELEMENT authorName (#PCDATA)>
 <!ELEMENT authorPlace (#PCDATA)>
-<!ELEMENT role (#PCDATA)>
 <!ELEMENT authorBirth (#PCDATA)>
 <!ELEMENT authorDeath (#PCDATA)>
+<!ELEMENT role (#PCDATA)>
 <!ELEMENT desc (#PCDATA)>
 <!ELEMENT edition (#PCDATA)>
 <!ELEMENT pubPlace (#PCDATA)>
 <!ELEMENT pubName (#PCDATA)>
-<!ATTLIST pubName
-	  claimant (yes | no) "yes">
+<!ATTLIST pubName 
+	  claimant NMTOKEN #IMPLIED>
 <!ELEMENT pubDate (#PCDATA)>
-<!ATTLIST pubDate
-	  date CDATA #IMPLIED>
-<!ELEMENT publisher (#PCDATA | pubName | pubPlace | pubDate )* >
+<!ATTLIST pubDate 
+            Date NMTOKEN #REQUIRED>
+<!ELEMENT publisher (#PCDATA | pubName | pubPlace | pubDate)*>
 <!ELEMENT volumes (#PCDATA)>
 <!ELEMENT vol (#PCDATA)>
 <!ELEMENT series (#PCDATA)>
-<!ELEMENT issuedInAnotherWork (#PCDATA)>
-<!ELEMENT otherauthor (#PCDATA)>
+<!ELEMENT prevPub (#PCDATA | role | author | regDate | prev-regNum)*>
 <!ELEMENT employerName (#PCDATA)>
-<!ELEMENT prev-regnum (#PCDATA)>
+<!ELEMENT prev-regNum (#PCDATA)>
 <!ELEMENT newMatterClaimed (#PCDATA)>
 <!ELEMENT claimant (#PCDATA)>
 <!ELEMENT claimantPlace (#PCDATA)>
-<!ELEMENT note (#PCDATA | author | publisher )*>
 <!ELEMENT regDate (#PCDATA)>
-<!ATTLIST regDate
-	  date CDATA #REQUIRED>
+<!ATTLIST regDate  
+      Date NMTOKEN #REQUIRED>
+<!ELEMENT regNum (#PCDATA)>
 <!ELEMENT classCode (#PCDATA)>
 <!ELEMENT copies (#PCDATA)>
 <!ATTLIST copies
-	  date NMTOKEN #IMPLIED
-	  num CDATA #IMPLIED>
+	  Num NMTOKEN #IMPLIED>
+<!ELEMENT copyDate (#PCDATA)>
+<!ATTLIST copyDate
+	  Date NMTOKEN #REQUIRED>
 <!ELEMENT affDate (#PCDATA)>
 <!ATTLIST affDate
-	  date CDATA #REQUIRED>
+	  Date NMTOKEN #REQUIRED>
 <!ELEMENT noticeDate (#PCDATA)>
-<!ELEMENT see (#PCDATA | author | title | pubDate)*>
+<!ELEMENT note (#PCDATA)>
+<!ELEMENT see (#PCDATA | author | title | pubPlace | pubDate)*>
 <!ATTLIST see
 	  rid NMTOKEN #REQUIRED>
-<!ELEMENT regNum (#PCDATA)>
-<!ELEMENT additionalEntry ANY>
+<!ELEMENT additionalEntry (#PCDATA | pubPlace | publisher | volumes | series | prevPub | employerName | copyDate | prev-regNum | newMatterClaimed | pubDate | pubName | claimant | claimantPlace | regDate | regNum | classCode | copies | affDate | vol | noticeDate | note)*>
 <!ATTLIST additionalEntry
-	  regnum NMTOKEN #REQUIRED>
-
+	  regnum NMTOKEN #IMPLIED>
