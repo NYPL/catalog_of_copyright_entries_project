@@ -25,7 +25,7 @@
 	  claimant NMTOKEN #IMPLIED>
 <!ELEMENT pubDate (#PCDATA)>
 <!ATTLIST pubDate 
-            Date NMTOKEN #REQUIRED>
+            date NMTOKEN #REQUIRED>
 <!ELEMENT publisher (#PCDATA | pubName | pubPlace | pubDate)*>
 <!ELEMENT volumes (#PCDATA)>
 <!ELEMENT vol (#PCDATA)>
@@ -38,7 +38,7 @@
 <!ELEMENT claimantPlace (#PCDATA)>
 <!ELEMENT regDate (#PCDATA)>
 <!ATTLIST regDate  
-      Date NMTOKEN #REQUIRED>
+      date NMTOKEN #REQUIRED>
 <!ELEMENT regNum (#PCDATA)>
 <!ELEMENT classCode (#PCDATA)>
 <!ELEMENT copies (#PCDATA)>
@@ -46,10 +46,10 @@
 	  Num NMTOKEN #IMPLIED>
 <!ELEMENT copyDate (#PCDATA)>
 <!ATTLIST copyDate
-	  Date NMTOKEN #REQUIRED>
+	  date NMTOKEN #REQUIRED>
 <!ELEMENT affDate (#PCDATA)>
 <!ATTLIST affDate
-	  Date NMTOKEN #REQUIRED>
+	  date NMTOKEN #REQUIRED>
 <!ELEMENT noticeDate (#PCDATA)>
 <!ELEMENT note (#PCDATA)>
 <!ELEMENT see (#PCDATA | author | title | pubPlace | pubDate)*>

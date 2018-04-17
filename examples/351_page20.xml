@@ -11,7 +11,7 @@
     [<note>
     <publisher>
       <pubPlace>Boston? Mass.</pubPlace>
-      <pubDate>1950</pubDate>
+      <pubDate date="1950">1950</pubDate>
     </publisher>
     </note>]
     <desc>47 p. illus.</desc>
@@ -25,7 +25,7 @@
       <role>ed.</role>
     </author>
     <title>Hypertension</title>
-    SEE <see rid="GUID20000"><title>Symposium on Hypertension, University of Minnesota</title>, <pubDate>1950</pubDate></see>
+    SEE <see rid="GUID20000"><title>Symposium on Hypertension, University of Minnesota</title>, <pubDate date="1950">1950</pubDate></see>
   </crossRef>
   <copyrightEntry id="GUID3" regnum="A50980">
     <author>
