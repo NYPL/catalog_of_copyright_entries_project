@@ -275,8 +275,38 @@ The most important items in these entries are the details of the copyright claim
 		© <claimant>J. Donald Adams</claimant>; 
 		<regdate date="1951-06-06">6Jun51</regDate>; <regNum>A56505</regNum>.
     </copyrightEntry>
+
+#### regNum
+
+Every `<copyrightEntry>` should have a regnum. We _have_ found entries published without one, though. The registration number should both be marked up with a `regNum` element _and_ duplicated and regularized as the `regnum` attribute of the `copyrightEntry`. Most regNums follow the format
+
+    [class][serial prefix][serial number]
 	
-`regDate` must have a `date` attribute with a normalized form (YYYY-MM-DD). The registration number should both be marked up with a `regNum` element _and_ duplicated as the `regnum` attribute of the `copyrightEntry`. The claimant may the same as the author, as above, or be the publisher. In neither case is the `claimant` further parsed as an `author` or a `publisher`
+Where class is one of `A`, `AF`, or `AI` (though there are more than a dozen other class codes, so far only `AA`, `B`, `DF`, `DP`, `JP`, and `K`). Serial numbers consist only of the digits 0-9. The only serial prefix is `0-`. Examples of canonical registration numbers:
+
+    A12345
+    AF12345
+    AF0-12345
+    AI12345
+    AI0-12345
+
+Earlier volumes use fewer prefixes, but different class formats, usually with spaces between the class code and serial number. These registration numbers should be transcribed _verbatim_ in `<regNum>` entities, but regularized in the `regnum` attributes of `<copyrightEntry>` elements according to these examples:
+
+| `<regNum>`| regularized (for `regnum` attribute)|
+|-------------|-------------------------------------|
+| A 963122| A963122 |
+| A—Foreign 32851 | AF32851 |
+| A for. 48359 | AF48359 |
+| A ad int. 8956 | AI8956 |
+| A int. 241 | AI241 |
+
+#### regDate
+
+`regDate` (and other date elements) must have a `date` attribute with a normalized form (`YYYY-MM-DD` or `YYYY`). Registration dates should not be more than one year later than the date of the volume, or more than 28 years earlier. For instance, the 1951 volume should not have any entries with a `regDate` earlier than 1923 or later than 1952,
+
+#### claimant
+
+The claimant may the same as the author, as above, or be the publisher. In neither case is the `claimant` further parsed as an `author` or a `publisher`
 
     <copyrightEntry id="[GUID]" regnum="A17700">
       <author><authorName>Burnett, William Riley</authorName>,
