@@ -127,6 +127,20 @@ A `copyrightEntry` is has no required or forbidden children, so it is very flexi
 3. Punctuation and symbols do not need to be marked up. Exclude as
    much punctuation as possible from the contents of elements.
 
+There are some general rules and expectations.
+
+1. Every entry _must_ have a title.
+2. Every entry _should_ have a registration date. We have found
+   examples without but they are aberrant.
+3. Every entry _should_ have a registration number. Again, there are
+   aberrant examples.
+4. Every entry _should_ have a claimant. If there is a publisher
+   listed, and no other indication of the claimant, the publisher is
+   the claimant. Some volumes use an asterisk to mark the author when
+   the author is a claimant. If there is no publisher listed, the
+   author is probably the claimant whether or not marked with an
+   asterisk.
+
 ### `author`
 
 An author can contain `authorName`, `authorBirth`, `authorDeath`, ` authorPlace` and `role` in any combination. `author` is used both when the author's name is an implicit or explicit heading, and when it is in the body of an entry
