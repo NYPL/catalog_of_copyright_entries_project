@@ -194,13 +194,16 @@ An author can contain `authorName`, `authorBirth`, `authorDeath`, ` authorPlace`
 	  © Oct. 9, 1945; A 190420.
     </copyrightEntry>
 
+	
 Note that, in the first example, the name in `© J. Donald Adams` is
 not an `author` (see `claimant` below). 
 
-In the last example, the asterisk after each of the authors' names
+In the second example, the asterisk after each of the authors' names
 indicates that they are the copyright claimants. We record this by
 adding the attribute,`claimant="yes"`. The asterix does not need to be
 included in any element.
+
+The last example show a common case of new matter claimed, with a `regDate` for the new matter and a claimant (often just indicated as "publisher" or "author").
 
 ### `title`
 
