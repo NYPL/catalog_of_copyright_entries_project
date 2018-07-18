@@ -2974,7 +2974,7 @@
 					</TextLine>
 					<TextLine ID="TL_1.6.13" HPOS="7892" VPOS="2328" HEIGHT="100" WIDTH="936">
 						<String CONTENT="see " ID="St_1.6.13.1" HPOS="7892" VPOS="2332" HEIGHT="88" WIDTH="76" STYLEREFS="Style_48" WC="1" CC="0"/>
-						<String CONTENT="Psychiatrie " ID="St_1.6.13.2" HPOS="7968" VPOS="2332" HEIGHT="88" WIDTH="96" STYLEREFS="Style_48" WC="1" CC="00"/>
+						<String CONTENT="Psychiatric " ID="St_1.6.13.2" HPOS="7968" VPOS="2332" HEIGHT="88" WIDTH="96" STYLEREFS="Style_48" WC="1" CC="00"/>
 						<String CONTENT="research" ID="St_1.6.13.3" HPOS="8072" VPOS="2328" HEIGHT="92" WIDTH="64" STYLEREFS="Style_48" WC="1" CC="0"/>
 						<String CONTENT=". " ID="St_1.6.13.4" HPOS="8136" VPOS="2344" HEIGHT="76" WIDTH="52" STYLEREFS="Style_48" WC="1" CC="0"/>
 						<String CONTENT="Papers " ID="St_1.6.13.5" HPOS="8192" VPOS="2364" HEIGHT="64" WIDTH="28" STYLEREFS="Style_48" WC="1" CC="0"/>

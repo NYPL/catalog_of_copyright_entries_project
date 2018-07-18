@@ -203,7 +203,7 @@
 						<SP ID="SP_1.2.9.2" HPOS="516" VPOS="2084" WIDTH="32"/>
 						<String CONTENT="see " ID="St_1.2.9.3" HPOS="572" VPOS="2052" HEIGHT="92" WIDTH="76" STYLEREFS="Style_17" WC="1" CC="0"/>
 						<String CONTENT="Sherman" ID="St_1.2.9.4" HPOS="664" VPOS="2052" HEIGHT="88" WIDTH="24" STYLEREFS="Style_17" WC="1" CC="0"/>
-						<String CONTENT=". " ID="St_1.2.9.5" HPOS="692" VPOS="2080" HEIGHT="64" WIDTH="124" STYLEREFS="Style_17" WC="1" CC="00"/>
+						<String CONTENT=", " ID="St_1.2.9.5" HPOS="692" VPOS="2080" HEIGHT="64" WIDTH="124" STYLEREFS="Style_17" WC="1" CC="00"/>
 						<String CONTENT="Hoyt " ID="St_1.2.9.6" HPOS="820" VPOS="2080" HEIGHT="64" WIDTH="68" STYLEREFS="Style_17" WC="1" CC="0"/>
 						<SP ID="SP_1.2.9.7" HPOS="852" VPOS="2064" WIDTH="52"/>
 						<String CONTENT="Leon" ID="St_1.2.9.8" HPOS="928" VPOS="2052" HEIGHT="92" WIDTH="160" STYLEREFS="Style_17" WC="1" CC="00"/>
