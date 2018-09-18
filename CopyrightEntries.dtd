@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!ELEMENT copyrightEntries (#PCDATA | copyrightEntry | entryGroup | crossRef | page)*>
-<!ELEMENT copyrightEntry (#PCDATA | title | author | desc | edition | publisher | volumes | series | copyDate | prevPub | prev-regNum | employerName | newMatterClaimed | claimant | claimantPlace | regDate | regNum | copies | affDate | vol | noticeDate | note | additionalEntry | page)*>
-<!ELEMENT crossRef (#PCDATA | title | author | note | see | edition | vol | series | page )*>
+<!ELEMENT copyrightEntry (#PCDATA | title | author | desc | edition | publisher | volumes | series | copyDate | prevPub | prev-regNum | employerName | newMatterClaimed | claimant | claimantPlace | regDate | regNum | copies | affDate | vol | noticeDate | note | additionalEntry )*>
+<!ELEMENT crossRef (#PCDATA | title | author | note | see | edition | vol | series )*>
 <!ELEMENT entryGroup (#PCDATA | title | author | edition | volumes | series | note | copyrightEntry | crossRef | publisher | claimant | page | vol )*>
 
 <!ATTLIST copyrightEntry
@@ -60,7 +60,7 @@
 <!ELEMENT see (#PCDATA | author | title | publisher | pubPlace | pubDate | note)*>
 <!ATTLIST see
 	  rid NMTOKEN #REQUIRED>
-<!ELEMENT additionalEntry (#PCDATA | author | pubPlace | publisher | volumes | series | prevPub | employerName | copyDate | prev-regNum | newMatterClaimed | pubDate | pubName | claimant | claimantPlace | regDate | regNum | classCode | copies | affDate | vol | noticeDate | note | edition | see | page)*>
+<!ELEMENT additionalEntry (#PCDATA | author | pubPlace | publisher | volumes | series | prevPub | employerName | copyDate | prev-regNum | newMatterClaimed | pubDate | pubName | claimant | claimantPlace | regDate | regNum | classCode | copies | affDate | vol | noticeDate | note | edition | see )*>
 <!ATTLIST additionalEntry
 	  regnum NMTOKENS #IMPLIED>
 
