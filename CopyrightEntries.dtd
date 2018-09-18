@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT copyrightEntries (#PCDATA | copyrightEntry | entryGroup | crossRef)*>
-<!ELEMENT copyrightEntry (#PCDATA | title | author | role | desc | edition | pubPlace | publisher | volumes | series | copyDate | prevPub | employerName | prev-regNum | newMatterClaimed | pubDate | pubName | claimant | claimantPlace | regDate | regNum | classCode | copies | affDate | vol | noticeDate | note | additionalEntry)*>
-<!ELEMENT crossRef (#PCDATA | title | author | see | note)*>
-<!ELEMENT entryGroup (#PCDATA | title | author | copyrightEntry | crossRef)*>
+<!ELEMENT copyrightEntries (#PCDATA | copyrightEntry | entryGroup | crossRef | page)*>
+<!ELEMENT copyrightEntry (#PCDATA | title | author | desc | edition | publisher | volumes | series | copyDate | prevPub | prev-regNum | employerName | newMatterClaimed | claimant | claimantPlace | regDate | regNum | copies | affDate | vol | noticeDate | note | additionalEntry | page)*>
+<!ELEMENT crossRef (#PCDATA | title | author | note | see | edition | vol | series | page )*>
+<!ELEMENT entryGroup (#PCDATA | title | author | edition | volumes | series | note | copyrightEntry | crossRef | publisher | claimant | page | vol )*>
 
 <!ATTLIST copyrightEntry
 	  id NMTOKEN #REQUIRED
 	  regnum NMTOKENS #IMPLIED>
-<!ATTLIST crossRef>
 <!ATTLIST crossRef
 	  id NMTOKEN #REQUIRED>
 <!ELEMENT title (#PCDATA)>
+<!ELEMENT page (#PCDATA)>
+<!ATTLIST page
+	  pgnum NMTOKENS #IMPLIED>
 <!ELEMENT author (#PCDATA | role | authorName | authorPlace | authorBirth | authorDeath)*>
 <!ATTLIST author
-	  claimant ( no | yes ) "no">
+	  claimant (yes|no) "no">
 <!ELEMENT authorName (#PCDATA)>
 <!ELEMENT authorPlace (#PCDATA)>
 <!ELEMENT authorBirth (#PCDATA)>
@@ -24,10 +26,10 @@
 <!ELEMENT pubPlace (#PCDATA)>
 <!ELEMENT pubName (#PCDATA)>
 <!ATTLIST pubName 
-	  claimant ( yes | no ) "no">
+	  claimant (yes|no) "no">
 <!ELEMENT pubDate (#PCDATA)>
 <!ATTLIST pubDate 
-            date NMTOKEN #REQUIRED>
+      date NMTOKEN #REQUIRED>
 <!ELEMENT publisher (#PCDATA | pubName | pubPlace | pubDate)*>
 <!ELEMENT volumes (#PCDATA)>
 <!ELEMENT vol (#PCDATA)>
@@ -42,7 +44,6 @@
 <!ATTLIST regDate  
       date NMTOKEN #REQUIRED>
 <!ELEMENT regNum (#PCDATA)>
-<!ELEMENT classCode (#PCDATA)>
 <!ELEMENT copies (#PCDATA)>
 <!ATTLIST copies
 	  num NMTOKEN #IMPLIED>
@@ -54,11 +55,12 @@
 	  date NMTOKEN #REQUIRED>
 <!ELEMENT noticeDate (#PCDATA)>
 <!ATTLIST noticeDate
-	  date NMTOKEN #IMPLIED>
-<!ELEMENT note (#PCDATA | author | publisher | noticeDate)*>
-<!ELEMENT see (#PCDATA | author | title | publisher | pubPlace | pubDate)*>
+	  date NMTOKEN #REQUIRED>
+<!ELEMENT note (#PCDATA)>
+<!ELEMENT see (#PCDATA | author | title | publisher | pubPlace | pubDate | note)*>
 <!ATTLIST see
 	  rid NMTOKEN #REQUIRED>
-<!ELEMENT additionalEntry (#PCDATA | pubPlace | publisher | volumes | series | prevPub | employerName | copyDate | prev-regNum | newMatterClaimed | pubDate | pubName | claimant | claimantPlace | regDate | regNum | classCode | copies | affDate | vol | noticeDate | note | edition)*>
+<!ELEMENT additionalEntry (#PCDATA | author | pubPlace | publisher | volumes | series | prevPub | employerName | copyDate | prev-regNum | newMatterClaimed | pubDate | pubName | claimant | claimantPlace | regDate | regNum | classCode | copies | affDate | vol | noticeDate | note | edition | see | page)*>
 <!ATTLIST additionalEntry
-	  regnum NMTOKEN #IMPLIED>
+	  regnum NMTOKENS #IMPLIED>
+
