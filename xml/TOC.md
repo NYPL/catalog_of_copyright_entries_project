@@ -7,6 +7,7 @@ Alto files. The sources for each are as follows:
 
 | Year        | Source                                              | Status  |
 |-------------|---------------------------------------------------- |---------|
+| 1923        | https://archive.org/stream/catalogofcopy201libr     | Uncorr. |
 | 1927        | https://archive.org/stream/catalogofcopyrig241libr  | Uncorr. |
 | 1930        | https://archive.org/stream/catalogofcopyri271libr   | Uncorr. |
 | 1939        | https://archive.org/stream/catalogofcopyri361lib    | Uncorr. |
