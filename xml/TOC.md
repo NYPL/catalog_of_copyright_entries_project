@@ -22,6 +22,8 @@ Alto files. The sources for each are as follows:
 | 1945        | https://archive.org/stream/catalogofcopyrig42libr   | Uncorr. |
 | 1946        | https://archive.org/stream/catalogofcopyrig431unse  | Uncorr. |
 | 1947        | https://archive.org/stream/catalogofcopyrig311libr  | Uncorr. |
+| 1948        | https://archive.org/stream/catalogofcopyrig321libr  | Uncorr. |
+| 1949        | https://archive.org/stream/catalogofcopyrig331lib   | Uncorr. |
 | 1951        | https://archive.org/stream/catalogofcopyri351libr   | Uncorr. |
 | 1952        | https://archive.org/stream/catalogofcopyri361libr   | Uncorr. |
 | 1956 (pt 2) | https://archive.org/stream/catalogofcopyrig3101libr | Uncorr. |
