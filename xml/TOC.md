@@ -11,7 +11,7 @@ Alto files. The sources for each are as follows:
 | 1924        | https://archive.org/stream/catalogofcopyrig211libr  | Uncorr. |
 | 1927        | https://archive.org/stream/catalogofcopyrig241libr  | Uncorr. |
 | 1930        | https://archive.org/stream/catalogofcopyri271libr   | Uncorr. |
-| 1937        | https://archive.org/stream/catalogofcopyri341lib    | Uncorr. |
+| 1937        | https://archive.org/stream/catalogofcopyrig341lib   | Uncorr. |
 | 1938        | https://archive.org/stream/catalogofcopyrig351lib   | Uncorr. |
 | 1939        | https://archive.org/stream/catalogofcopyri361lib    | Uncorr. |
 | 1940        | https://archive.org/stream/catalogofcopyri371lib    | Uncorr. |
