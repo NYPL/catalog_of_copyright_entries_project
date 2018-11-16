@@ -29,6 +29,7 @@ Alto files. The sources for each are as follows:
 | 1952         | https://archive.org/stream/catalogofcopyri361libr   | Uncorr. |
 | 1953 (no. 1) | https://archive.org/stream/catalogofcopyrig371lib   | Uncorr. |
 | 1953 (no. 2) | https://archive.org/stream/catalogofcopyrig371li    | Uncorr. |
+| 1954 (no. 1) | https://archive.org/stream/catalogofcopyrig381lib   | Uncorr. |
 | 1956 (no. 1) | https://archive.org/stream/catalogofcopyrig3101lib  | Uncorr. |
 | 1956 (no. 2) | https://archive.org/stream/catalogofcopyrig3101libr | Uncorr. |
 | 1959 (no. 1) | https://archive.org/stream/catalogofcopyrig3131libr | Uncorr. |
