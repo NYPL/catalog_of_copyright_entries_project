@@ -36,11 +36,12 @@ Alto files. The sources for each are as follows:
 | 1956 (no. 1) | https://archive.org/stream/catalogofcopyrig3101lib  | Uncorr. |
 | 1956 (no. 2) | https://archive.org/stream/catalogofcopyrig3101libr | Uncorr. |
 | 1957 (no. 1) | https://archive.org/stream/catalogofcopyrig3111lib  | Uncorr. |
-| 1957 (no. 2) | https://archive.org/stream/catalogofcopyrig3111libr |         |
+| 1957 (no. 2) | https://archive.org/stream/catalogofcopyrig3111libr | Uncorr. |
 | 1958 (no. 1) | https://archive.org/stream/catalogofcopyrig3121lib  | Uncorr. |
 | 1958 (no. 2) | https://archive.org/stream/catalogofcopyrig3121libr | Uncorr. |
 | 1959 (no. 1) | https://archive.org/stream/catalogofcopyrig3131libr | Uncorr. |
 | 1959 (no. 2) | https://archive.org/stream/catalogofcopyrig3131lib  | Uncorr. |
+| 1960 (no. 1) | https://archive.org/stream/catalogofcopyrig3141lib  | Uncorr. |
 | 1962 (no. 1) | https://archive.org/stream/catalogofcopyrig3161libr | Uncorr. |
 | 1962 (no. 2) | https://archive.org/stream/catalogofcopyrig3161lib  | Uncorr. |
 
