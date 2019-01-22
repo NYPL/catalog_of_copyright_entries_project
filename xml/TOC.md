@@ -49,6 +49,8 @@ Alto files. The sources for each are as follows:
 | 1961 (no. 2) | https://archive.org/stream/catalogofcopyrig3151libr | Uncorr. |
 | 1962 (no. 1) | https://archive.org/stream/catalogofcopyrig3161libr | Uncorr. |
 | 1962 (no. 2) | https://archive.org/stream/catalogofcopyrig3161lib  | Uncorr. |
+| 1963 (no. 1) | https://archive.org/stream/catalogofcopyrig31711lib | Uncorr. |
+| 1963 (no. 2) | https://archive.org/stream/catalogofcopyrig31712libr | Uncorr. |
 | 1964 (no. 1) | https://archive.org/stream/catalogofcopyrig31811libr | Uncorr. |
 | 1964 (no. 2 | https://archive.org/stream/catalogofcopyrig31812libr | Uncorr. |
 
