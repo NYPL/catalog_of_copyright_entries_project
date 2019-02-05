@@ -23,7 +23,7 @@ Alto files. The sources for each are as follows:
 | 1942         | https://archive.org/stream/catalogofcopyrig391li    | Uncorr. |
 | 1943         | https://archive.org/stream/catalogofcopyrig40libr   | Uncorr. |
 | 1944         | https://archive.org/stream/catalogofcopyrig41lib    | Uncorr. |
-| 1945         | https://archive.org/stream/catalogofcopyrig42libr   | Uncorr. |
+| 1945         | https://archive.org/stream/catalogofcopyrig42libr   | In prog.|
 | 1946         | https://archive.org/stream/catalogofcopyrig431unse  | Uncorr. |
 | 1947         | https://archive.org/stream/catalogofcopyrig311libr  | Uncorr. |
 | 1948         | https://archive.org/stream/catalogofcopyrig321libr  | Uncorr. |
