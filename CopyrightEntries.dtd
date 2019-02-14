@@ -4,10 +4,11 @@
 <!ELEMENT source EMPTY>
 <!ATTLIST source
 	  url CDATA #REQUIRED>
-<!ELEMENT cite (series, volume, division)>
+<!ELEMENT cite (series, volume, year, division)>
 <!ATTLIST series
 	  label CDATA #IMPLIED>
 <!ELEMENT volume (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
 <!ELEMENT division (part, group*, material, (number | numbers))>
 <!ELEMENT part (#PCDATA)>
 <!ELEMENT group (#PCDATA)>
