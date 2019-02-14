@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT copyrightEntries (#PCDATA | copyrightEntry | entryGroup | crossRef | page)*>
+<!ELEMENT copyrightEntries (header, (page | copyrightEntry| entryGroup | crossRef)*)>
+<!ELEMENT header (source, cite)>
+<!ELEMENT source EMPTY>
+<!ATTLIST source
+	  url CDATA #REQUIRED>
+<!ELEMENT cite (series, volume, division)>
+<!ATTLIST series
+	  label CDATA #IMPLIED>
+<!ELEMENT volume (#PCDATA)>
+<!ELEMENT division (part, group*, material, (number | numbers))>
+<!ELEMENT part (#PCDATA)>
+<!ELEMENT group (#PCDATA)>
+<!ELEMENT material (#PCDATA)>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT numbers EMPTY>
+<!ATTLIST numbers
+	  start NMTOKEN #REQUIRED
+	  end   NMTOKEN #REQUIRED>
+
 <!ELEMENT copyrightEntry (#PCDATA | title | author | desc | edition | publisher | volumes | series | copyDate | prevPub | prev-regNum | employerName | newMatterClaimed | claimant | claimantPlace | regDate | regNum | copies | affDate | vol | noticeDate | note | additionalEntry )*>
 <!ELEMENT crossRef (#PCDATA | title | author | note | see | edition | vol | series )*>
 <!ELEMENT entryGroup (#PCDATA | title | author | edition | volumes | series | note | copyrightEntry | crossRef | publisher | claimant | page | vol )*>
