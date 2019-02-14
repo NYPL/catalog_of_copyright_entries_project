@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri361lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>36</volume>
+      <year>1939</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>8</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="391"/>
 <copyrightEntry regnum="A130504" id="E5AA96C3-70BA-1014-84D2-9760FB430269"><author><authorName>Abbott, Austin</authorName></author>. <title>Abbott New York digest.</title> <edition>Consolidated ed.</edition> <note>June, 1939, cumulative pamphlet</note>. &#x000A9; <regDate date="1939-06-26">June 26, 1939</regDate>; <copies>2 c.</copies> <copyDate date="1939-07-22">July 22</copyDate>; aff. <affDate date="1939-07-21">July 21</affDate>; <regNum>A 130504</regNum>; <publisher><pubName claimant="yes">West pub. co.</pubName>, <pubPlace>St. Paul</pubPlace>, &amp; <pubName claimant="yes">Lawyers co-operative pub. co.</pubName>, <pubPlace>Rochester, N. Y.</pubPlace></publisher></copyrightEntry>
 <copyrightEntry regnum="A130543" id="E5AAAC88-70BA-1014-84D2-9760FB430269"><author><authorName>Abbott, Nabia</authorName></author>. <title>Rise of the north Arabic script and its Kur&#x02019;&#x00101;nic development, with a full description of of the Ku&#x02019;r&#x00101;n manuscripts in the Oriental institute.</title> &#x000A9; <regDate date="1939-06-27">June 27, 1939</regDate>; <copies>2 c.</copies> <copyDate date="1939-07-17">July 17</copyDate>; aff. <affDate date="1939-07-28">July 28</affDate>; <regNum>A 130543</regNum>; <publisher><pubName claimant="yes">University of Chicago</pubName>, <pubPlace>Chicago</pubPlace></publisher>.</copyrightEntry>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig351lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>35</volume>
+      <year>1938</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>5</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="315"/>
 <copyrightEntry id="A6121917-7673-1014-B4A8-82B0B32C9101" regnum="A117274"><author><authorName>Abbott, Daisy T.</authorName> </author> <title>Northern garden week by week.</title> &#x000A9; <regDate date="1938-04-19">Apr. 19, 1938</regDate>; <copies>2c.</copies> <copyDate date="1938-05-02">May 2</copyDate>; aff. <affDate date="1938-04-29">Apr. 29</affDate>; <regNum>A 117274</regNum>; <publisher><pubName claimant="yes">University of Minnesota</pubName>, <pubPlace>Minneapolis</pubPlace> </publisher>.</copyrightEntry>
 <copyrightEntry id="A6122D78-7673-1014-B4A8-82B0B32C9101" regnum="A117253"><author><authorName>Ackerman, Irving C.</authorName> </author> <title>Complete fox terrier. wire-haired and smooth coated.</title> &#x000A9; <regDate date="1938-04-29">Apr. 29, 1938</regDate>; <copies>2c.</copies> and aff. <affDate date="1938-05-03">May 3</affDate>; <regNum>A 117253</regNum>; <publisher><pubName claimant="yes">Orange Judd pub. co., inc.</pubName>, <pubPlace>New York</pubPlace> </publisher>.</copyrightEntry>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig351lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>35</volume>
+      <year>1938</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>7</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="409"/>
 <copyrightEntry id="953839E7-76FE-1014-8A60-894D8A9620E2" regnum="A119316"><author claimant="yes"><authorName>Abbott. Jane</authorName>.* <authorPlace>Buffalo</authorPlace> </author>. <title>Singing shadows.</title> &#x000A9; <regDate date="1938-06-23">June 23, 1938</regDate>; <copies>2c.</copies> and aff. <affDate date="1938-06-30">June 30</affDate>; <regNum>A 119316</regNum>.</copyrightEntry>
 <copyrightEntry id="95384CF0-76FE-1014-8A60-894D8A9620E2" regnum="AF39634"><author><authorName>Abell. Kjeld</authorName> </author>. <title>Paraplyernes opr&#x000F8;r.</title> &#x000A9; <regDate date="1938-02-28">Feb. 28, 1938</regDate>; <copies>1 c.</copies> <copyDate date="1938-01-13">Jan. 13</copyDate>; <regNum>A&#x02014;Foreign 39634</regNum>; <publisher><pubName claimant="yes">Wilhelm Hansen</pubName>, <pubPlace>Copenhagen</pubPlace> </publisher>.</copyrightEntry>

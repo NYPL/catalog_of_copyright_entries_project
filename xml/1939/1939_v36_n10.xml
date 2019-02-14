@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri361lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>36</volume>
+      <year>1939</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>10</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="499"/>
 <copyrightEntry regnum="A132544" id="F9BD11C7-70BA-1014-8732-87EB05A97CF3"><author><authorName>Abrams, Charles</authorName></author>. <title>Revolution in land.</title> &#x000A9; <regDate date="1939-10-04">Oct. 4, 1939</regDate>; <copies>2 c.</copies> <copyDate date="1939-10-04">Oct. 4</copyDate>; aff. <affDate date="1939-10-06">Oct. 6</affDate>; <regNum>A 132544</regNum>; <publisher><pubName claimant="yes">Harper &amp; bros.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry regnum="A132677" id="F9BD27A0-70BA-1014-8732-87EB05A97CF3"><title>Accepted dental remedies, containing a list of official drugs selected to promote a rational dental materia medica and descriptions of acceptable nonofficial articles. 1939.</title> <author><role>Edited by</role> <authorName>Harold L. Hansen</authorName></author>] &#x000A9; <regDate date="1939-09-13">Sept. 13, 1939</regDate>; <copies>2 c.</copies> <copyDate date="1939-09-29">Sept. 29</copyDate>; aff. <affDate date="1939-10-12">Oct. 12</affDate>; <regNum>A 132677</regNum>; <publisher><pubName claimant="yes">Council on dental therapeutics, Amer. dental assn.</pubName>, <pubPlace>Chicago</pubPlace></publisher>.</copyrightEntry>

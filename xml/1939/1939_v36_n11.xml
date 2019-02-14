@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri361lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>36</volume>
+      <year>1939</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>11</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="555"/>
 <copyrightEntry regnum="A132973" id="FC3E0419-70BA-1014-9292-B7050D9087AA"><author><authorName>Abbott, Elisabeth</authorName>, <role>tr.</role></author> <title>Jean Clarambaux</title>, <author><role>by</role> <authorName>Jean Tousseul</authorName>. <role>Translated by</role> <authorName>E. Abbott</authorName></author>. &#x000A9; <regDate date="1039-10-05">Oct 5, 1039</regDate> <copies>2 c.</copies> and aff. <affDate date="1039-10-10">Oct 10</affDate>; <regNum>A 132973</regNum>; <publisher><pubName claimant="yes">J. B. Lippincott co.</pubName>, <pubPlace>Philadelphia</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry regnum="A135153" id="FC3E180E-70BA-1014-9292-B7050D9087AA">[<author><authorName>Abeita, Louise</authorName></author>] <title>I am a Pueblo Indian girl</title>, <author><role>by</role> <authorName>E-Yeh-Shure&#x005F3;</authorName></author> (<note>Blue Corn</note>) &#x000A9; <regDate date="1939-10-25">Oct. 25, 1939</regDate> <copies>2 c.</copies> and aff. <affDate date="1939-10-27">Oct. 27</affDate>; <regNum>A 135153</regNum>; <publisher><pubName claimant="yes">William Morrow &amp; co., inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

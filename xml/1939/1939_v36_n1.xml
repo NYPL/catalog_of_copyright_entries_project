@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri361lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>36</volume>
+      <year>1939</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>1</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="1"/>
 <copyrightEntry regnum="A125487" id="2A3C1218-72D4-1014-8BFD-C9A76C501636"><author><authorName>Abel, Theodore</authorName></author>. <title>Why Hitler came into power.</title> &#x000A9; <regDate date="1938-12-09">Dec. 9, 1938</regDate>; <copies>2 c.</copies> <copyDate date="1938-12-27">Dec. 27</copyDate>; aff. <affDate date="1938-12-28">Dec. 28</affDate>; <regNum>A 125487</regNum>; <publisher><pubName claimant="yes">Prentice-Hall, inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry regnum="A125446" id="2A3C29D0-72D4-1014-8BFD-C9A76C501636"><author><authorName>Abraham, Mary</authorName>, <role>tr.</role></author> <title>Book of divine prayers and services of the Catholic orthodox church of Christ.</title> <author><role>Compiled and arranged by the Reverend</role> <authorName>Seraphim Nassar</authorName>. [<role>Translated by</role> <authorName>Mary, Elizabeth</authorName> and <authorName>Sadie Abraham</authorName>]</author> &#x000A9; <regDate date="1938-11-15">Nov. 15, 1938</regDate>; <copies>2 c.</copies> <copyDate date="1938-12-02">Dec. 2</copyDate>; aff. <affDate date="1938-12-28">Dec. 28</affDate>; <regNum>A 125446</regNum>: <publisher><pubName claimant="yes">Sisters of the Sisterhood of the propagation of divine services and religious teachings in the United States</pubName>, <pubPlace>Spring Valley, Ill.</pubPlace></publisher></copyrightEntry>

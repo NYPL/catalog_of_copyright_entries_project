@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig351lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>35</volume>
+      <year>1938</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>3</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="197"/>
 <copyrightEntry id="B0359600-7673-1014-B50A-8C14CA3A6371" regnum="A114668"><author><authorName>Ackley, Edith Flack</authorName> </author>. <title>Dolls to make for fun and profit.</title> <author><role>Drawings by</role> <authorName>Telka Ackley</authorName> </author>. &#x000A9; <regDate date="1938-02-24">Feb. 24, 1938</regDate>; <copies>2c.</copies> and aff. <affDate date="1938-03-02">Mar. 2</affDate>; <regNum>A 114668</regNum>; <publisher><pubName claimant="yes">Frederick A. Stokes co.</pubName>, <pubPlace>New York</pubPlace> </publisher>.</copyrightEntry>
 <copyrightEntry id="B035ACBB-7673-1014-B50A-8C14CA3A6371" regnum="AF38374"><author><authorName>Adalbert Stifter-gesellschaft, Vienna</authorName> </author>. <title>Adalbert Stifter-almanach.</title> &#x000A9; <regDate date="1937-11-18">Nov. 18, 1937</regDate>; <copies>1 c.</copies> <copyDate date="1938-02-08">Feb. 8, 1938</copyDate>; <regNum>A&#x02014;Foreign 38374</regNum>; <publisher><pubName claimant="yes">Paul Zsolnay verlag, a. -g.</pubName>, <pubPlace>Vienna</pubPlace> </publisher>.</copyrightEntry>

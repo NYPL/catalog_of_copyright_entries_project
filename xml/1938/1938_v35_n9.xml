@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig351lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>35</volume>
+      <year>1938</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>9</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="519"/>
 <copyrightEntry id="8F952AC4-7673-1014-9217-C5D57B99FA16" regnum="A121145"><author><authorName>Abbott, Austin. Abbott New York digest</authorName> </author>. <title>Consolidated ed. July, 1938, cumulative quarterly pamphlet, with cumulative table of cases digested.</title> &#x000A9; <regDate date="1938-07-07">July 7, 1938</regDate>; <copies>2c.</copies> and aff. <affDate date="1938-08-25">Aug. 25</affDate>; <regNum>A 121145</regNum>; <publisher><pubName claimant="yes">West pub. co.</pubName>, <pubPlace>St. Paul &amp; Lawyers co-operative pub. co.</pubPlace>, <pubPlace>Rochester, N. Y.</pubPlace> </publisher></copyrightEntry>
 <copyrightEntry id="8F95467F-7673-1014-9217-C5D57B99FA16" regnum="A121577"><author claimant="yes"><authorName>Abbott, Wilbur Cortez</authorName>,* <authorPlace>Cambridge, Mass.</authorPlace> </author> <title>Expansion of Europe. 2d rev. ed.</title> &#x000A9; <regDate date="1938-09-12">Sept. 12, 1938</regDate>; <copies>2c.</copies> and aff. <affDate date="1938-09-16">Sept. 16</affDate>; <regNum>A 121577</regNum>.</copyrightEntry>

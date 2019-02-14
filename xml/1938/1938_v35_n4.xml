@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig351lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>35</volume>
+      <year>1938</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>4</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="257"/>
 <copyrightEntry id="AAE49B5D-7673-1014-B817-D52E0321EE79" regnum="A116079"><author><authorName>Abbott, Austin</authorName> </author>. <title>Abbott New York digest.</title> <edition>Consolidated ed.</edition> <note>February, 1938, cumulative quarterly pamphlet.</note> &#x000A9; <regDate date="1938-02-14">Feb. 14, 1938</regDate>; <copies>2c.</copies> and aff. <affDate date="1938-03-21">Mar. 21</affDate>; <regNum>A 116079</regNum>; <publisher><pubName claimant="yes">West pub. co.</pubName>, <pubPlace>St. Paul</pubPlace> and <pubName claimant="yes">Lawyers co-operative pub. co.</pubName>, <pubPlace>Rochester, New York</pubPlace> </publisher>.</copyrightEntry>
 <copyrightEntry id="AAE4AED2-7673-1014-B817-D52E0321EE79" regnum="A115698"><author><authorName>Abbott, Beatrice</authorName> </author>. <title>Dear editor.</title> &#x000A9; <regDate date="1938-03-21">Mar. 21, 1938</regDate>; <copies>2c.</copies> <copyDate date="1938-04-01">Apr. 1</copyDate>; aff. <affDate date="1938-03-31">Mar. 31</affDate>; <regNum>A 115698</regNum>; <publisher><pubName claimant="yes">Mulberry press</pubName>, <pubPlace>Melrose, Mass.</pubPlace> </publisher></copyrightEntry>

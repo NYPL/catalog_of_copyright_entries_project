@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig351lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>35</volume>
+      <year>1938</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>2</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="145"/>
 <copyrightEntry id="B58BC406-7673-1014-B0BD-95EC3AA6FBCF" regnum="A114288"><author><authorName>Abbott, Charles Cortez</authorName> </author>. <title>New York bond market, 1920-1930.</title> &#x000A9; <regDate date="1937-12-02">Dec. 2, 1937</regDate>; <copies>2c.</copies> <copyDate date="1938-01-31">Jan. 31, 1938</copyDate>; aff. <affDate date="1937-12-08">Dec. 8, 1937</affDate>; <regNum>A 114288</regNum>; <publisher><pubName claimant="yes">President and fellows of Harvard college</pubName>, <pubPlace>Cambridge, Mass.</pubPlace> </publisher></copyrightEntry>
 <copyrightEntry id="B58BD7AE-7673-1014-B0BD-95EC3AA6FBCF" regnum="A113897"><author><authorName>Abraham, Herbert</authorName> </author>. <title>Asphalts and allied substances.</title> <edition>4th ed.</edition> &#x000A9; <regDate date="1938-01-05">Jan. 5, 1938</regDate>; <copies>2c.</copies> <copyDate date="1938-01-28">Jan. 28</copyDate>; aff. <affDate date="1938-02-08">Feb. 8</affDate>; <regNum>A 113897</regNum>; <publisher><pubName claimant="yes">D. Van Nostrand co., inc.</pubName>, <pubPlace>New York</pubPlace> </publisher>.</copyrightEntry>

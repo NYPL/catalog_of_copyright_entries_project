@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri361lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>36</volume>
+      <year>1939</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>2</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="59"/>
 <copyrightEntry regnum="A124907" id="28BD474A-72D4-1014-932B-E4B92D1A29C1"><author><authorName>Abbott, Austin</authorName></author>. <title>Abbott New York digest.</title> <edition>Consolidated ed.</edition> <note>December, 1938, cumulative pamphlet, with cumulative table of cases digested.</note> &#x000A9; <regDate date="1938-12-07">Dec. 7, 1938</regDate>; <copies>2 c.</copies> <copyDate date="1939-01-30">Jan. 30, 1939</copyDate>; aff. <affDate date="1939-02-01">Feb. 1</affDate>; <regNum>A 124907</regNum>; <publisher><pubName claimant="yes">West pub. co.</pubName>, <pubPlace>St. Paul</pubPlace> &amp; <pubName claimant="yes">Lawyers co-operative pub. co.</pubName>, <pubPlace>Rochester, N. Y.</pubPlace></publisher></copyrightEntry>
 <copyrightEntry regnum="A125991" id="28BD5257-72D4-1014-932B-E4B92D1A29C1"><author claimant="yes"><authorName>Acheson, Edward</authorName>,* <authorPlace>Alexandria, Va.</authorPlace></author> <title>Murder to hounds.</title> &#x000A9; <regDate date="1939-02-09">Feb. 9, 1939</regDate>; <copies>2 c.</copies> and aff. <affDate date="1939-02-18">Feb. 18</affDate>; <regNum>A 125991</regNum>.</copyrightEntry>

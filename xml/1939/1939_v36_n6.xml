@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri361lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>36</volume>
+      <year>1939</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>6</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="271"/>
 <copyrightEntry regnum="AF43299" id="B0930F0A-7304-1014-9B3E-F426747A3914"><author><authorName>Abel, Othenio</authorName></author>. <title>Das reich der tiere.</title> [ <publisher><pubPlace>Erg&#x000E4;nzungsband</pubPlace></publisher>] &#x000A9; <regDate date="1939-02-23">Feb. 23, 1939</regDate>; <copies>1 c.</copies> <copyDate date="1939-05-11">May 11</copyDate>; <regNum>A for. 43299</regNum>; <publisher><pubName claimant="yes">Deutscher verlag</pubName>, <pubPlace>Berlin</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry regnum="AF43310" id="B09325A7-7304-1014-9B3E-F426747A3914"><author><authorName>Adam, Curt</authorName></author>. <title>Beurteilung der leistungsf&#x000E4;higkeit des gesunden und kranken.</title> &#x000A9; <regDate date="1939-01-16">Jan. 16, 1939</regDate>; <copies>1 c.</copies> <copyDate date="1939-05-11">May 11</copyDate>; <regNum>A for. 43310</regNum>; <publisher><pubName claimant="yes">Johann Ambrosius Barth</pubName>, <pubPlace>Leipzig</pubPlace></publisher>.</copyrightEntry>

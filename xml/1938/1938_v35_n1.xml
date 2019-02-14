@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig351lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>35</volume>
+      <year>1938</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>1</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="1"/>
 <copyrightEntry id="3921580D-7676-1014-9BE4-FD3B94D92A85" regnum="A111027"><author><authorName>Abaci de Santill&#x000E1;n, Diego</authorName> </author>. <title>After the revolution</title>; <author><role>translated from the Spanish by</role> <authorName>Louis Frank</authorName> </author>. &#x000A9; <regDate date="1937-07-17">July 17, 1937</regDate>; <copies>2c.</copies> <copyDate date="1937-07-30">July 30</copyDate>; aff. <affDate date="1937-07-29">July 29</affDate>; <regNum>A 111027</regNum>; <publisher><pubName claimant="yes">Greenberg, publisher, inc.</pubName>, <pubPlace>New York</pubPlace> </publisher>.</copyrightEntry>
 <copyrightEntry id="39218426-7676-1014-9BE4-FD3B94D92A85" regnum="A112491"><author><authorName>Abbott, Arthur L.</authorName> </author> <title>National electrical code handbook based on the 1937 edition of the National electrical code.</title> <edition>4th ed.</edition> &#x000A9; <regDate date="1937-12-08">Dec. 8, 1937</regDate>; <copies>2c.</copies> <copyDate date="1937-12-10">Dec. 10</copyDate>; aff. <affDate date="1937-12-13">Dec. 13</affDate>; <regNum>A 112491</regNum>; <publisher><pubName claimant="yes">McGraw-Hill book co., inc.</pubName>, <pubPlace>New York</pubPlace> </publisher>.</copyrightEntry>

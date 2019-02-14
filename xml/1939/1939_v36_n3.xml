@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri361lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>36</volume>
+      <year>1939</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>3</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="103"/>
 <copyrightEntry regnum="AF42019" id="EB76F985-72D4-1014-8BE7-DEE5374DEC07"><author><authorName>Abercron, Hugo von.</authorName></author> <title>Offizier und luftpionier; tatberichte und erinnerungen, 1869&#x02013;1938.</title> &#x000A9; <regDate date="1938-10-06">Oct. 6, 1938</regDate>; <copies>1 c.</copies> <copyDate date="1939-02-09">Feb. 9, 1939</copyDate>; <regNum>A for. 42019</regNum>; <publisher><pubName claimant="yes">Robert Lutz nachfolger, Otto Schramm</pubName>, <pubPlace>Stuttgart, Germany</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry regnum="A127462" id="EB7712CB-72D4-1014-8BE7-DEE5374DEC07"><author><authorName>Abro, A. d&#x02019;</authorName></author>. <title>Decline of mechanism (in modern physics)</title> &#x000A9; <regDate date="1939-03-06">Mar. 6, 1939</regDate>; <copies>2 c.</copies> <copyDate date="1939-03-18">Mar. 18</copyDate>; aff. <affDate date="1939-03-16">Mar. 16</affDate>; <regNum>A 127462</regNum>; <publisher><pubName claimant="yes">D. Van Nostrand co., inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

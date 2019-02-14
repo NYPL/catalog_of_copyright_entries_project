@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig351lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>35</volume>
+      <year>1938</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>8</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="473"/>
 <copyrightEntry id="93FF1A58-7673-1014-ACAA-B8C4DA013B26" regnum="A119872"><author claimant="yes"><authorName>Abbe, George</authorName>.* <authorPlace>Guilford, Conn.</authorPlace> </author> <title>Voices in the square.</title> &#x000A9; <regDate date="1938-08-08">Aug. 8, 1938</regDate>; <copies>2c.</copies> <copyDate date="1938-08-10">Aug. 10</copyDate>; aff. <affDate date="1938-08-09">Aug. 9</affDate>; <regNum>A 119872</regNum>.</copyrightEntry>
 <copyrightEntry id="93FF2DFA-7673-1014-ACAA-B8C4DA013B26" regnum="A120038"><author claimant="yes"><authorName>Abee, Blanche Humphrey</authorName>,* <authorPlace>Tampa, Fla.</authorPlace> </author> <title>Colonists of Carolina in the lineage of Hon. W. D. Humphrey.</title> &#x000A9; <regDate date="1938-08-15">Aug. 15, 1938</regDate>; <copies>2c.</copies> and aff. <affDate date="1938-08-17">Aug. 17</affDate>; <regNum>A 120038</regNum>.</copyrightEntry>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri361lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>36</volume>
+      <year>1939</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>4</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="161"/>
 <copyrightEntry regnum="A126665" id="07790BBE-72D7-1014-AF40-CAD979AE08BC"><author><authorName>Abbott, Nabia</authorName></author>. <title>Kurrah papyri from Aphrodito in the Oriental institute.</title> &#x000A9; <regDate date="1938-12-31">Dec. 31, 1938</regDate>; <copies>2 c.</copies> <copyDate date="1939-03-25">Mar. 25, 1939</copyDate>; aff. <affDate date="1939-03-29">Mar. 29</affDate>; <regNum>A 126665</regNum>; <publisher><pubName claimant="yes">University of Chicago</pubName>, <pubPlace>Chicago</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry regnum="A127526" id="077921F8-72D7-1014-AF40-CAD979AE08BC"><author claimant="yes"><authorName>Abdullah, Achmed</authorName>,* <authorPlace>New York</authorPlace></author>. <title>Deliver us from evil.</title> &#x000A9; <regDate date="1939-02-27">Feb. 27, 1939</regDate>; <copies>2 c.</copies> <copyDate date="1939-03-15">Mar. 15</copyDate>; aff. <affDate date="1939-02-28">Feb. 28</affDate>; <regNum>A 127526</regNum>.</copyrightEntry>

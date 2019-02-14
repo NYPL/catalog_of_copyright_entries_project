@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig351lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>35</volume>
+      <year>1938</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>12</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="703"/>
 <copyrightEntry id="61DBA2B8-7673-1014-8449-EA9F584A306B" regnum="A123791"><author><authorName>Abbott, Austin</authorName> </author>. <title>Abbott New York digest.</title> <edition>Consolidated ed.</edition> <note>1938 cumulative annual pocket parts [for] vols. 1-40</note>. &#x000A9; <regDate date="1938-10-28">Oct. 28, 1938</regDate>; <copies>2c.</copies> each <copyDate date="1938-11-17">Nov. 17</copyDate>; aff. <affDate date="1938-11-18">Nov. 18</affDate>; <regNum>A 123791</regNum>; <publisher><pubName claimant="yes">West pub. co.</pubName>, <pubPlace>St. Paul &amp; Lawyers co-operative pub. co.</pubPlace>, <pubPlace>Rochester, N. Y.</pubPlace> </publisher></copyrightEntry>
 <copyrightEntry id="61DBB73A-7673-1014-8449-EA9F584A306B" regnum="A124153"><author claimant="yes"><authorName>Abbott, Edwin M.</authorName>,* <authorPlace>Philadelphia</authorPlace> </author>. <title>Law and religion.</title> &#x000A9; <regDate date="1938-12-07">Dec. 7, 1938</regDate>; <copies>2c.</copies> <copyDate date="1938-12-16">Dec. 16</copyDate>; aff. <affDate date="1938-12-17">Dec. 17</affDate>; <regNum>A 124153</regNum>.</copyrightEntry>

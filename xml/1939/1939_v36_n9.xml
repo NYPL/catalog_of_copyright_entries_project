@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri361lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>36</volume>
+      <year>1939</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>9</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="447"/>
 <copyrightEntry regnum="A132068" id="EA904AFE-70BA-1014-A9E8-9AC827975E90"><author><authorName>Acheson, Sam. H.</authorName></author> <title>Lives that guide.</title> <author><role>Selected and edited by</role> <authorName>Edwin Diller Starbuck</authorName> &amp; <role>staff, with a biography of</role> <authorName>James Stephen Hogg</authorName>, <role>by</role> <authorName>S. H. Acheson</authorName></author>. &#x000A9; <regDate date="1939-08-24">Aug. 24, 1939</regDate>; <copies>2 c.</copies> <copyDate date="1939-09-08">Sept. 8</copyDate>; aff. <affDate date="1939-09-11">Sept. 11</affDate>; <regNum>A 132068</regNum>; <publisher><pubName claimant="yes">World book co.</pubName>, <pubPlace>Yonkers, N. Y.</pubPlace></publisher></copyrightEntry>
 <copyrightEntry regnum="A132173" id="EA9060FA-70BA-1014-A9E8-9AC827975E90"><author><authorName>Ackley, Edith Flack</authorName></author>. <title>Paper dolls; their history and how to make them</title> <author>[<role>by</role>] <authorName>E. F. Ackley</authorName>. <role>Drawings by</role> <authorName>Telka Ackley</authorName></author>. &#x000A9; <regDate date="1939-09-14">Sept. 14, 1939</regDate> <copies>2 c.</copies> and aff. <affDate date="1939-09-16">Sept. 16</affDate>; <regNum>A 132173</regNum>; <publisher><pubName claimant="yes">Frederick A. Stokes co., inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

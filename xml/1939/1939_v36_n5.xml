@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri361lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>36</volume>
+      <year>1939</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>5</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="217"/>
 <copyrightEntry regnum="A129167" id="0AD17359-72D7-1014-A9B3-C1A756B17F00"><author><authorName>Abbott, Austin</authorName></author>. <title>Abbott New York digest.</title> <edition>Consolidated ed.</edition> <note>March, 1939, cumulative pamphlet, with cumulative tables of cases digested</note>. &#x000A9; <regDate date="1939-03-20">Mar. 20, 1939</regDate>; <copies>2 c.</copies> and aff. <affDate date="1939-05-01">May 1</affDate>; <regNum>A 129167</regNum>; <publisher><pubName claimant="yes">West pub. co., St. Paul &amp; Lawyers co-operative pub. co.</pubName>, <pubPlace>Rochester, N. Y.</pubPlace></publisher></copyrightEntry>
 <copyrightEntry regnum="A128326" id="0AD18646-72D7-1014-A9B3-C1A756B17F00"><author><authorName>Abbott, E. C</authorName></author>. <title>We pointed them north</title>; <note>recollections of a cowpuncher</note>, <author><role>by</role> <authorName>E. C. Abbott (&#x0201C;Teddy Blue&#x0201D;)</authorName> and <authorName>Helena Huntington Smith</authorName>. <role>Illustrated with drawings by</role> <authorName>Ross Santee</authorName></author>, <note>and photographs</note>. &#x000A9; <regDate date="1939-04-26">Apr. 26, 1939</regDate>; <copies>2 c.</copies> <copyDate date="1939-04-28">Apr. 28</copyDate>; aff. <affDate date="1939-04-27">Apr. 27</affDate>; <regNum>A 128326</regNum>; <publisher><pubName claimant="yes">Farrar &amp; Rinehart, inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig351lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>35</volume>
+      <year>1938</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>10</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="575"/>
 <copyrightEntry id="8A7119FE-7673-1014-A64B-A079140B2A43" regnum="A121845"><author><authorName>Abbott, Grace</authorName> </author>. <title>Child and the state.</title> <vol>v. 1</vol>. &#x000A9; <regDate date="1938-09-27">Sept. 27, 1938</regDate>; <copies>2c.</copies> <copyDate date="1938-10-03">Oct. 3</copyDate>; aff. <affDate date="1938-10-05">Oct. 5</affDate>; <regNum>A 121845</regNum>; <publisher><pubName claimant="yes">University of Chicago</pubName>, <pubPlace>Chicago</pubPlace> </publisher>.</copyrightEntry>
 <copyrightEntry id="8A713413-7673-1014-A64B-A079140B2A43" regnum="A120818"><author><authorName>Abbott. Jeanne</authorName>, <role>pseud., comp.</role> </author> <title>Fun&#x02019;s fun.</title> &#x000A9; <regDate date="1938-09-21">Sept. 21, 1938</regDate>; <copies>2c.</copies> <copyDate date="1938-09-26">Sept. 26</copyDate>; aff. <affDate date="1938-09-28">Sept. 28</affDate>; <regNum>A 120818</regNum>; <publisher><pubName claimant="yes">Reilly &amp; Lee co.</pubName>, <pubPlace>Chicago</pubPlace> </publisher>.</copyrightEntry>
