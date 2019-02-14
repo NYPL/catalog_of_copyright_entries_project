@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri371lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>37</volume>
+      <year>1940</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>9</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="385"/>
 <copyrightEntry regnum="A143982" id="07F62E31-70BF-1014-A0AD-E8B617DE6850"><author claimant="yes"><authorName>Abbott, Jane</authorName>,* <authorPlace>Buffalo</authorPlace></author>. <title>Clo</title>, <author><role>by</role> <authorName>J. Abbott</authorName>. <role>Illustrated by</role> <authorName>Heman Fay, jr.</authorName></author> &#x000A9; <regDate date="1940-08-27">Aug. 27, 1940</regDate>; <regNum>A 143982</regNum>.</copyrightEntry>
 <copyrightEntry regnum="A144423" id="07F6401F-70BF-1014-A0AD-E8B617DE6850"><author><authorName>Addison, Agnes</authorName>, <role>ed.</role></author> <title>Portraits in the University of Pennsylvania.</title> &#x000A9; <regDate date="1940-09-06">Sept. 6, 1940</regDate>; <regNum>A 144423</regNum>; <publisher><pubName claimant="yes">University of Pennsylvania press</pubName>, <pubPlace>Philadelphia</pubPlace></publisher>.</copyrightEntry>

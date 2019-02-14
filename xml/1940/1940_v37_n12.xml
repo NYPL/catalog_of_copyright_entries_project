@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri371lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>37</volume>
+      <year>1940</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>12</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="517"/>
 <copyrightEntry regnum="A146837" id="F29A3E3A-70BE-1014-B71C-85D90579BCF5"><author><authorName>Abbott, Austin</authorName></author>. <title>Abbott New York digest.</title> <edition>Consolidated ed.</edition> <note>November, 1940, cumulative pamphlet.</note> &#x000A9; <regDate date="1940-11-04">Nov. 4, 1940</regDate>; <regNum>A 146837</regNum>; <publisher><pubName claimant="yes">West pub. co.</pubName>, <pubPlace>St. Paul</pubPlace> &amp; <pubName claimant="yes">Lawyers co-operative pub. co.</pubName>, <pubPlace>Rochester, N. Y.</pubPlace></publisher></copyrightEntry>
 <copyrightEntry regnum="A146763" id="F29A4F6F-70BE-1014-B71C-85D90579BCF5"><author claimant="yes"><authorName>Abbott, Lawrence</authorName>,* <authorPlace>New York</authorPlace></author>. <title>Approach to music.</title> &#x000A9; <regDate date="1940-10-28">Oct. 28, 1940</regDate>; <regNum>A 146763</regNum>.</copyrightEntry>

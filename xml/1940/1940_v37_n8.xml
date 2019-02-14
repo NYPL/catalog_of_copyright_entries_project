@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri371lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>37</volume>
+      <year>1940</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>8</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="345"/>
 <copyrightEntry regnum="A143608" id="06003DA1-70BF-1014-A774-EA3F3A024C0C"><author><authorName>Ackerman, Adolph J.</authorName></author> <title>Construction planning and plant</title>, <author><role>by</role> <authorName>A. J. Ackerman</authorName> and <authorName>Charles H. Locher</authorName></author>. <edition>1st ed.</edition> &#x000A9; <regDate date="1940-08-02">Aug. 2, 1940</regDate>; <regNum>A 143608</regNum>; <publisher><pubName claimant="yes">McGraw-Hill book co., inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry regnum="A143388" id="06004F92-70BF-1014-A774-EA3F3A024C0C"><author claimant="yes"><authorName>Adams, John Stokes, jr.</authorName>,* <authorPlace>Philadelphia</authorPlace></author>. <title>Aesthetics of pessimism.</title> &#x000A9; <regDate date="1940-07-24">July 24, 1940</regDate>; <regNum>A 143388</regNum>.</copyrightEntry>

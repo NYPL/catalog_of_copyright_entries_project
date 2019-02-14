@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri371lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>37</volume>
+      <year>1940</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>6</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="247"/>
 <copyrightEntry regnum="A141630" id="0167F841-70BF-1014-A037-E88102FA5F50"><author><authorName>Abbott, Austin</authorName></author>. <title>Abbott New York digest.</title> <edition>Consolidated ed.</edition> <note>May, 1940, cumulative pamphlet.</note> &#x000A9; <regDate date="1940-05-22">May 22, 1940</regDate>; <regNum>A 141630</regNum>; <publisher><pubName claimant="yes">West pub. co.</pubName>, <pubPlace>St. Paul</pubPlace> &amp; <pubName claimant="yes">lawyers co-operative pub. co.</pubName>, <pubPlace>Rochester, N. Y.</pubPlace></publisher></copyrightEntry>
 <copyrightEntry regnum="A141810" id="01680E14-70BF-1014-A037-E88102FA5F50"><author><authorName>Abbott, Edith</authorName></author>. <title>Public assistance.</title> <vol>v. I.</vol> &#x000A9; <regDate date="1940-06-01">June 1, 1940</regDate>; <regNum>A 141810</regNum>; <publisher><pubName claimant="yes">University of Chicago</pubName>, <pubPlace>Chicago</pubPlace></publisher>.</copyrightEntry>

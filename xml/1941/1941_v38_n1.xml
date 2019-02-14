@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri38lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>38</volume>
+      <year>1941</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>1</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="1"/>
 <copyrightEntry id="235C045E-734A-1014-96B2-C3A847490621" regnum="A147985"><author><authorName>Aaberg (Jean Littlejohn)</authorName></author> <title>Don&#x02019;t phone mother</title>. &#x000A9; <regDate date="1940-10-18">Oct. 18, 1940</regDate>; <regNum>A 147985</regNum>; <publisher><pubName claimant="yes">Penn pub. co.</pubName>, <pubPlace>Philadelphia</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="235C19A1-734A-1014-96B2-C3A847490621" regnum="A148320"><author><authorName>Abbott (Arthur L.)</authorName></author> <title>National electrical code handbook</title>. <edition>5th ed.</edition> &#x000A9; <regDate date="1940-12-12">Dec. 12, 1940</regDate>; <regNum>A 148320</regNum>; <publisher><pubName claimant="yes">McGraw-Hill book co., inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

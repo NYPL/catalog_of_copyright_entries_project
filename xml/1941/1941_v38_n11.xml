@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri38lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>38</volume>
+      <year>1941</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>11</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="409"/>
 <copyrightEntry id="32575BF5-734A-1014-9154-C7651F0A5C6D" regnum="A158507"><author><authorName>Adair (Hazel)</authorName></author> <title>One for the money</title>. &#x000A9; <regDate date="1941-01-24">Jan. 24, 1941</regDate>; <regNum>A 158507</regNum>; <publisher><pubName claimant="yes">Arcadia house, inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="32577324-734A-1014-9154-C7651F0A5C6D" regnum="A158535"><author><authorName>Adams (Cleve F.)</authorName></author> <title>Black door</title>. [ <edition>1st ed.</edition>] &#x000A9; <regDate date="1941-11-03">Nov. 3, 1941</regDate>; <regNum>A 158535</regNum>; <publisher><pubName claimant="yes">E. P. Dutton &amp; co., inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

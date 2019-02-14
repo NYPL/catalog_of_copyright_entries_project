@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig391li"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>39</volume>
+      <year>1942</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <numbers start="1" end="12"/>
+      </division>
+    </cite>
+  </header>
 <page pgnum="1"/>
 <copyrightEntry id="7BF13D6E-6E18-1014-9400-B664922230AB" regnum="A160401"><author><authorName>Abbott (Grace)</authorName></author> <title>From relief to social security.</title> &#xA9; <regDate date="1941-12-09">Dec. 9, 1941</regDate>; <regNum>A 160401</regNum>; <publisher><pubName claimant="yes">University of Chicago</pubName>, <pubPlace>Chicago.</pubPlace></publisher></copyrightEntry>
 <copyrightEntry id="7BF16F68-6E18-1014-9400-B664922230AB" regnum="AI26938"><author>[<authorName>Abrahams (Doris)</authorName>] &amp; </author><author claimant="yes">[<authorName>Skidelsky (Simon Jasha)</authorName>]* <authorPlace>London</authorPlace>.</author> <title>No bed for Bacon</title>, <author><role>by</role> <authorName>Caryl Brahms</authorName> [</author><author><role>pseud.</role>] and <authorName>S. J. Simon</authorName> [<role>pseud.</role>]</author> &#xA9; <copies>1 c</copies>. <copyDate date="1942-01-06">Jan. 6, 1942</copyDate>; <regNum>A ad int. 26938</regNum>; <publisher>pubd. <pubDate date="1941-11-10">Nov. 10, 1941</pubDate>.</publisher></copyrightEntry>

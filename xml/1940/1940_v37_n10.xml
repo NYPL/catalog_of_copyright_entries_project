@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri371lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>37</volume>
+      <year>1940</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>10</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="425"/>
 <copyrightEntry regnum="A144754" id="F6C532FD-70BE-1014-B1C2-9B8F37115996"><author><authorName>Abbe, George</authorName></author>. <title>Dreamer&#x02019;s clay.</title> &#x000A9; <regDate date="1940-09-23">Sept. 23, 1940</regDate>; <regNum>A 144754</regNum>; <publisher><pubName claimant="yes">Henry Holt &amp; co., inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry regnum="A145346" id="F6C54A25-70BE-1014-B1C2-9B8F37115996"><author><authorName>Abrahamson, Emanuel M.</authorName></author> <title>Office clinical chemistry</title>; <note>a laboratory guide for the practitioner and hospital.</note> &#x000A9; <regDate date="1940-08-01">Aug. 1, 1940</regDate>; <regNum>A 145346</regNum>; <publisher><pubName claimant="yes">Oxford univ. press, New York, inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

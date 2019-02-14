@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri371lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>37</volume>
+      <year>1940</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>5</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="191"/>
 <copyrightEntry regnum="A138896" id="FF497786-70BE-1014-ABD7-955BD7FB44A1"><author><authorName>Abbe, George</authorName></author>. <title>Wait for these things.</title> &#x000A9; <regDate date="1940-04-19">Apr. 19, 1940</regDate>; <regNum>A 138896</regNum>; <publisher><pubName claimant="yes">Henry Holt &amp; co., inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry regnum="A140107" id="FF498A62-70BE-1014-ABD7-955BD7FB44A1"><author><authorName>Abbe, Patience</authorName></author>. <title>No place like home</title>, <author><role>by</role> <authorName>Patience, Richard</authorName> and <authorName>John Abbe</authorName></author>. &#x000A9; <regDate date="1940-04-10">Apr. 10, 1940</regDate>; <regNum>A 140107</regNum>; <publisher><pubName claimant="yes">Polly Shorrock Abbe</pubName>, <pubPlace>Larkspur, Col.</pubPlace></publisher></copyrightEntry>

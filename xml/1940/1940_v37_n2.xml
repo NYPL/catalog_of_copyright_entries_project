@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri371lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>37</volume>
+      <year>1940</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>2</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="37"/>
 <copyrightEntry regnum="A136346" id="F909E82D-70BE-1014-9214-A3BD94D715C8"><author><authorName>Abbott, Austin</authorName></author>. <title>Abbott New York digest.</title> <edition>Consolidated ed.</edition> <note>December, 1939, cumulative pamphlet, with cumulative table of cases digested.</note> &#x000A9; <regDate date="1939-12-21">Dec. 21, 1939</regDate>; <regNum>A 136346</regNum>; <publisher><pubName claimant="yes">West pub. co.</pubName>, <pubPlace>St. Paul</pubPlace> &amp; <pubName claimant="yes">Lawyers co-operative pub. co.</pubName>, <pubPlace>Rochester, N. Y.</pubPlace></publisher></copyrightEntry>
 <copyrightEntry regnum="AF45267" id="F90A0050-70BE-1014-9214-A3BD94D715C8"><author><authorName>Acremant, Germaine</authorName></author>. <title>La route mouvante.</title> &#x000A9; <regDate date="1939-07-24">July 24, 1939</regDate>; <regNum>A for. 45267</regNum>; <publisher><pubName claimant="yes">Librairie Plon</pubName>, <pubPlace>Paris</pubPlace></publisher>.</copyrightEntry>

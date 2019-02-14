@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri38lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>38</volume>
+      <year>1941</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>6</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="217"/>
 <copyrightEntry id="2AD18584-734A-1014-B422-F1E61D7CD490" regnum="A154482"><author claimant="yes"><authorName>Abbott (Jane)</authorName>* <authorPlace>Ben Avon Heights, Pa.</authorPlace> </author> <title>Lorrie</title>. &#x000A9; <regDate date="1941-05-26">May 26, 1941</regDate>; <regNum>A 154482</regNum>.</copyrightEntry>
 <copyrightEntry id="2AD19593-734A-1014-B422-F1E61D7CD490" regnum="A154340"><author><authorName>Abbott (Lawrence)</authorName></author> <title>Listener&#x02019;s book on harmony</title>. &#x000A9; <regDate date="1941-06-03">June 3, 1941</regDate>; <regNum>A 154340</regNum>; <publisher><pubName claimant="yes">Theodore Presser co.</pubName>, <pubPlace>Philadelphia</pubPlace></publisher>.</copyrightEntry>

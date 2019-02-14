@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri371lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>37</volume>
+      <year>1940</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>7</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="293"/>
 <copyrightEntry regnum="AF46250" id="03859636-70BF-1014-9AFF-F4977B7448FF"><author><authorName>Abegg, Lily</authorName></author>. <title>Chinas erneuenmg.</title> &#x000A9; <regDate date="1940-05-20">May 20, 1940</regDate>; <regNum>A for. 46250</regNum>; <publisher><pubName claimant="yes">Frankfurter societ&#x000E4;ts-druckerei, g. m. b. h.</pubName>, <pubPlace>Frankfurt/Main, Germany</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry regnum="AI26136" id="0385A6BC-70BF-1014-9AFF-F4977B7448FF">[<author claimant="yes"><authorName>Abrahams, Doris</authorName> &amp; <authorName>Skidelsky, Simon Jasha</authorName>]* <authorPlace>London</authorPlace></author>. <title>Envoy on excursion</title> <author>[<role>by</role>] <authorName>Caryl Brahms</authorName> [<role>pseud.</role>] &amp; <authorName>S. J. Simon</authorName> [<role>pseud.</role></author>] &#x000A9; <copies>1 c.</copies> <copyDate date="1940-07-09">July 9, 1940</copyDate>; <regNum>A ad int. 26136</regNum>; pubd. <publisher><pubDate date="1940-05-14">May 14</pubDate></publisher>.</copyrightEntry>

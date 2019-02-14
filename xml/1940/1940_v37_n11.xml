@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri371lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>37</volume>
+      <year>1940</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>11</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="469"/>
 <entryGroup>
 <author><authorName>Abbott, Austin</authorName></author>.<copyrightEntry regnum="A144982" id="F49CE8AA-70BE-1014-9473-CECB846257BF"><title>Abbott New York digest.</title> <edition>Consolidated ed.</edition> <note>1940 cumulative annual pocket part [for] v. 1-41</note>. &#x000A9; <regDate date="1940-10-01">Oct. 1, 1940</regDate>; <regNum>A 144982</regNum>; <publisher><pubName claimant="yes">West pub. co.</pubName>, <pubPlace>St. Paul</pubPlace> &amp; <pubName claimant="yes">Lawyers co-operative pub. co.</pubName>, <pubPlace>Rochester, N. Y.</pubPlace></publisher></copyrightEntry>

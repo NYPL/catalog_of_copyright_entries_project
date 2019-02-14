@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri371lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>37</volume>
+      <year>1940</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>3</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="79"/>
 <copyrightEntry regnum="A138142" id="FB0AC9AC-70BE-1014-B4FE-B359828D6631"><author><authorName>Abrams, A. W.</authorName></author> <title>World geography</title>, <author><role>by</role> <authorName>A. W. Abrams</authorName> and <authorName>E. L. Thurston</authorName></author>. [<edition>1940 ed.</edition>] &#x000A9; <regDate date="1940-03-08">Mar. 8, 1940</regDate>; <regNum>A 138142</regNum>; <publisher><pubName claimant="yes">Iroquois pub. co., inc.</pubName>, <pubPlace>Syracuse, N. Y.</pubPlace></publisher></copyrightEntry>
 <copyrightEntry regnum="A136745" id="FB0AD328-70BE-1014-B4FE-B359828D6631"><author><authorName>Adam, T. R.</authorName></author> <title>Motion pictures in adult education.</title> &#x000A9; <regDate date="1940-02-13">Feb. 13, 1940</regDate>; <regNum>A 136745</regNum>; <publisher><pubName claimant="yes">Amer. assn, for adult education, inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

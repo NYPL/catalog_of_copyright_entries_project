@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri38lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>38</volume>
+      <year>1941</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>7</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="261"/>
 <copyrightEntry id="2C2B8FE9-734A-1014-A8C2-F0965DA657BB" regnum="A155111"><title>AA, teacher of English teachers</title>; <note>some of his writings on teaching and literary art, with editorial notes by F. T. B., E. H. and L. G.</note> &#x000A9; <regDate date="1941-05-05">May 5, 1941</regDate>; <regNum>A 155111</regNum>; <publisher><pubName claimant="yes">Teachers college, Columbia univ.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="2C2B9EE5-734A-1014-A8C2-F0965DA657BB" regnum="A155090"><author><authorName>Abbott (Berenice)</authorName></author> <title>Guide to better photography</title>. &#x000A9; <regDate date="1941-06-25">June 25, 1941</regDate>; <regNum>A 155090</regNum>; <publisher><pubName claimant="yes">Grown publishers</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

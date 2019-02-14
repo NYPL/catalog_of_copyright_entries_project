@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri371lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>37</volume>
+      <year>1940</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>1</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="1"/>
 <copyrightEntry regnum="A134780" id="EF73DC0B-70BE-1014-A496-F25F3168060A"><author claimant="yes"><authorName>Abair, Frederick</authorName>,* <authorPlace>Kirby, O.</authorPlace></author> <title>Queen of heaven</title>, <author><role>by</role> <authorName>F. Abair</authorName>. <role>Illustrated by</role> <authorName>Sister M. Genevieve</authorName></author>. &#x000A9; <regDate date="1939-12-09">Dec. 9, 1939</regDate>; <copies>2 c.</copies> and aff. <affDate date="1939-12-14">Dec. 14</affDate>; <regNum>A 134780</regNum>.</copyrightEntry>
 <copyrightEntry regnum="A135907" id="EF73EFFE-70BE-1014-A496-F25F3168060A"><author><authorName>Abbott, Daisy T.</authorName></author> <title>Indoor gardener.</title> &#x000A9; <regDate date="1939-11-27">Nov. 27, 1939</regDate>; <copies>2 c.</copies> <copyDate date="1939-12-18">Dec. 18</copyDate>; aff. <affDate date="1939-12-16">Dec. 16</affDate>; <regNum>A 135907</regNum>; <publisher><pubName claimant="yes">University of Minnesota</pubName>, <pubPlace>Minneapolis</pubPlace></publisher>.</copyrightEntry>

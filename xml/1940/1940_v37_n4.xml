@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri371lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>37</volume>
+      <year>1940</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>4</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="139"/>
 <copyrightEntry regnum="A138575" id="FD1BC31D-70BE-1014-8AB7-940A61640918"><author claimant="yes"><authorName>Aaron, Harold</authorName>,* <authorPlace>New York</authorPlace></author>. <title>Good health and bad medicine</title>. &#x000A9; <regDate date="1940-02-24">Feb. 24, 1940</regDate>; <regNum>A 138575</regNum>.</copyrightEntry>
 <copyrightEntry regnum="A138176" id="FD1BD7DD-70BE-1014-8AB7-940A61640918"><author><authorName>Abbott, Austin</authorName></author>. <title>Abbott New York digest</title>. <edition>Consolidated ed.</edition> <note>February, 1940, cumulative pamphlet, with cumulative table of cases digested.</note> &#x000A9; <regDate date="1940-02-08">Feb. 8, 1940</regDate>; <regNum>A 138176</regNum>; <publisher><pubName claimant="yes">West pub. co.</pubName>, <pubPlace>St. Paul</pubPlace> &amp; <pubName claimant="yes">Lawyers co-operative pub. co.</pubName>, <pubPlace>Rochester, N. Y.</pubPlace></publisher></copyrightEntry>

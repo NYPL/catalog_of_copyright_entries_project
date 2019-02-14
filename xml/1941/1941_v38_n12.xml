@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri38lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>38</volume>
+      <year>1941</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>12</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="443"/>
 <copyrightEntry id="083817BF-735C-1014-A75E-E418676640A8" regnum="A159208"><author><authorName>Abbott (Elisabeth)</authorName> <role>tr.</role> </author> <title>Devil in France</title>. [ <edition>World 1st ed.</edition>] &#x000A9; <regDate date="1941-11-24">Nov. 24, 1941</regDate>; <regNum>A 159208</regNum>; <publisher><pubName claimant="yes">Lion Feuchtwanger</pubName>, <pubPlace>West Los Angeles, Calif</pubPlace>. </publisher></copyrightEntry>
 <copyrightEntry id="0838268C-735C-1014-A75E-E418676640A8" regnum="A159310"><author><authorName>Abrams (Ray)</authorName></author> <title>Business behavior</title>. &#x000A9; <regDate date="1941-08-27">Aug. 27, 1941</regDate>; <regNum>A 159310</regNum>; <publisher><pubName claimant="yes">Southwestern pub. co.</pubName>, <pubPlace>Cincinnati</pubPlace></publisher>.</copyrightEntry>

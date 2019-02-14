@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri38lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>38</volume>
+      <year>1941</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>3</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="93"/>
 <copyrightEntry id="28CAB77A-7359-1014-9B25-9740215B2A60" regnum="A151402"><author><authorName>Abercrombie (Roland K.)</authorName></author> <title>How to buy or build your home wisely</title>. &#x000A9; <regDate date="1941-03-18">Mar. 18, 1941</regDate>; <regNum>A 151402</regNum>; <publisher><pubName claimant="yes">Macmillan co.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="28CAC86F-7359-1014-9B25-9740215B2A60" regnum="A150823"><author><authorName>Abernethy (Thomas Perkins)</authorName></author> <title>Three Virginia frontiers</title>. &#x000A9; <regDate date="1940-12-31">Dec. 31, 1940</regDate>; <regNum>A 150823</regNum>; <publisher><pubName claimant="yes">Louisiana state univ. press</pubName>, <pubPlace>University, La</pubPlace>. </publisher></copyrightEntry>

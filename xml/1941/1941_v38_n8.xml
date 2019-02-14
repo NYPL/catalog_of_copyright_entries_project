@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri38lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>38</volume>
+      <year>1941</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>8</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="295"/>
 <copyrightEntry id="2D7B08CF-734A-1014-A085-C9DC5C6A6EBA" regnum="A156052"><author><authorName>Abbey (Kieran)</authorName></author> <title>Run with the hare</title>. &#x000A9; <regDate date="1941-08-11">Aug. 11, 1941</regDate>; <regNum>A 156052</regNum>; <publisher><pubName claimant="yes">Charles Scribner&#x02019;s sons</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="2D7B1124-734A-1014-A085-C9DC5C6A6EBA" regnum="A155668 A155669">[<author><authorName>Abbott (Austin)</authorName></author>] <title>Abbott New York digest</title>. <edition>Consolidated ed.</edition> <vol>v. 39, 42</vol>. &#x000A9; <regDate date="1941-06-26">June 26, 1941</regDate>; <regNum>A 155668, 155669</regNum>; <publisher><pubName claimant="yes">West pub. co., St. Paul &amp; Lawyers co-operative pub. co.</pubName>, <pubPlace>Rochester, N. Y.</pubPlace></publisher></copyrightEntry>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri38lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>38</volume>
+      <year>1941</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>2</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="51"/>
 <copyrightEntry id="254CEA36-734A-1014-85DE-F2DFCDDCA0FD" regnum="A149657"><author claimant="yes"><authorName>Abbamonte (Salvatore)</authorName>* <authorPlace>New York</authorPlace> </author>. <title>I figli dello Spirito Santo</title>. &#x000A9; <regDate date="1940-12-15">Dec. 15, 1940</regDate>; <regNum>A 149657</regNum>.</copyrightEntry>
 <copyrightEntry id="254CFA2A-734A-1014-85DE-F2DFCDDCA0FD" regnum="A149918"><author><authorName>Abbey (Kathryn Trimmer)</authorName></author> <title>Florida: land of change</title>. &#x000A9; <regDate date="1941-02-01">Feb. 1, 1941</regDate>; <regNum>A 149918</regNum>; <publisher><pubName claimant="yes">University of North Carolina press</pubName>, <pubPlace>Chapel Hill, N. C.</pubPlace> </publisher></copyrightEntry>

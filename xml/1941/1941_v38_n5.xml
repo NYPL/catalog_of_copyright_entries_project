@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyri38lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>38</volume>
+      <year>1941</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>5</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="169"/>
 <copyrightEntry id="66D80744-735A-1014-A944-84CE4D952701" regnum="A153319"><author><authorName>Abbot (Waldo)</authorName></author> <title>Handbook of broadcasting</title>. <edition>2d ed.</edition> &#x000A9; <regDate date="1941-05-09">May 9, 1941</regDate>; <regNum>A 153319</regNum>; <publisher><pubName claimant="yes">McGraw-Hill book co., inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="66D82312-735A-1014-A944-84CE4D952701" regnum="A152628"><author><authorName>Abbott (Austin)</authorName></author> <title>Abbott New York digest</title>. <edition>Consolidated ed.</edition> <note>April, 1941, cumulative pamphlet.</note> &#x000A9; <regDate date="1941-04-10">Apr. 10, 1941</regDate>; <regNum>A 152628</regNum>; <publisher><pubName claimant="yes">West pub. co.</pubName>, <pubPlace>St. Paul</pubPlace> &amp; <pubName claimant="yes">Lawyers co-operative pub. co.</pubName>, <pubPlace>Rochester, N. Y.</pubPlace></publisher></copyrightEntry>
