@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!ELEMENT copyrightEntries (header, (page | copyrightEntry| entryGroup | crossRef)*)>
-<!ELEMENT header (source, cite)>
+<!ELEMENT header (source, status?,cite)>
 <!ELEMENT source EMPTY>
 <!ATTLIST source
 	  url CDATA #REQUIRED>
+<!ELEMENT status (#PCDATA)>
 <!ELEMENT cite (series, volume, year, division)>
 <!ATTLIST series
 	  label CDATA #IMPLIED>
