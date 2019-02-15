@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig40libr"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>40</volume>
+      <year>1943</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>12</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="227"/>
 <copyrightEntry id="3C5D67F4-734A-1014-8022-9B0F6216A222" regnum="AI27938"><author claimant="yes">[<authorName>Abrahams (Doris)</authorName>]* <authorPlace>London</authorPlace> </author>. <title>Robert Helpmann, choreographer</title>, <author><role>by</role> <authorName>Caryl Brahms</authorName> [<role>pseud.</role>]</author> &#x000A9; <copies>1 c.</copies> <copyDate date="1943-11-27">Nov. 27, 1943</copyDate>; <regNum>A ad int. 27938</regNum>; pubd. <publisher><pubDate date="1943-10-01">Oct. 1</pubDate></publisher>.</copyrightEntry>
 <copyrightEntry id="3C5D71D3-734A-1014-8022-9B0F6216A222" regnum="A177173"><author><authorName>Adams (Nicholson B.)</authorName></author> <title>Heritage of Spain</title>. &#x000A9; <regDate date="1943-11-23">Nov. 23, 1943</regDate>; <regNum>A 177173</regNum>; <publisher><pubName claimant="yes">Henry Holt &amp; co., inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig41lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>41</volume>
+      <year>1944</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>6</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="103"/>
 <copyrightEntry id="FA0E3EC0-7454-1014-AFDF-E0F1EEA48D1C" regnum="A180904"><author><authorName>Adams (R. Charles)</authorName></author> <title>Intravenous anesthesia</title>. &#x000A9; <regDate date="1944-05-24">May 24, 1944</regDate>; <regNum>A 180904</regNum>; <publisher><pubName claimant="yes">Paul B. Hoeber, inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="FA0E50FC-7454-1014-AFDF-E0F1EEA48D1C" regnum="A180969"><author><authorName>Alden (John Richard)</authorName></author> <title>John Stuart and the Southern colonial frontier</title>. &#x000A9; <regDate date="1944-05-19">May 19, 1944</regDate>; <regNum>A 180969</regNum>; <publisher><pubName claimant="yes">University of Michigan</pubName>, <pubPlace>Ann Arbor</pubPlace></publisher>.</copyrightEntry>

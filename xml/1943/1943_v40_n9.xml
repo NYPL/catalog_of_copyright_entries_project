@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig40libr"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>40</volume>
+      <year>1943</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>9</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="169"/>
 <copyrightEntry id="401EC66D-734A-1014-9133-E2AD2EE3EEF0" regnum="A175624"><author><authorName>Abbott (Elizabeth)</authorName> <role>tr.</role> </author> <title>This was Lidice</title>, <author><role>by</role> <authorName>Gustav Holm</authorName>. <role>Translated by</role> <authorName>E. Abbott</authorName></author> &#x000A9; <regDate date="1943-09-24">Sept. 24, 1943</regDate>; <regNum>A 175624</regNum>; <publisher><pubName claimant="yes">G. P. Putnam&#x02019;s sons</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="401ED964-734A-1014-9133-E2AD2EE3EEF0" regnum="A175435"><author><authorName>Adriani (Bruno)</authorName></author> <title>Problems of the sculptor</title>. &#x000A9; <regDate date="1943-09-15">Sept. 15, 1943</regDate>; <regNum>A 175435</regNum>; <publisher><pubName claimant="yes">Nierendorf gallery</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

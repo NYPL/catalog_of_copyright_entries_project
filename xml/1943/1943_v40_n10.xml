@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig40libr"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>40</volume>
+      <year>1943</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>10</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="189"/>
 <copyrightEntry id="33B422D0-7359-1014-A321-A5CE4853BE75" regnum="A175787"><author><authorName>Abel (Lionel)</authorName> <role>tr.</role> </author> <title>Georges Seurat</title>, <author><role>by</role> <authorName>John Rewaid</authorName>. <role>Translated by</role> <authorName>L. Abel</authorName></author>. [<edition>1st ed.</edition>] &#x000A9; <regDate date="1943-07-07">July 7, 1943</regDate>; <regNum>A 175787</regNum>; <publisher><pubName claimant="yes">Wittenborn &amp; co.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="33B4320E-7359-1014-A321-A5CE4853BE75" regnum="A176130"><author><authorName>Abell (Aaron Ignatius)</authorName></author> <title>Urban impact on American Protestantism, 1865-1900</title>. &#x000A9; <regDate date="1943-10-07">Oct. 7, 1943</regDate>; <regNum>A 176130</regNum>; <publisher><pubName claimant="yes">President &amp; fellows of Harvard college</pubName>, <pubPlace>Cambridge, Mass.</pubPlace></publisher></copyrightEntry>

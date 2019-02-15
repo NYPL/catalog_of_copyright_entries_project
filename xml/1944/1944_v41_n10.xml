@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig41lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>41</volume>
+      <year>1944</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>10</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="193"/>
 <copyrightEntry id="0285370B-7455-1014-98F9-DB39C8E8A4AD" regnum="A183149"><author claimant="yes"><authorName>Adams (Spencer L.)</authorName>* <authorPlace>Skaneateles, N. Y.</authorPlace></author> <title>Long House of the Iroquois</title>. &#x000A9; <regDate date="1944-08-26">Aug. 26, 1944</regDate>; <regNum>A 183149</regNum>.</copyrightEntry>
 <copyrightEntry id="02854A0E-7455-1014-98F9-DB39C8E8A4AD" regnum="A183219">[<author><authorName>Aldington (Mrs. Richard)</authorName></author>] <title>Walls do not fall</title>, <author><role>by</role> <authorName>H. D.</authorName></author> &#x000A9; <regDate date="1944-08-24">Aug. 24, 1944</regDate>; <regNum>A 183219</regNum>; <publisher><pubName claimant="yes">Oxford univ. press, New York, inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig41lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>41</volume>
+      <year>1944</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>8</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="145"/>
 <copyrightEntry id="FE32733D-7454-1014-BD71-A1FDDCE388FC" regnum="A182314"><author claimant="yes"><authorName>Abend (Hallett)</authorName>* <authorPlace>Hyde Park, Vt.</authorPlace></author> <title>Treaty ports</title>. [<edition>1st ed.</edition>] &#x000A9; <regDate date="1944-08-18">Aug. 18, 1944</regDate>; <regNum>A 182314</regNum>.</copyrightEntry>
 <copyrightEntry id="FE3287F2-7454-1014-BD71-A1FDDCE388FC" regnum="A181878"><author claimant="yes"><authorName>Abner (Maude Melton)</authorName>* <authorPlace>Louisville</authorPlace></author>. <title>Story of the Union gospel mission, 1886-1944</title>. &#x000A9; <regDate date="1944-07-10">July 10, 1944</regDate>; <regNum>A 181878</regNum>.</copyrightEntry>

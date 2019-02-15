@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig41lib"/>
+    <status>Some corrections</status>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>42</volume>
+      <year>1945</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <numbers start="1" end="12"/>
+      </division>
+    </cite>
+  </header>
 <page pgnum="1"/>
 <copyrightEntry id="49A6D25C-6D06-1014-A65A-D57CF5CB45BA" regnum="A185390"><author claimant="yes"><authorName>Abbett (Robert W.)</authorName>* <authorPlace>San Francisco</authorPlace>. </author><title>Engineering contracts and specifications.</title> &#xA9; <regDate date="1945-01-08">Jan. 8, 1945</regDate>; <regNum>A 185390</regNum>.</copyrightEntry>
 <copyrightEntry id="49A70D5D-6D06-1014-A65A-D57CF5CB45BA" regnum="A185432"><author><authorName>Abbot (Charles Greeley)</authorName> <role>ed.</role> </author><title>Smithsonian series.</title> <volumes>v. 1-12</volumes>. &#xA9; <regDate date="1944-12-21">Dec. 21, 1944</regDate>; <regNum>A 185432</regNum>; <publisher><pubName claimant="yes">Smithsonian institution series, inc.</pubName>, <pubPlace>New York</pubPlace>.</publisher></copyrightEntry>

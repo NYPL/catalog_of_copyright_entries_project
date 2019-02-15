@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig41lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>41</volume>
+      <year>1944</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>7</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="125"/>
 <copyrightEntry id="FC10B2ED-7454-1014-804D-AD6D08A5DF13" regnum="A181780"><author><authorName>Abrams (Talbert)</authorName></author> <title>Essentials of aerial surveying and photo interpretation</title>. <edition>1st ed.</edition> &#x000A9; <regDate date="1944-07-17">July 17, 1944</regDate>; <regNum>A 181780</regNum>; <publisher><pubName claimant="yes">McGraw-Hill book co., inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="FC10C2AA-7454-1014-804D-AD6D08A5DF13" regnum="A181778"><author><authorName>Akers (Susan Grey)</authorName></author> <title>Simple library cataloging</title>. &#x000A9; <regDate date="1944-06-29">June 29, 1944</regDate>; <regNum>A 181778</regNum>; <publisher><pubName claimant="yes">Amer. library assn.</pubName>, <pubPlace>Chicago</pubPlace></publisher>.</copyrightEntry>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig41lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>41</volume>
+      <year>1944</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>2</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="23"/>
 <copyrightEntry id="F01E68ED-7454-1014-B8B3-B7949728563B" regnum="A178726"><author><authorName>Abt (Isaac A.)</authorName></author> <title>Baby doctor</title>. &#x000A9; <regDate date="1944-02-14">Feb. 14, 1944</regDate>; <regNum>A 178726</regNum>, <publisher><pubName claimant="yes">McGraw-Hill book co., inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="F01E7B38-7454-1014-B8B3-B7949728563B" regnum="A178672"><author claimant="yes"><authorName>Aldridge (James)</authorName>* <authorPlace>Cairo, Egypt</authorPlace></author>. <title>Sea eagle</title>. [<edition>1st ed.</edition>] &#x000A9; <regDate date="1944-02-09">Feb. 9, 1944</regDate>; <regNum>A 178672</regNum>.</copyrightEntry>

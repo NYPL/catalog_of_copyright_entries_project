@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig40libr"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>40</volume>
+      <year>1943</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>6</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="109"/>
 <copyrightEntry id="49FC9625-734A-1014-9F91-F6826BF2B932" regnum="A173143"><author claimant="yes"><authorName>Adams (Cleve F.)</authorName>* <authorPlace>Glendale, Calif.</authorPlace> </author> <title>Up jumped the devil</title>. &#x000A9; <regDate date="1943-05-21">May 21, 1943</regDate>; <regNum>A 173143</regNum>.</copyrightEntry>
 <copyrightEntry id="49FCACA9-734A-1014-9F91-F6826BF2B932" regnum="AI27684 AI27685 AI27708"><author><authorName>Ahrens (Cora B.)</authorName></author> <title>Boosey &amp; Hawkes school music series</title>. <note>Books 1, 2, 4</note>. &#x000A9; <copies>1 c.</copies> <copyDate date="1943-05-06">May 6, June 28, 1943</copyDate>; <regNum>A ad int. 27684, 27685, 27708</regNum>; pubd. <publisher><pubDate date="1943-04-27">Apr. 27, June 23</pubDate>; <pubName claimant="yes">Boosey &amp; Hawkes, Canada, ltd.</pubName>, <pubPlace>Toronto</pubPlace></publisher>.</copyrightEntry>

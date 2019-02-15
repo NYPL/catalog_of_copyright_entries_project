@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig40libr"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>40</volume>
+      <year>1943</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>5</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="89"/>
 <copyrightEntry id="48B46AA9-734A-1014-9323-8A9430DDD1F7" regnum="A172882"><author><authorName>Abernethy (Byron R.)</authorName></author> <title>Liberty concepts in labor relations</title>. &#x000A9; <regDate date="1943-02-06">Feb. 6, 1943</regDate>; <regNum>A 172882</regNum>; <publisher><pubName claimant="yes">Amer. council on public affairs</pubName>, <pubPlace>Washington</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="48B48054-734A-1014-9323-8A9430DDD1F7" regnum="A173027"><author claimant="yes"><authorName>Adams (Charlotte)</authorName>* <authorPlace>New York</authorPlace> </author>. <title>You'll eat it up</title>. &#x000A9; <regDate date="1943-04-29">Apr. 29, 1943</regDate>; <regNum>A 173027</regNum>.</copyrightEntry>

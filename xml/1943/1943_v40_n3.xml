@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig40libr"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>40</volume>
+      <year>1943</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>3</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="47"/>
 <copyrightEntry id="46000E5E-734A-1014-BF2B-F7F0DAC3F1AB" regnum="A171328"><title>A. L. R. blue book of supplemental decisions for annotations in the American law reports. 1943 revision</title>. &#x000A9; <regDate date="1943-03-01">Mar. 1, 1943</regDate>; <regNum>A 171328</regNum>; <publisher><pubName claimant="yes">Lawyers co-operative pub. co.</pubName>, <pubPlace>Rochester, N. Y.</pubPlace> &amp; <pubName claimant="yes">Bancroft-Whitney co.</pubName>, <pubPlace>San Francisco</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="46001F74-734A-1014-BF2B-F7F0DAC3F1AB" regnum="A171683">[<author><authorName>Acker (Lawrence)</authorName></author>] <title>Empty tomb</title>. [<author><role>By</role> <authorName>L. Acker</authorName>, <authorName>John William Behnken</authorName></author> and <note>others]</note> &#x000A9; <regDate date="1943-01-05">Jan. 5, 1943</regDate>; <regNum>A 171683</regNum>; <publisher><pubName claimant="yes">Concordia pub. house</pubName>, <pubPlace>St. Louis</pubPlace></publisher>.</copyrightEntry>

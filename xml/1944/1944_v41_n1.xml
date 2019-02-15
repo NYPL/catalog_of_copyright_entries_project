@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig41lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>41</volume>
+      <year>1944</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>1</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="1"/>
 <copyrightEntry id="E6BAA486-7454-1014-9531-A642EBC05C39" regnum="A177692"><author><authorName>Ackerman (Lloyd)</authorName></author> <title>Health and hygiene</title>. &#x000A9; <regDate date="1943-12-23">Dec. 23, 1943</regDate>; <regNum>A 177692</regNum>; <publisher><pubName claimant="yes">Jaques Cattell press</pubName>, <pubPlace>Lancaster, Pa.</pubPlace></publisher></copyrightEntry>
 <copyrightEntry id="E6BAB453-7454-1014-9531-A642EBC05C39" regnum="A178156"><author><authorName>Adams (A. Elwood)</authorName></author> <title>Democratic citizenship in today&#x02019;s world</title>, <author><role>by</role> <authorName>A. E. Adams</authorName> [and] <authorName>Edward Everett Walker</authorName></author>. &#x000A9; <regDate date="1944-01-03">Jan. 3, 1944</regDate>; <regNum>A 178156</regNum>; <publisher><pubName claimant="yes">Charles Scribner&#x02019;s sons</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

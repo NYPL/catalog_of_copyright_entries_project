@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig41lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>41</volume>
+      <year>1944</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>3</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="40"/>
 <copyrightEntry id="6469E3A9-7460-1014-8261-A334FEAFB09E" regnum="A179131"><author><authorName>Aaberg (Jean Littlejohn)</authorName></author> <title>Spare the rod</title>. &#x000A9; <regDate date="1944-03-03">Mar. 3, 1944</regDate>; <regNum>A 179131</regNum>; <publisher><pubName claimant="yes">David McKay co.</pubName>, <pubPlace>Philadelphia</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="6469F2D1-7460-1014-8261-A334FEAFB09E" regnum="A179282"><author><authorName>Abbey (Kleran)</authorName></author> <title>Beyond the dark</title>. &#x000A9; <regDate date="1944-03-06">Mar. 6, 1944</regDate>; <regNum>A 179282</regNum>; <publisher><pubName claimant="yes">Charles Scribner&#x02019;s sons</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig41lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>41</volume>
+      <year>1944</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>5</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="79"/>
 <copyrightEntry id="F7CB004B-7454-1014-9DDA-FA1CD7897ADB" regnum="A180175"><author claimant="yes"><authorName>Adams (Cleve F.)</authorName>* <authorPlace>Glendale, Calif.</authorPlace></author> <title>Crooking finger</title>. &#x000A9; <regDate date="1944-04-19">Apr. 19, 1944</regDate>; <regNum>A 180175</regNum>.</copyrightEntry>
 <copyrightEntry id="F7CB1754-7454-1014-9DDA-FA1CD7897ADB" regnum="A180694"><author><authorName>Adams (Frank R.)</authorName></author> <title>When I come back</title>. [<edition>1st ed.</edition>] &#x000A9; <regDate date="1944-05-08">May 8, 1944</regDate>; <regNum>A 180694</regNum>; <publisher><pubName claimant="yes">Robert M. McBride &amp; co.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

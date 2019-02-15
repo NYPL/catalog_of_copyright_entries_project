@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig40libr"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>40</volume>
+      <year>1943</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>1</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="1"/>
 <copyrightEntry id="418A550F-734A-1014-9A90-D15363363736" regnum="A170225"><author claimant="yes"><authorName>Abend (Hallett)</authorName>* <authorPlace>Hyde Park, Vt.</authorPlace> </author> <title>Pacific charter</title>. [ <edition>1st ed.</edition>] &#x000A9; <regDate date="1943-01-07">Jan. 7, 1943</regDate>; <regNum>A 170225</regNum>.</copyrightEntry>
 <copyrightEntry id="418A66FE-734A-1014-9A90-D15363363736" regnum="A170254"><author><authorName>Adams (John Clarke)</authorName> <role>tr.</role> </author> <title>Eulogy of judges</title>. <author><role>Translated by</role> <authorName>J. C. Adams</authorName> and <authorName>C. Abbott Phillips, jr.</authorName></author> &#x000A9; <regDate date="1942-12-04">Dec. 4, 1942</regDate>; <regNum>A 170254</regNum>; <publisher><pubName claimant="yes">Princeton univ. press</pubName>, <pubPlace>Princeton, N. J.</pubPlace></publisher></copyrightEntry>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig41lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>41</volume>
+      <year>1944</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>12</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="237"/>
 <copyrightEntry id="06373A05-7455-1014-8333-AE91817AAB58" regnum="A184954"><author><authorName>Aaberg (Jean Littlejohn)</authorName></author> <title>A B C for mothers-to-be</title>. &#x000A9; <regDate date="1944-12-15">Dec. 15, 1944</regDate>; <regNum>A 184954</regNum>; <publisher><pubName claimant="yes">David McKay co.</pubName>, <pubPlace>Philadelphia</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="06374B02-7455-1014-8333-AE91817AAB58" regnum="A184953"><author><authorName>Abercrombie (L. A.)</authorName></author> <title>My life to the destroyers</title>, <author><role>by</role> <authorName>L. A. Abercrombie</authorName> and <authorName>Fletcher Pratt</authorName></author>. &#x000A9; <regDate date="1944-12-15">Dec. 15, 1944</regDate>; <regNum>A 184953</regNum>; <publisher><pubName claimant="yes">Henry Holt &amp; co., inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig40libr"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>40</volume>
+      <year>1943</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>2</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="29"/>
 <copyrightEntry id="428D6F6D-734A-1014-A774-ABD8D2C32821" regnum="A170752"><author claimant="yes"><authorName>Abbott (Jane)</authorName>* <authorPlace>Buffalo</authorPlace> </author>. <title>Yours for the asking</title> &#x000A9; <regDate date="1943-01-11">Jan. 11, 1943</regDate>; <regNum>A 170752</regNum>.</copyrightEntry>
 <copyrightEntry id="428D7EB3-734A-1014-A774-ABD8D2C32821" regnum="A170673"><author>[<authorName>Adams (Charles B.)</authorName>] <role>ed.</role> </author> <title>Moravian youth hymnal</title>. &#x000A9; <regDate date="1943-01-19">Jan. 19, 1943</regDate>; <regNum>A 1706 73</regNum>; <publisher><pubName claimant="yes">Inter-provincial board of Christian education, Moravian church in America</pubName>, <pubPlace>Winston-Salem, N. C.</pubPlace></publisher></copyrightEntry>

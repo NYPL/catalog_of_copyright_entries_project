@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig41lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>41</volume>
+      <year>1944</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>4</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="59"/>
 <copyrightEntry id="F587D178-7454-1014-BDF7-E78324322810" regnum="A180002"><author><authorName>Abbott (Frederick)</authorName></author> <title>Life&#x02019;s an opportunity and other inspirational verse</title>. &#x000A9; <regDate date="1944-03-01">Mar. 1, 1944</regDate>; <regNum>A 180002</regNum>; <publisher><pubName claimant="yes">Bruce Humphries, inc.</pubName>, <pubPlace>Boston</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="F587E548-7454-1014-BDF7-E78324322810" regnum="B179790"><author><authorName>Abrams (Leroy)</authorName></author> <title>Illustrated flora of the Pacific states, Washington, Oregon and California</title>. <vol>v. 2</vol>. &#x000A9; <regDate date="1944-03-29">Mar. 29, 1944</regDate>; <regNum>B 179790</regNum>; <publisher><pubName claimant="yes">Board of trustees of the Leland Stanford univ.</pubName>, <pubPlace>Stanford University, Calif.</pubPlace></publisher></copyrightEntry>

@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig40libr"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>40</volume>
+      <year>1943</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>7</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="133"/>
 <copyrightEntry id="4B291AC6-734A-1014-B590-F68F1E466D9E" regnum="A174080"><author><authorName>Aanestad (O. Herbert)</authorName> <role>tr.</role> </author> <title>Land of suspense</title>, <author><role>by</role> <authorName>Eivind Berggrav</authorName>. <role>Translated from the Norwegian by</role> <authorName>O. H. Aanestad</authorName></author>. &#x000A9; <regDate date="1943-07-02">July 2, 1943</regDate>; <regNum>A 174080</regNum>; <publisher><pubName claimant="yes">Augsburg pub. house</pubName>, <pubPlace>Minneapolis</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="4B292D7C-734A-1014-B590-F68F1E466D9E" regnum="A174074"><author claimant="yes"><authorName>Addington (Hugh M.)</authorName>* <authorPlace>Nickelsville, Va.</authorPlace> </author> <title>Blue book of U. S. A. state and national songs</title>. &#x000A9; <regDate date="1943-06-22">June 22, 1943</regDate>; <regNum>A 174074</regNum>.</copyrightEntry>

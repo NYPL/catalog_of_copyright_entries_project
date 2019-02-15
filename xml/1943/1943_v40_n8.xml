@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig40libr"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>40</volume>
+      <year>1943</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>8</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="151"/>
 <copyrightEntry id="4C4A6830-734A-1014-A13E-D9485030BB35" regnum="A175025"><author><authorName>Adams (Joseph Quincy)</authorName> <role>ed.</role> </author> <title>O&#x00361;Enone and Paris</title>, <author><role>by</role> <authorName>T. H.</authorName> <role>With an introduction and notes by</role> <authorName>J. Q. Adams</authorName></author>. &#x000A9; <regDate date="1943-04-30">Apr. 30, 1943</regDate>; <regNum>A 175025</regNum>; <publisher><pubName claimant="yes">Trustees of Amherst college</pubName>, <pubPlace>Amherst, Mass.</pubPlace></publisher></copyrightEntry>
 <copyrightEntry id="4C4A6F4D-734A-1014-A13E-D9485030BB35" regnum="A174515"><author claimant="yes">[<authorName>Adamson (Ewart)</authorName>]* <authorPlace>North Hollywood, Calif.</authorPlace> </author> <title>Haunted harbor</title>, <author><role>by</role> <authorName>Dayle Douglas</authorName> [<role>pseud.</role>]</author> &#x000A9; <regDate date="1943-06-12">June 12, 1943</regDate>; <regNum>A 174515</regNum>.</copyrightEntry>

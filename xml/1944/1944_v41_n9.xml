@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig41lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>41</volume>
+      <year>1944</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>9</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="167"/>
 <copyrightEntry id="0040D19B-7455-1014-8580-A6F8A5D8C9B4" regnum="A182772"><author><authorName>Abromowich (R.)</authorName></author> <title>In zwei revoluzies</title>. <vol>v. 1, 2</vol>. &#x000A9; <regDate date="1944-02-01">Feb. 1, 1944</regDate>; <regNum>A 182772</regNum>; <publisher><pubName claimant="yes">Educational department of the Workmen&#x02019;s circle</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
 <copyrightEntry id="0040E2E6-7455-1014-8580-A6F8A5D8C9B4" regnum="A182393"><author><authorName>Ackerman (Laurence J.)</authorName> <role>ed.</role></author> <title>Risks we face</title>, <author><role>edited by</role> <authorName>L. J. Ackerman</authorName> and <authorName>Ralph W. Bugli</authorName></author>. &#x000A9; <regDate date="1944-08-10">Aug. 10, 1944</regDate>; <regNum>A 182393</regNum>; <publisher><pubName claimant="yes">Natl. board of fire underwriters</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>

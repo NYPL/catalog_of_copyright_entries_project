@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE copyrightEntries SYSTEM "CopyrightEntries.dtd" []>
 <copyrightEntries>
+  <header>
+    <source url="https://archive.org/stream/catalogofcopyrig41lib"/>
+    <cite>
+      <series label="n.s.">New Series</series>
+      <volume>41</volume>
+      <year>1944</year>
+      <division>
+	<part>1</part>
+	<group>1</group>
+	<material>Books</material>
+        <number>11</number>
+      </division>
+    </cite>
+  </header>
 <page pgnum="213"/>
 <copyrightEntry id="048282E4-7455-1014-BFA0-CD7DA9DD4443" regnum="A184307"><title>Abbott New York digest</title>. <edition>Consolidated ed.</edition> <note>1944 cumulative supplement.</note> <vol>v. 1-8</vol>. &#x000A9; <regDate date="1944-10-30">Oct. 30, 1944</regDate>; <regNum>A 184307</regNum>; <publisher><pubName claimant="yes">West pub. co.</pubName>, <pubPlace>St. Paul</pubPlace> &amp; <pubName claimant="yes">Lawyers cooperative pub. co.</pubName>, <pubPlace>Rochester, N. Y.</pubPlace></publisher></copyrightEntry>
 <copyrightEntry id="04829E08-7455-1014-BFA0-CD7DA9DD4443" regnum="A184355"><author><authorName>Abrahams (Lewis)</authorName></author> <title>It&#x02019;s all politics</title>. &#x000A9; <regDate date="1944-10-02">Oct. 2, 1944</regDate>; <regNum>A 184355</regNum>; <publisher><pubName claimant="yes">Samuel Curl, inc.</pubName>, <pubPlace>New York</pubPlace></publisher>.</copyrightEntry>
