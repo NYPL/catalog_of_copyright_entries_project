@@ -1,0 +1,30 @@
+#!/usr/bin/env python3
+
+import argparse
+import os
+import glob
+import xml.etree.ElementTree as ET
+
+def get_header(xml):
+    print(xml)
+    with open(xml, 'r') as f:
+        tree = ET.parse(f)
+        root = tree.getroot()
+        header = root.find('.//header')
+        cite = header.find('./cite')
+
+        return {'source':  header.find('.//source').attrib['url'],
+                'year': int(cite.find('./year').text)}
+
+
+
+def scan(dir):
+    return [get_header(d) for d in glob.glob(os.path.join(dir, '*', '*.xml'))]
+
+
+parser = argparse.ArgumentParser(description='Load CCE xml into database')
+parser.add_argument('-d', '--directory', type=str, required=True,
+                    help='Directory to search for XML files')
+args = parser.parse_args()
+
+print(scan(args.directory))
