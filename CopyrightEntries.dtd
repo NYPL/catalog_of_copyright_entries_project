@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!ELEMENT copyrightEntries (header, (page | copyrightEntry| entryGroup | crossRef)*)>
-<!ELEMENT header (source, status?,cite)>
+<!ELEMENT header (source, status?, cite)>
 <!ELEMENT source EMPTY>
 <!ATTLIST source
 	  url CDATA #REQUIRED>
@@ -10,7 +10,7 @@
 	  label CDATA #IMPLIED>
 <!ELEMENT volume (#PCDATA)>
 <!ELEMENT year (#PCDATA)>
-<!ELEMENT division (part, group*, material, (number | numbers))>
+<!ELEMENT division (part, group*, material, (number | numbers)?)>
 <!ELEMENT part (#PCDATA)>
 <!ELEMENT group (#PCDATA)>
 <!ELEMENT material (#PCDATA)>
