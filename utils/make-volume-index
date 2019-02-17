@@ -1,30 +1,114 @@
 #!/usr/bin/env python3
 
 import argparse
-import os
+import csv
 import glob
+from itertools import groupby
+import operator
+import os
+import sys
 import xml.etree.ElementTree as ET
 
+
+def get_status(header):
+    if header.find('./status') is not None:
+        return header.find('status').text
+    return None
+
+
+def get_group(div):
+    group = div.find('./group')
+    if group is not None:
+        return int(group.text)
+    return None
+
+
+def get_start_num(div):
+    if div.find('numbers') is not None:
+        return int(div.find('numbers').attrib['start'])
+
+    if div.find('./number') is not None:
+        return int(div.find('./number').text)
+
+    return None
+
+
+def get_end_num(div):
+    if div.find('numbers') is not None:
+        return int(div.find('numbers').attrib['end'])
+
+    return None
+
+
 def get_header(xml):
-    print(xml)
+    print(xml, file=sys.stderr)
     with open(xml, 'r') as f:
         tree = ET.parse(f)
         root = tree.getroot()
         header = root.find('.//header')
         cite = header.find('./cite')
+        div = cite.find('./division')
 
         return {'source':  header.find('.//source').attrib['url'],
-                'year': int(cite.find('./year').text)}
+                'year': int(cite.find('./year').text),
+                'series': cite.find('./series').attrib['label'],
+                'volume': int(cite.find('./volume').text),
+                'part': div.find('./part').text,
+                'group': get_group(div),
+                'start_num': get_start_num(div),
+                'end_num': get_end_num(div),
+                'material': div.find('./material').text,
+                'status': get_status(header)}
 
+
+def num_range(c):
+    start = min(set([i['start_num'] for i in c]))
+    end = max(set([i['start_num'] for i in c]))
+
+    if start == end:
+        if start is None:
+            return None
+        # Convert single number to string to be consistent with number range
+        return str(start)
+
+    return '%d–%d' % (start, end)
+
+
+def single_val(c, k):
+    vals = set([i[k] for i in c])
+    if len(vals) != 1:
+        raise ValueError('Expected a single value for %s. Got %s' % (k, vals))
+    return vals.pop()
+
+
+def rowify(r):
+    rows = []
+    for by_file in r:
+        cite = list(by_file[1])
+        rows.append([single_val(cite, 'year'), single_val(cite, 'series'),
+                     single_val(cite, 'volume'), single_val(cite, 'part'),
+                     single_val(cite, 'group'), num_range(cite),
+                     by_file[0]])
+    return rows
 
 
 def scan(dir):
-    return [get_header(d) for d in glob.glob(os.path.join(dir, '*', '*.xml'))]
+    xml = glob.glob(os.path.join(dir, '*', '*.xml'))
+    return rowify(
+        groupby(
+            sorted(
+                [get_header(d) for d in xml],
+                key=operator.itemgetter('year', 'part', 'volume', 'group',
+                                        'start_num')),
+            key=operator.itemgetter('source')))
 
 
 parser = argparse.ArgumentParser(description='Load CCE xml into database')
-parser.add_argument('-d', '--directory', type=str, required=True,
+parser.add_argument('-d', '--directory', metavar='D', type=str, required=True,
                     help='Directory to search for XML files')
 args = parser.parse_args()
 
-print(scan(args.directory))
+writer = csv.writer(sys.stdout, quoting=csv.QUOTE_NONNUMERIC, delimiter='\t')
+writer.writerow(['Year', 'Series', 'Volume', 'Part', 'Group', 'Numbers',
+                 'Source'])
+writer.writerows(scan(args.directory))
