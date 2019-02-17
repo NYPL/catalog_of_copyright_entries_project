@@ -63,7 +63,10 @@ def get_header(xml):
 
 def num_range(c):
     start = min(set([i['start_num'] for i in c]))
-    end = max(set([i['start_num'] for i in c]))
+    start_max = max(set([i['start_num'] for i in c]))
+    end_nums = set([i['end_num'] for i in c if i['end_num'] is not None])
+
+    end = max(end_nums) if len(end_nums) else start_max
 
     if start == end:
         if start is None:
