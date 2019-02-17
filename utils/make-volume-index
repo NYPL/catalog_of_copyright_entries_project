@@ -88,6 +88,7 @@ def rowify(r):
         rows.append([single_val(cite, 'year'), single_val(cite, 'series'),
                      single_val(cite, 'volume'), single_val(cite, 'part'),
                      single_val(cite, 'group'), num_range(cite),
+                     single_val(cite, 'material'), single_val(cite, 'status'),
                      by_file[0]])
     return rows
 
@@ -110,5 +111,5 @@ args = parser.parse_args()
 
 writer = csv.writer(sys.stdout, quoting=csv.QUOTE_NONNUMERIC, delimiter='\t')
 writer.writerow(['Year', 'Series', 'Volume', 'Part', 'Group', 'Numbers',
-                 'Source'])
+                 'Matter', 'Status', 'Source'])
 writer.writerows(scan(args.directory))
