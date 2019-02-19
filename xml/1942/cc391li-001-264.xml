@@ -3,6 +3,7 @@
 <copyrightEntries>
   <header>
     <source url="https://archive.org/stream/catalogofcopyrig391li"/>
+    <status>Some corrections</status>
     <cite>
       <series label="n.s.">New Series</series>
       <volume>39</volume>
@@ -3810,9 +3811,11 @@
 <copyrightEntry id="7E753247-6E18-1014-9400-B664922230AB" regnum="A163795"><author claimant="yes"><authorName>Maguire (William A.)</authorName>* <authorPlace>Honolulu</authorPlace>. </author><title>Rig for church.</title> &#xA9; <regDate date="1942-05-05">May 5, 1942</regDate>; <regNum>A 163795</regNum>.</copyrightEntry>
 <copyrightEntry id="7E755402-6E18-1014-9400-B664922230AB" regnum="A164101"><author>[<authorName>Mahler (Gerhardt)</authorName>] </author><title>On paths of destiny.</title> &#xA9; <regDate date="1942-05-07">May 7, 1942</regDate>; <regNum>A 164101</regNum>; <publisher><pubName claimant="yes">Concordia pub. house</pubName>, <pubPlace>St. Louis.</pubPlace></publisher></copyrightEntry>
 <copyrightEntry id="7E757AF9-6E18-1014-9400-B664922230AB" regnum="A163878"><author claimant="yes"><authorName>Major (Marie Austin)</authorName>* <authorPlace>Seattle</authorPlace>. </author><title>Roses with the throng.</title> &#xA9; <regDate date="1937-11-29">Nov. 29, 1937</regDate>; <regNum>A 163878</regNum>.</copyrightEntry>
-<copyrightEntry id="7E759EDE-6E18-1014-9400-B664922230AB"><author claimant="yes">[<authorName>Malleson (Lucy)</authorName>]* <authorPlace>London, New York</authorPlace>.</author></copyrightEntry>
-<copyrightEntry id="7E75BDB3-6E18-1014-9400-B664922230AB" regnum="A163777"><title>Home is the heart</title>, <author><role>by</role> <authorName>Anne Meredith</authorName> [pseud.]</author> &#xA9; <regDate date="1942-02-29">Feb. 29, 1942</regDate>; <regNum>A 163777</regNum>.</copyrightEntry>
+<entryGroup>
+<author claimant="yes">[<authorName>Malleson (Lucy)</authorName>]* <authorPlace>London, New York</authorPlace>.</author>
+<copyrightEntry id="7E75BDB3-6E18-1014-9400-B664922230AB" regnum="A163777"><title>Home is the heart</title>, <author><role>by</role> <authorName>Anne Meredith</authorName> [pseud.]</author> &#xA9; <!-- Note: 1942 was not a leap year --><regDate date="1942-02-28">Feb. 29, 1942</regDate>; <regNum>A 163777</regNum>.</copyrightEntry>
 <copyrightEntry id="7E75E59C-6E18-1014-9400-B664922230AB" regnum="AI27126"><title>Something nasty in the woodshed</title>, <author><role>by</role> <authorName>Anthony Gilbert</authorName> [</author><author><role>pseud.</role>] </author> &#xA9; <copies>1 c</copies>. <copyDate date="1942-05-14">May 14, 1942</copyDate>. <regNum>A ad int. 27126</regNum>; <publisher>pubd. <pubDate date="1942-03-16">Mar. 16</pubDate>.</publisher></copyrightEntry>
+</entryGroup>
 <entryGroup>
 <author><authorName>Malone (Ted)</authorName> </author>
 <copyrightEntry id="7E7606E3-6E18-1014-9400-B664922230AB" regnum="A163039"><title>American pilgrimage.</title> &#xA9; <regDate date="1942-03-31">Mar. 31, 1942</regDate>; <regNum>A 163039</regNum>; <publisher><pubName claimant="yes">Dodd, Mead &amp; co., inc.</pubName>, <pubPlace>New York.</pubPlace></publisher></copyrightEntry>
