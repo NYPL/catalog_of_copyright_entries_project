@@ -21,14 +21,17 @@
 	  end   NMTOKEN #REQUIRED>
 
 <!ELEMENT copyrightEntry (#PCDATA | title | author | desc | edition | publisher | volumes | series | copyDate | prevPub | prev-regNum | employerName | newMatterClaimed | claimant | claimantPlace | regDate | regNum | copies | affDate | vol | noticeDate | note | additionalEntry )*>
-<!ELEMENT crossRef (#PCDATA | title | author | note | see | edition | vol | series )*>
-<!ELEMENT entryGroup (#PCDATA | title | author | edition | volumes | series | note | copyrightEntry | crossRef | publisher | claimant | page | vol )*>
-
 <!ATTLIST copyrightEntry
 	  id NMTOKEN #REQUIRED
-	  regnum NMTOKENS #IMPLIED>
+	  regnum NMTOKENS #IMPLIED
+	  regdate NMTOKENS #IMPLIED>
+
+<!ELEMENT crossRef (#PCDATA | title | author | note | see | edition | vol | series )*>
 <!ATTLIST crossRef
 	  id NMTOKEN #REQUIRED>
+
+<!ELEMENT entryGroup (#PCDATA | title | author | edition | volumes | series | note | copyrightEntry | crossRef | publisher | claimant | page | vol )*>
+
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT page (#PCDATA)>
 <!ATTLIST page
@@ -62,8 +65,11 @@
 <!ELEMENT claimantPlace (#PCDATA)>
 <!ELEMENT regDate (#PCDATA)>
 <!ATTLIST regDate  
-      date NMTOKEN #REQUIRED>
+	  date NMTOKEN #REQUIRED
+	  ignore (yes|no) "no">
 <!ELEMENT regNum (#PCDATA)>
+<!ATTLIST regNum
+	  ignore (yes|no) "no">
 <!ELEMENT copies (#PCDATA)>
 <!ATTLIST copies
 	  num NMTOKEN #IMPLIED>

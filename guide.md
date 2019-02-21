@@ -422,6 +422,54 @@ the `regnum` attribute of the `copyrightEntry`:
       103-105
     </copyrightEntry>
 
+Occasionally, related entries are grouped together with dates and ids
+only given in the last entry. In cases like this the `regnum` and
+`regdate` attributes of the first `copyrightEntry` can be filled in
+from the second, and the `ignore` attribute set to `yes` on the
+`regnum` and `regdate` elements in the second. This will make it
+easier for parsing programs to know which numbers and dates go with
+which entries:
+
+	<entryGroup>
+	  <author>
+		<authorName>MacFarland, George Arthur</authorName>,
+		<authorBirth>1887</authorBirth>&#x2013;
+	  </author>
+	  <copyrightEntry id="DA3ED929-6D0A-1014-853A-B63123D40E62" 
+	                  regnum="A10905" regdate="1947-02-27">
+		<title>Accounting fundamentals</title>,
+		<author>
+		  <role>by</role>
+		  <authorName>George A. MacFarland</authorName> and
+		  <authorName>Robert D. Ayars</authorName>.
+		</author>
+		<edition>2d ed.</edition>
+		<publisher>
+		  <pubPlace>New York</pubPlace>,
+		  <pubName>McGraw-Hill Book Co.</pubName>,
+		  <pubDate date="1947">1947</pubDate>.
+		</publisher>
+		<desc>xv, 759 p. 24&#x368;&#x36B;.</desc>
+		<series>(McGraw-Hill accounting series)</series>
+	  </copyrightEntry>
+	  <copyrightEntry regnum="A10905" id="DA3F145C-6D0A-1014-853A-B63123D40E62">
+		<title>Key.</title>
+		<edition>2d ed.</edition> <publisher><pubPlace>New York</pubPlace>,
+		<pubName>McGraw-Hill Book Co.</pubName>,
+		<pubDate date="1947">1947</pubDate>.</publisher>
+		<desc>401 p. 28&#x368;&#x36B;.</desc>
+		&#xA9; <regDate date="1947-02-27" ignore="yes">27Feb47</regDate>;
+		<publisher>
+		  <pubName claimant="yes">McGraw-Hill Book Co., inc.</pubName>
+		</publisher>; on &#x201C;Accounting fundamentals&#x201D;; 
+		<regNum ignore="yes">A10905</regNum>.
+		&#xA9; <regDate date="1947-06-02">2Jun47</regDate>;
+		<publisher>
+		  <pubName claimant="yes">McGraw-Hill Book Co., inc.</pubName>
+		</publisher>; on &#x201C;Key&#x201D;;
+		<regNum>AA55695</regNum>.
+	  </copyrightEntry>
+	</entryGroup>
 
     
 
