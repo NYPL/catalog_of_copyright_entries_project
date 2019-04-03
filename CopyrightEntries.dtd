@@ -24,7 +24,9 @@
 <!ATTLIST copyrightEntry
 	  id NMTOKEN #REQUIRED
 	  regnum NMTOKENS #IMPLIED
-	  regdate NMTOKENS #IMPLIED>
+	  regdate NMTOKENS #IMPLIED
+	  emended (yes|no) "no"
+	  emendationDesc CDATA #IMPLIED>
 
 <!ELEMENT crossRef (#PCDATA | title | author | note | see | edition | vol | series )*>
 <!ATTLIST crossRef

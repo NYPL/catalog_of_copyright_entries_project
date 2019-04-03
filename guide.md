@@ -471,6 +471,22 @@ which entries:
 	  </copyrightEntry>
 	</entryGroup>
 
+# Corrections
+
+## Handwritten corrections in Volumes
+
+Some volumes have handwritten corrections. For example:
+
+![An entry with handwritten corrections](./examples/AF479-494.png)
+
+We are interested in the _correct copyright information_, so only the corrected text will be included. In this case, the corrections amount o:
+
+    La Divina commedia. Inferno. Canto I-X, XII-XVII. Milano, Casa ed. di Dante, ᶜ1928
+	55 ℓ incl. col. plates. 81½ x 65ᶜᵐ.
+	Each canto of the Inferno is accompanied by a plate.
     
+To indicate that this entry contains corrections, we add the `emended` attribute (with the value of `yes`). There is also an `emendationDesc` attribute that can be used to give more specifics, for example:
+
+    emended="yes" emendationDesc="Handwritten corrections in volume"
 
 
