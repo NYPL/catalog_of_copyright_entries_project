@@ -67,4 +67,9 @@ In addition every `<copyrightEntry`> and `<crossRef>` is assigned a UUID so that
 
 These volumes were chosen to transcribe first because they come from the period when a book may in copyright if its first 28-year copyright term was renewed, whike it is otherwise public domain. Renewal data is available from the Stanford [Copyright Renewals Database](https://exhibits.stanford.edu/copyrightrenewals) and from an [NYPL version](https://github.com/NYPL/cce-renewals/) of essentially the same sources. The NYPL version is better formatted for matching renewal entries the registrations in these XML files.
 
+By combining the two datasets we can determine how many books were registered for copyright in every year between 1923 and 1963, as well as how many were renewed:
+
+![Chart showing the number of books registered and renewed each year, 1923-1963](cce-renewal-rate.png)
+
+For this period we have about 642,000 books registered for copyright. Of these about 162,000 or 25% had their copyrights renewed. So, the copyright has expired on 75% of the books published during these years, about 480,000, and they are now in the Public Domain.
 
