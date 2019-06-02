@@ -30,7 +30,9 @@
 
 <!ELEMENT crossRef (#PCDATA | title | author | note | see | edition | vol | series )*>
 <!ATTLIST crossRef
-	  id NMTOKEN #REQUIRED>
+	  id NMTOKEN #REQUIRED
+	  emended (yes|no) "no"
+	  emendationDesc CDATA #IMPLIED>
 
 <!ELEMENT entryGroup (#PCDATA | title | author | edition | volumes | series | note | copyrightEntry | crossRef | publisher | claimant | page | vol )*>
 
