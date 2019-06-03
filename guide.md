@@ -471,6 +471,39 @@ which entries:
 	  </copyrightEntry>
 	</entryGroup>
 
+# Duplicate Registration Numbers
+
+Registration numbers are not unique because numbering was started over in 1946. You would expect the combination registration number and registration date to be unique but even this is not always true. There are a number of cases where multiple entries may have the same registration number.
+
+## Duplicated Entries
+
+Sometimes it seems that a registration is mistakenly (?) repeated in more than one volume. For instance these two entries from 1950
+
+![](examples/A41836-1950.png)
+
+and 1951
+
+![](examples/A41836-1951.png)
+
+Both carry the number/date `A41836/1950-03-13`. The first entry is missing the publisher, so perhaps the second entry was printed to correct the first. In other cases, the entries are completely identical.
+
+The `duplicateOf` attribute of the `copyrightEntry` element can be used in this case to indicate that one entry is the duplicate of another. Since the 1951 entry has some more information than the 1950 entry, the attribute should be added to the earlier one with the UUID of the later one as the attribute value. 
+
+    <copyrightEntry id="3F97A4D3-79DE-1014-B198-F9D02DA5A3BD" 
+                    regnum="A41836"
+                    duplicateOf="252D32E5-6D96-1014-9FA7-88F81FCFA0F7">
+      <author><authorName>GORMAN, HERBERT SHERMAN.</authorName></author> 
+      <title>The breast of the dove.</title> 
+      <desc>440 p.</desc> &#x000A9; <claimant>Herbert Gorman</claimant>; 
+      <regDate date="1950-03-13">13Mar50</regDate>; <regNum>A41836</regNum>.
+    </copyrightEntry>
+
+The `duplicateOf` attribute indicates that the entry _with_ the attribute contains the same information as the entry it points to and _adds nothing to it_. They _must_ both have identical registration numbers and dates. In the example above, the 1951 entry should not have the `duplicateOf` attribute pointing to the 1950 entry because the former has the publisher where the latter does not.
+
+All other things being equal, later duplicates should refer to earlier entries. If there are multiple duplications all duplicates should point to the same "master" registration. That entry must _not_ have a `duplicateOf` attribute. 
+
+When processing, any entries carrying a `duplicateOf` attribute can be skipped. When importing into a database, for instance, this will assure that there is only one row with the registration number/date combination. Renewals should be linked to registrations without the `duplicateOf` attribute.
+
 # Corrections
 
 ## Handwritten corrections in Volumes

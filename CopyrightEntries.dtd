@@ -25,6 +25,7 @@
 	  id NMTOKEN #REQUIRED
 	  regnum NMTOKENS #IMPLIED
 	  regdate NMTOKENS #IMPLIED
+	  duplicateOf NMTOKEN #IMPLIED
 	  emended (yes|no) "no"
 	  emendationDesc CDATA #IMPLIED>
 
