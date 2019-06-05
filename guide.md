@@ -509,7 +509,53 @@ The `duplicateOf` attribute indicates that the entry _with_ the attribute contai
 All other things being equal, later duplicates should refer to earlier entries. If there are multiple duplications all duplicates should point to the same "master" registration. That entry must _not_ have a `duplicateOf` attribute. 
 
 When processing, any entries carrying a `duplicateOf` attribute can be skipped. When importing into a database, for instance, this will assure that there is only one row with the registration number/date combination. Renewals should be linked to registrations without the `duplicateOf` attribute. 
+
+## Parts of Books
+
+In some volumes, primarily from the 1930's, parts of books such as introductions, forwords, and illustrations are given their own entries alongside the main entry for the books, with the same registration number and dates as the main entry. For example, this edition of Melville's _Pierre, or the Ambiguities_:
+
+![](examples/A8524-main.png)
+
+has separate entries for the preface:
+
+![](examples/A8524-preface.png)
+
+and introduction:
+
+![](examples/A8524-introduction.png)
+
+This would cause one book to be counted as three, and if there were a renewal it would be linked to all three entries:
  
+![](examples/part-of-reg-1.png)
+
+We want to indicate that two of these entries are subordinate parts of the third, and be able to link a renewal only to the main entry:
+
+![](examples/part-of-reg-2.png)
+
+The _partOf_ attribute of the _copyrightEntry_ element can be used to indicate that one entry is a subordinate part of another. Like _duplicateOf_ the value should be the UUID of the main entry
+
+    <copyrightEntry id="9B2C37FC-6CFA-1014-9C3C-CEA95E7AA542" 
+                    regnum="A8524"
+                    partOf="9B2A1015-6CFA-1014-9C3C-CEA95E7AA542">
+      <author><authorName>Moore, John Brooks</authorName> </author>.  
+      [<title>Introduction</title>, <author><role>by</role> <authorName>John 
+      Brooks Moore</authorName> </author> <note>in the book entitled] Pierre; 
+      or, The ambiguities</note>, <author><role>by</role> <authorName>Herman 
+      Melville</authorName>, <role>with a preface by</role> <authorName>H. M. 
+      Tomlinson</authorName> </author> &#x02026; <publisher><pubPlace>New 
+      York</pubPlace>, 
+      <pubName claimant="yes">E. P. Dutton &amp; co., inc.</pubName>[ 
+      <pubDate date="1929">&#x00368;1929</pubDate>]</publisher> 
+      <desc>2 p. l., vii-xxvii, 505 p. 22&#x000BD;&#x00368;&#x0036B;</desc>. 
+      &#x000A9; <regDate date="1929-04-27">Apr. 27, 1929</regDate>; 
+      <copies>2c.</copies> <copyDate date="1929-04-29">Apr. 29</copyDate>; 
+      aff. <affDate date="1929-06-04">June 4</affDate>; 
+      <regNum>A 8524</regNum>; <publisher>
+      <pubName claimant="yes">E. P. Dutton &amp; co., inc.</pubName> 
+      </publisher>
+    </copyrightEntry>
+    
+
 
 # Corrections
 
