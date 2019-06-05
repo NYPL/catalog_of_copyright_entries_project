@@ -485,9 +485,15 @@ and 1951
 
 ![](examples/A41836-1951.png)
 
-Both carry the number/date `A41836/1950-03-13`. The first entry is missing the publisher, so perhaps the second entry was printed to correct the first. In other cases, the entries are completely identical.
+Both carry the number/date `A41836/1950-03-13`. The first entry is missing the publisher, so perhaps the second entry was printed to correct the first. In other cases, the entries are completely identical. Given a registration _A_, duplicate registration _B_, and renewal _C_, simply matching on registration number/date would link the renewal to both registrations:
 
-The `duplicateOf` attribute of the `copyrightEntry` element can be used in this case to indicate that one entry is the duplicate of another. Since the 1951 entry has some more information than the 1950 entry, the attribute should be added to the earlier one with the UUID of the later one as the attribute value. 
+![](examples/duplicate-reg-1.png)
+
+The `duplicateOf` attribute of the `copyrightEntry` element can be used in this case to indicate that one entry is the duplicate of another. Since there is really only _one_ copyright and _one_ renewal we want to be able to designate one of two duplicates as the "main" entry and link a renewal to that only:
+
+![](examples/duplicate-reg-2.png)
+
+In the example above, since the 1951 entry has some more information than the 1950 entry, the attribute should be added to the earlier one with the UUID of the later one as the attribute value. 
 
     <copyrightEntry id="3F97A4D3-79DE-1014-B198-F9D02DA5A3BD" 
                     regnum="A41836"
@@ -502,7 +508,8 @@ The `duplicateOf` attribute indicates that the entry _with_ the attribute contai
 
 All other things being equal, later duplicates should refer to earlier entries. If there are multiple duplications all duplicates should point to the same "master" registration. That entry must _not_ have a `duplicateOf` attribute. 
 
-When processing, any entries carrying a `duplicateOf` attribute can be skipped. When importing into a database, for instance, this will assure that there is only one row with the registration number/date combination. Renewals should be linked to registrations without the `duplicateOf` attribute.
+When processing, any entries carrying a `duplicateOf` attribute can be skipped. When importing into a database, for instance, this will assure that there is only one row with the registration number/date combination. Renewals should be linked to registrations without the `duplicateOf` attribute. 
+ 
 
 # Corrections
 
