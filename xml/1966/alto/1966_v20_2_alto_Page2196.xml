@@ -1,0 +1,61 @@
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd"><Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<sourceImageInformation>
+<fileName>1966_v20_2.pdf</fileName>
+</sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2019-05-17</processingDateTime>
+<processingSoftware>
+<softwareCreator>ABBYY</softwareCreator>
+<softwareName>ABBYY Recognition Server</softwareName>
+<softwareVersion>4.0</softwareVersion>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Styles>
+<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0."/>
+<ParagraphStyle ID="StyleId-2286AED5-F8FC-4D70-A7FE-744EB008DABF-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="12.19999981"/>
+<ParagraphStyle ID="StyleId-CE86650F-9CBA-4429-8C9C-B59CD383D5BD-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="16.60000038"/>
+<ParagraphStyle ID="StyleId-F39E1228-344F-4FB3-BE06-4DEE7D30487A-" ALIGN="Center" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="15.60000038"/>
+<ParagraphStyle ID="StyleId-267BE784-6E2E-456A-B83C-49F4DCBC44EC-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-14." LINESPACE="6.71999979"/>
+<ParagraphStyle ID="StyleId-32F01123-4D8B-4B74-A4EF-CC8D617E5AC3-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-19." LINESPACE="6.960000038"/>
+<ParagraphStyle ID="StyleId-B76BE670-077B-4811-9CE3-5478F2A3C1EA-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="13.30000019"/>
+<ParagraphStyle ID="StyleId-65CAF55D-62FE-4552-80D5-FE8115EB6E29-" ALIGN="Block" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="13.68000031"/>
+<ParagraphStyle ID="StyleId-F60FE6A6-C3D5-42EE-811D-30A042361CE6-" ALIGN="Center" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="27.20000076"/>
+<ParagraphStyle ID="StyleId-BA6AD2B1-3C8E-456B-A26E-E4121EB1923B-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-8." LINESPACE="7.199999809"/>
+<ParagraphStyle ID="StyleId-47C048A7-1C8B-47DF-B545-B1036243A91A-" ALIGN="Right" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="6.940000057"/>
+<ParagraphStyle ID="StyleId-FE7BDCD8-6FEC-4FDD-8414-3C25A0973919-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="6.699999809"/>
+<ParagraphStyle ID="StyleId-F0B08A86-0FBC-4FE1-9D23-52DF8E554EDC-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="8.600000381"/>
+<ParagraphStyle ID="StyleId-46B87E21-81DC-48D0-BDBB-10406BC2E821-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="6.940000057"/>
+<ParagraphStyle ID="StyleId-1CFF9F7A-AFD3-4423-B158-1C6D15DF9380-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="7.699999809"/>
+<ParagraphStyle ID="StyleId-676333C7-C044-4397-B2DF-7E4D3171F2AD-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-12." LINESPACE="7.400000095"/>
+<ParagraphStyle ID="StyleId-067E5534-6E0C-49C4-987C-8CDF905EE32E-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="6.940000057"/>
+<ParagraphStyle ID="StyleId-E922D696-96D5-4CF1-AD32-64467A416C4A-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-12." LINESPACE="6.71999979"/>
+<ParagraphStyle ID="StyleId-608723EB-3791-4B66-9E72-7034BD920D66-" ALIGN="Right" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="6.940000057"/>
+<ParagraphStyle ID="StyleId-DC670FAB-AF14-4695-9FBC-05A2336F6BD8-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="9.100000381"/>
+<ParagraphStyle ID="StyleId-957FE926-597D-49C1-B7FD-218A1F6DF9E1-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="9.100000381"/>
+<ParagraphStyle ID="StyleId-6E932043-6460-47AF-B23D-955097E52564-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-6." LINESPACE="7.650000095"/>
+<ParagraphStyle ID="StyleId-6576C706-1C86-40DE-83A9-51B378D7E509-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="6.940000057"/>
+</Styles>
+<Layout>
+<Page ID="Page2196" PHYSICAL_IMG_NR="700" HEIGHT="3248" WIDTH="2383">
+<TopMargin HEIGHT="157" WIDTH="2383" VPOS="0" HPOS="0">
+</TopMargin>
+<LeftMargin HEIGHT="133" WIDTH="1881" VPOS="157" HPOS="0">
+</LeftMargin>
+<RightMargin HEIGHT="133" WIDTH="204" VPOS="157" HPOS="2179">
+</RightMargin>
+<BottomMargin HEIGHT="2958" WIDTH="2383" VPOS="290" HPOS="0">
+</BottomMargin>
+<PrintSpace HEIGHT="133" WIDTH="298" VPOS="157" HPOS="1881">
+<TextBlock ID="Page2196_Block1" HEIGHT="133" WIDTH="298" VPOS="157" HPOS="1881" LANG="en-US" CS="1" STYLEREFS="StyleId-784FE9F2-C07A-4AB4-BA68-F0AACCF110BD-">
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="2196"/>
+</TextLine>
+</TextBlock>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>
