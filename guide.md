@@ -473,7 +473,7 @@ which entries:
 
 # Duplicate Registration Numbers
 
-Registration numbers are not unique because numbering was started over in 1946. You would expect the combination registration number and registration date to be unique but even this is not always true. There are a number of cases where multiple entries may have the same registration number.
+Registration numbers are not unique because numbering was started over in 1946 with the switch from the "new series" to the "3rd series." You would expect registration numbers to be unique within a series or for the combination ofregistration number and registration date to be unique but even this is not always true. There are a number of cases where multiple entries may have the same registration number.
 
 ## Duplicated Entries
 
@@ -508,7 +508,7 @@ The `duplicateOf` attribute indicates that the entry _with_ the attribute contai
 
 All other things being equal, later duplicates should refer to earlier entries. If there are multiple duplications all duplicates should point to the same "master" registration. That entry must _not_ have a `duplicateOf` attribute. 
 
-When processing, any entries carrying a `duplicateOf` attribute can be skipped. When importing into a database, for instance, this will assure that there is only one row with the registration number/date combination. Renewals should be linked to registrations without the `duplicateOf` attribute. 
+When processing, any entries carrying a `duplicateOf` attribute can be skipped since, if an entry is truly a duplicate, it adds nothing the copyright history of the wrok. When importing into a database, for instance, this will assure that there is only one row with the registration number/date combination. Renewals should be linked to registrations without the `duplicateOf` attribute. 
 
 ## Parts of Books
 
@@ -524,7 +524,7 @@ and introduction:
 
 ![](examples/A8524-introduction.png)
 
-This would cause one book to be counted as three, and if there were a renewal it would be linked to all three entries:
+This would cause one book to be counted as three and, if there were a renewal, simply linking on registration number/date would cause it to be linked to all three entries:
  
 ![](examples/part-of-reg-1.png)
 
@@ -555,6 +555,26 @@ The _partOf_ attribute of the _copyrightEntry_ element can be used to indicate t
       </publisher>
     </copyrightEntry>
     
+## Bulk Registrations
+
+When a group of books is published together as a series or a collection, they are somtimes all registered together under a single number and date. For example, in n.s. vol. 28 there are 24 entries under `A46164/1931-11-16`. The first two:
+
+![](examples/A46164.png)
+
+In this example they are all listed together under a single author's name so it is easy to see that they all make up the _Builders of America_ series. In other cases they all be under different authors. They are separate books as indicated by their different LCCNs, [32-25](https://lccn.loc.gov/32000025) and [32-20](https://lccn.loc.gov/32000020). In this case they are also all renewed together:
+
+![](examples/R233373.png)
+
+As with the `partOf` situation, this creates a single renewal pointing to multiple registration entries:
+
+![](examples/part-of-reg-1.png)
+
+However, this is acceptable in this case. Even though these 24 entries all share a registration number, they should be counted as 24 entries and should all share the same renewal. The registration entries should have a `bulkRegistration` attribute (with a value of `yes`) to simply flag that this registration number is known to be duplicated (and can be ignored if performing a check for duplicates)
+
+    <copyrightEntry id="F2D7831F-6E8D-1014-9CF5-AEB3FCA41D69"
+                    regnum="A46164"
+                    bulkRegistration="yes">...
+
 
 
 # Corrections
