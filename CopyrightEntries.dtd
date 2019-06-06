@@ -88,6 +88,8 @@
 	  date NMTOKEN #REQUIRED>
 <!ELEMENT note (#PCDATA)>
 <!ELEMENT lccn (#PCDATA)>
+<!ATTLIST lccn
+	  normalized NMTOKEN #IMPLIED>
 <!ELEMENT see (#PCDATA | author | title | publisher | pubPlace | pubDate | note)*>
 <!ATTLIST see
 	  rid NMTOKEN #REQUIRED>
