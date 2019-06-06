@@ -80,7 +80,8 @@ def num_range(c):
 def single_val(c, k):
     vals = set([i[k] for i in c])
     if len(vals) != 1:
-        raise ValueError('Expected a single value for %s. Got %s' % (k, vals))
+        #raise ValueError('Expected a single value for %s. Got %s' % (k, vals))
+        return [v for v in vals if v is not None].pop()
     return vals.pop()
 
 
