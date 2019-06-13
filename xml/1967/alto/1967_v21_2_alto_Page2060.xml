@@ -1,0 +1,2436 @@
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd"><Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2019-05-25</processingDateTime>
+<processingSoftware>
+<softwareCreator>ABBYY</softwareCreator>
+<softwareName>ABBYY Recognition Server</softwareName>
+<softwareVersion>4.0</softwareVersion>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Styles>
+<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0."/>
+<ParagraphStyle ID="StyleId-ECD38DA4-50C3-4ADE-8617-229FBF14E96D-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="15.63000011"/>
+<ParagraphStyle ID="StyleId-FC00FCDA-09A3-41A1-A88B-B16641970BA6-" ALIGN="Block" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="13.60000038"/>
+<ParagraphStyle ID="StyleId-B5E5F425-25D5-4A65-8084-83E929020863-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="12.5"/>
+<ParagraphStyle ID="StyleId-5F06AC19-2EA9-4DF7-A84A-B56603E1A4C1-" ALIGN="Right" LEFT="0." RIGHT="0." FIRSTLINE="-15." LINESPACE="11.93000031"/>
+<ParagraphStyle ID="StyleId-72DAF231-CB79-4138-BE15-5D8A0C53A22A-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0."/>
+<ParagraphStyle ID="StyleId-F5EE03F8-5BE9-489A-AF1B-0D828410F803-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="12.34000015"/>
+<ParagraphStyle ID="StyleId-D1EF35F1-1CDC-4857-872E-4C32AFEE86AC-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="8." LINESPACE="12.14000034"/>
+<ParagraphStyle ID="StyleId-28C39B11-7901-4801-B54D-5C2FF840BEED-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-15." LINESPACE="11.93000031"/>
+<ParagraphStyle ID="StyleId-2189A558-FC26-424C-B05D-5AC8A63060E0-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="10."/>
+<ParagraphStyle ID="StyleId-E11ACE8D-1C4A-4CB8-AE72-B65A947E30E8-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="18.10000038"/>
+<ParagraphStyle ID="StyleId-660B411C-D8E8-41D5-A535-E40DEDA598EA-" ALIGN="Center" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="5.699999809"/>
+<ParagraphStyle ID="StyleId-95B0527C-1CB8-4795-B210-5733DB12925D-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="12.5"/>
+<ParagraphStyle ID="StyleId-D335FA68-F1DA-4D84-9C0F-F14CC007639E-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="13.60000038"/>
+<ParagraphStyle ID="StyleId-5536667A-50F8-48DE-8A1E-6A472B6164C5-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="12.5"/>
+<ParagraphStyle ID="StyleId-CBD5BBF9-88F9-4D7E-954E-6901D4D2F8A0-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-19." LINESPACE="11.93000031"/>
+<ParagraphStyle ID="StyleId-EDD75A91-C220-41F6-ABF8-CB5717A1B286-" ALIGN="Block" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="5.099999905"/>
+<ParagraphStyle ID="StyleId-D694BE46-FE4D-4319-AD61-DFB451AFD9B2-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="12.5"/>
+<ParagraphStyle ID="StyleId-BF07412E-40B5-4B8C-B811-A48223CCB8CB-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="12.34000015"/>
+<ParagraphStyle ID="StyleId-7C0E9543-DCB1-44B7-8383-2622C6E39487-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="14.39999962"/>
+<ParagraphStyle ID="StyleId-A020C2E5-9F85-4595-87E4-F0E69B863535-" ALIGN="Block" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="12.69999981"/>
+<ParagraphStyle ID="StyleId-B2213734-A903-4B37-9CAD-2366F34C031E-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="12.5"/>
+<ParagraphStyle ID="StyleId-CC23B984-0739-4328-B869-1AEF81D5D3FC-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="4.5"/>
+<ParagraphStyle ID="StyleId-219E0162-75BD-4D39-B589-70AB0D83ECAF-" ALIGN="Block" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="13.77999973"/>
+<ParagraphStyle ID="StyleId-DC419E44-C8C5-4070-9400-D5F0AC5218C0-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-10." LINESPACE="13.60000038"/>
+<ParagraphStyle ID="StyleId-EE63889A-9239-4A7F-8486-BBC948A76B44-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-30." LINESPACE="11.93000031"/>
+<ParagraphStyle ID="StyleId-26A5926A-7A29-4FB7-BD0A-DD50481B86E4-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="11.10999966"/>
+<ParagraphStyle ID="StyleId-5CB445DD-C869-4494-B65B-23453E440A15-" ALIGN="Block" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="29."/>
+<ParagraphStyle ID="StyleId-10916384-E01F-4D36-9DD5-CEA6F2E1D8D0-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-30." LINESPACE="14.69999981"/>
+</Styles>
+<Layout>
+<Page ID="Page2060" PHYSICAL_IMG_NR="2060" HEIGHT="3938" WIDTH="2819">
+<TopMargin HEIGHT="188" WIDTH="2819" VPOS="0" HPOS="0">
+</TopMargin>
+<LeftMargin HEIGHT="3375" WIDTH="128" VPOS="188" HPOS="0">
+</LeftMargin>
+<RightMargin HEIGHT="3375" WIDTH="35" VPOS="188" HPOS="2784">
+</RightMargin>
+<BottomMargin HEIGHT="375" WIDTH="2819" VPOS="3563" HPOS="0">
+</BottomMargin>
+<PrintSpace HEIGHT="3375" WIDTH="2656" VPOS="188" HPOS="128">
+<ComposedBlock ID="Page2060_Block1" HEIGHT="40" WIDTH="2574" VPOS="188" HPOS="131" TYPE="container">
+<Shape>
+<Polygon POINTS="131,188 2705,188 2705,213 2560,213 2560,214 2394,214 2394,215 2229,215 2229,216 2063,216 2063,217 1898,217 1898,218 1732,218 1732,219 1567,219 1567,220 1401,220 1401,221 1236,221 1236,222 1070,222 1070,223 905,223 905,224 739,224 739,225 574,225 574,226 408,226 408,227 243,227 243,228 131,228 131,188"/>
+</Shape>
+<TextBlock ID="Page2060_Block2" HEIGHT="40" WIDTH="84" VPOS="188" HPOS="131" LANG="en-US" STYLEREFS="StyleId-95D2048A-E348-4756-8AD2-026E04C75374-">
+<TextLine HEIGHT="26" WIDTH="70" VPOS="195" HPOS="138">
+<String CONTENT="2060" HEIGHT="26" WIDTH="70" VPOS="195" HPOS="138"/>
+</TextLine>
+</TextBlock>
+</ComposedBlock>
+<TextBlock ID="Page2060_Block3" HEIGHT="3257" WIDTH="882" VPOS="306" HPOS="128" LANG="en-US" CS="1" STYLEREFS="StyleId-95D2048A-E348-4756-8AD2-026E04C75374-">
+<Shape>
+<Polygon POINTS="904,306 990,306 990,398 991,398 991,564 992,564 992,729 993,729 993,895 994,895 994,1060 995,1060 995,1226 996,1226 996,1391 997,1391 997,1557 998,1557 998,1722 999,1722 999,1888 1000,1888 1000,2053 1001,2053 1001,2219 1002,2219 1002,2384 1003,2384 1003,2550 1004,2550 1004,2715 1005,2715 1005,2881 1006,2881 1006,3046 1007,3046 1007,3212 1008,3212 1008,3377 1009,3377 1009,3543 1010,3543 1010,3558 922,3558 922,3559 756,3559 756,3560 591,3560 591,3561 425,3561 425,3562 260,3562 260,3563 148,3563 148,3548 147,3548 147,3383 146,3383 146,3217 145,3217 145,3052 144,3052 144,2886 143,2886 143,2721 142,2721 142,2555 141,2555 141,2390 140,2390 140,2224 139,2224 139,2059 138,2059 138,1893 137,1893 137,1728 136,1728 136,1562 135,1562 135,1397 134,1397 134,1231 133,1231 133,1066 132,1066 132,900 131,900 131,735 130,735 130,569 129,569 129,404 128,404 128,311 242,311 242,310 408,310 408,309 573,309 573,308 738,308 738,307 904,307 904,306"/>
+</Shape>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Natural"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="manmade"/>
+<SP/>
+<String CS="1" CONTENT="textile"/>
+<SP/>
+<String CS="1" CONTENT="fibers;"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="raw"/>
+<SP/>
+<String CS="1" CONTENT="material"/>
+<SP/>
+<String CS="1" CONTENT="to"/>
+<SP/>
+<String CS="1" CONTENT="finished"/>
+<SP/>
+<String CS="1" CONTENT="fabric."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="1st"/>
+<SP/>
+<String CS="1" CONTENT="ed."/>
+<SP/>
+<String CS="1" CONTENT="New"/>
+<SP/>
+<String CS="1" CONTENT="York,"/>
+<SP/>
+<String CS="1" CONTENT="Duell,"/>
+<SP/>
+<String CS="1" CONTENT="Sloan"/>
+<SP/>
+<String CS="1" CONTENT="&amp;"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Pearce."/>
+<SP/>
+<String CS="1" CONTENT="420"/>
+<SP/>
+<String CS="1" CONTENT="p."/>
+<SP/>
+<String CS="1" CONTENT="Appl."/>
+<SP/>
+<String CS="1" CONTENT="states"/>
+<SP/>
+<String CS="1" CONTENT="some"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="material"/>
+<SP/>
+<String CS="1" CONTENT="prev."/>
+<SP/>
+<String CS="1" CONTENT="pub."/>
+<SP/>
+<String CS="1" CONTENT="in"/>
+<SP/>
+<String CS="1" CONTENT="Applied"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="textiles."/>
+<SP/>
+<String CS="1" CONTENT="NM:"/>
+<SP/>
+<String CS="1" CONTENT="additions"/>
+<SP/>
+<String CS="1" CONTENT="&amp;"/>
+<SP/>
+<String CS="1" CONTENT="revisions."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="George"/>
+<SP/>
+<String CS="1" CONTENT="E."/>
+<SP/>
+<String CS="1" CONTENT="Linton;"/>
+<SP/>
+<String CS="1" CONTENT="6Oct67"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="(in"/>
+<SP/>
+<String CS="1" CONTENT="notice:"/>
+<SP/>
+<String CS="1" CONTENT="1966);"/>
+<SP/>
+<!-- cceid AB320284-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A954394."/>
+</TextLine>
+<TextLine HEIGHT="31" WIDTH="216" VPOS="653" HPOS="238" CS="1">
+<String CS="1" CONTENT="LINZE," HEIGHT="30" WIDTH="32" VPOS="654" HPOS="238"/>
+<SP HEIGHT="27" WIDTH="27" VPOS="656" HPOS="271"/>
+<String CONTENT="DEWEY" HEIGHT="25" WIDTH="97" VPOS="654" HPOS="299"/>
+<SP HEIGHT="26" WIDTH="22" VPOS="653" HPOS="397"/>
+<String CONTENT="W." HEIGHT="25" WIDTH="34" VPOS="654" HPOS="420"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="More"/>
+<SP/>
+<String CS="1" CONTENT="faces"/>
+<SP/>
+<String CS="1" CONTENT="in"/>
+<SP/>
+<String CS="1" CONTENT="the"/>
+<SP/>
+<String CS="1" CONTENT="crowd."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="SLOAN,"/>
+<SP/>
+<String CS="1" CONTENT="JAMES."/>
+</TextLine>
+<TextLine HEIGHT="31" WIDTH="234" VPOS="789" HPOS="146">
+<String CONTENT="LIONNI," HEIGHT="29" WIDTH="134" VPOS="791" HPOS="146"/>
+<SP HEIGHT="28" WIDTH="27" VPOS="791" HPOS="281"/>
+<String CONTENT="LEO." HEIGHT="25" WIDTH="71" VPOS="789" HPOS="309"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Frederick."/>
+<SP/>
+<String CS="1" CONTENT="Pantheon."/>
+<SP/>
+<String CS="1" CONTENT="1"/>
+<SP/>
+<String CS="1" CONTENT="v."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Leo"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Lionni;"/>
+<SP/>
+<String CS="1" CONTENT="6Jun67;"/>
+<SP/>
+<!-- cceid AB33B75A-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A942142."/>
+</TextLine>
+<TextLine HEIGHT="33" WIDTH="664" VPOS="917" HPOS="149" CS="1">
+<String CS="1" CONTENT="THE" HEIGHT="23" WIDTH="19" VPOS="924" HPOS="149"/>
+<SP HEIGHT="25" WIDTH="30" VPOS="923" HPOS="202"/>
+<String CONTENT="LION'S" HEIGHT="26" WIDTH="115" VPOS="922" HPOS="233"/>
+<SP HEIGHT="23" WIDTH="22" VPOS="922" HPOS="349"/>
+<String CONTENT="ROAR," HEIGHT="29" WIDTH="92" VPOS="920" HPOS="372"/>
+<SP HEIGHT="27" WIDTH="28" VPOS="921" HPOS="465"/>
+<String CONTENT="WINDHAM" HEIGHT="26" WIDTH="141" VPOS="918" HPOS="494"/>
+<SP HEIGHT="23" WIDTH="19" VPOS="919" HPOS="636"/>
+<String CS="1" CONTENT="COLLEGE." HEIGHT="27" WIDTH="157" VPOS="917" HPOS="656"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="The"/>
+<SP/>
+<String CS="1" CONTENT="state"/>
+<SP/>
+<String CS="1" CONTENT="of"/>
+<SP/>
+<String CS="1" CONTENT="the"/>
+<SP/>
+<String CS="1" CONTENT="college."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="HERSH,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="JEFFREY"/>
+<SP/>
+<String CS="1" CONTENT="EDWARD,"/>
+<SP/>
+<String CS="1" CONTENT="ed."/>
+</TextLine>
+<TextLine HEIGHT="35" WIDTH="317" VPOS="1039" HPOS="160">
+<String CONTENT="LIOTTA," HEIGHT="30" WIDTH="135" VPOS="1044" HPOS="160"/>
+<SP HEIGHT="30" WIDTH="27" VPOS="1043" HPOS="295"/>
+<String CONTENT="CASMIRO." HEIGHT="27" WIDTH="155" VPOS="1039" HPOS="322"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Individualized"/>
+<SP/>
+<String CS="1" CONTENT="reading"/>
+<SP/>
+<String CS="1" CONTENT="versus"/>
+<SP/>
+<String CS="1" CONTENT="ability"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="group"/>
+<SP/>
+<String CS="1" CONTENT="reading"/>
+<SP/>
+<String CS="1" CONTENT="in"/>
+<SP/>
+<String CS="1" CONTENT="the"/>
+<SP/>
+<String CS="1" CONTENT="reading"/>
+<SP/>
+<String CS="1" CONTENT="growth"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="of"/>
+<SP/>
+<String CS="1" CONTENT="intermediate"/>
+<SP/>
+<String CS="1" CONTENT="grade"/>
+<SP/>
+<String CS="1" CONTENT="children."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Ann"/>
+<SP/>
+<String CS="1" CONTENT="Arbor,"/>
+<SP/>
+<String CS="1" CONTENT="University"/>
+<SP/>
+<String CS="1" CONTENT="Microfilms."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="(Doctoral"/>
+<SP/>
+<String CS="1" CONTENT="dissertation"/>
+<SP/>
+<String CS="1" CONTENT="series)"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Casmiro"/>
+<SP/>
+<String CS="1" CONTENT="Liotta;"/>
+<SP/>
+<String CS="1" CONTENT="31Oct67;"/>
+<SP/>
+<!-- cceid AB35942C-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A955555."/>
+</TextLine>
+<TextLine HEIGHT="30" WIDTH="293" VPOS="1296" HPOS="165" CS="1">
+<String CONTENT="LIOU," HEIGHT="25" WIDTH="90" VPOS="1301" HPOS="165"/>
+<SP HEIGHT="27" WIDTH="28" VPOS="1298" HPOS="256"/>
+<String CS="1" CONTENT="KIA-HWAY." HEIGHT="26" WIDTH="173" VPOS="1296" HPOS="285"/>
+</TextLine>
+<TextLine HEIGHT="33" WIDTH="539" VPOS="1327" HPOS="203" CS="1">
+<String CS="1" CONTENT="Tao" HEIGHT="24" WIDTH="57" VPOS="1335" HPOS="203"/>
+<SP HEIGHT="22" WIDTH="25" VPOS="1335" HPOS="261"/>
+<String CS="1" CONTENT="t&#246;"/>
+<SP HEIGHT="24" WIDTH="23" VPOS="1332" HPOS="322"/>
+<String CONTENT="king." HEIGHT="28" WIDTH="92" VPOS="1331" HPOS="346"/>
+<SP HEIGHT="24" WIDTH="46" VPOS="1331" HPOS="439"/>
+<String CONTENT="See" HEIGHT="23" WIDTH="57" VPOS="1331" HPOS="486"/>
+<SP HEIGHT="23" WIDTH="25" VPOS="1329" HPOS="544"/>
+<String CS="1" CONTENT="LAO-TSEU." HEIGHT="25" WIDTH="152" VPOS="1327" HPOS="590"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIPCOWITZ,"/>
+<SP/>
+<String CS="1" CONTENT="MARIANNE."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Ein"/>
+<SP/>
+<String CS="1" CONTENT="Gott,"/>
+<SP/>
+<String CS="1" CONTENT="dankt"/>
+<SP/>
+<String CS="1" CONTENT="ab."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="MOSLEY"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LEONARD."/>
+</TextLine>
+<TextLine HEIGHT="34" WIDTH="395" VPOS="1483" HPOS="167" CS="1">
+<String CS="1" CONTENT="LIPE," HEIGHT="29" WIDTH="93" VPOS="1488" HPOS="167"/>
+<SP HEIGHT="29" WIDTH="24" VPOS="1487" HPOS="261"/>
+<String CONTENT="WILLIAM" HEIGHT="27" WIDTH="141" VPOS="1485" HPOS="286"/>
+<SP HEIGHT="24" WIDTH="20" VPOS="1485" HPOS="428"/>
+<String CONTENT="DAVID." HEIGHT="25" WIDTH="113" VPOS="1483" HPOS="449"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Anasazi"/>
+<SP/>
+<String CS="1" CONTENT="culture"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="its"/>
+<SP/>
+<String CS="1" CONTENT="relationship"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="to"/>
+<SP/>
+<String CS="1" CONTENT="the"/>
+<SP/>
+<String CS="1" CONTENT="environment"/>
+<SP/>
+<String CS="1" CONTENT="in"/>
+<SP/>
+<String CS="1" CONTENT="the"/>
+<SP/>
+<String CS="1" CONTENT="Red"/>
+<SP/>
+<String CS="1" CONTENT="Rock"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Plateau"/>
+<SP/>
+<String CS="1" CONTENT="region,"/>
+<SP/>
+<String CS="1" CONTENT="southeastern"/>
+<SP/>
+<String CS="1" CONTENT="Utah."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Ann"/>
+<SP/>
+<String CS="1" CONTENT="Arbor,"/>
+<SP/>
+<String CS="1" CONTENT="University"/>
+<SP/>
+<String CS="1" CONTENT="Microfilms."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="(Doctoral"/>
+<SP/>
+<String CS="1" CONTENT="dissertation"/>
+<SP/>
+<String CS="1" CONTENT="series)"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="William"/>
+<SP/>
+<String CS="1" CONTENT="David"/>
+<SP/>
+<String CS="1" CONTENT="Lipe;"/>
+<SP/>
+<String CS="1" CONTENT="30Jun67;"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<!-- cceid AB37EDF5-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A930161."/>
+</TextLine>
+<TextLine HEIGHT="33" WIDTH="272" VPOS="1757" HPOS="218" CS="1">
+<String LANG="en-US" CS="1" CONTENT="LI"/>
+<String LANG="el" CS="1" CONTENT="PKA" HEIGHT="23" WIDTH="35" VPOS="1761" HPOS="218"/>
+<String LANG="en-US" CONTENT="," HEIGHT="11" WIDTH="6" VPOS="1778" HPOS="283"/>
+<SP HEIGHT="30" WIDTH="26" VPOS="1759" HPOS="290"/>
+<String LANG="en-US" CONTENT="SAMUEL" HEIGHT="25" WIDTH="121" VPOS="1757" HPOS="317"/>
+<SP HEIGHT="26" WIDTH="24" VPOS="1757" HPOS="439"/>
+<String LANG="en-US" CONTENT="I." HEIGHT="24" WIDTH="26" VPOS="1760" HPOS="464"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Average"/>
+<SP/>
+<String CS="1" CONTENT="annual"/>
+<SP/>
+<String CS="1" CONTENT="costs"/>
+<SP/>
+<String CS="1" CONTENT="for"/>
+<SP/>
+<String CS="1" CONTENT="a"/>
+<SP/>
+<String CS="1" CONTENT="23-year"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="program"/>
+<SP/>
+<String CS="1" CONTENT="to"/>
+<SP/>
+<String CS="1" CONTENT="retain"/>
+<SP/>
+<String CS="1" CONTENT="highway"/>
+<SP/>
+<String CS="1" CONTENT="investments"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="in"/>
+<SP/>
+<String CS="1" CONTENT="existing"/>
+<SP/>
+<String CS="1" CONTENT="adequate"/>
+<SP/>
+<String CS="1" CONTENT="roads"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="to"/>
+<SP/>
+<String CS="1" CONTENT="construct"/>
+<SP/>
+<String CS="1" CONTENT="or"/>
+<SP/>
+<String CS="1" CONTENT="reconstruct"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="retain"/>
+<SP/>
+<String CS="1" CONTENT="highway"/>
+<SP/>
+<String CS="1" CONTENT="investments."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Sheet."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Samuel"/>
+<SP/>
+<String CS="1" CONTENT="I."/>
+<SP/>
+<String CS="1" CONTENT="Lipka;"/>
+<SP/>
+<String CS="1" CONTENT="18Oct67;"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<!-- cceid AB38BDD8-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A944852."/>
+</TextLine>
+<TextLine HEIGHT="34" WIDTH="454" VPOS="2030" HPOS="166" CS="1">
+<String CS="1" CONTENT="LIP" HEIGHT="23" WIDTH="31" VPOS="2035" HPOS="166"/>
+<String LANG="el" CONTENT="KE," HEIGHT="31" WIDTH="52" VPOS="2033" HPOS="224"/>
+<SP HEIGHT="29" WIDTH="28" VPOS="2034" HPOS="276"/>
+<String CONTENT="WILLIAM" HEIGHT="25" WIDTH="142" VPOS="2032" HPOS="304"/>
+<SP HEIGHT="24" WIDTH="20" VPOS="2032" HPOS="446"/>
+<String CONTENT="CHARLES." HEIGHT="27" WIDTH="154" VPOS="2030" HPOS="466"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="A"/>
+<SP/>
+<String CS="1" CONTENT="history"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="analysis"/>
+<SP/>
+<String CS="1" CONTENT="of"/>
+<SP/>
+<String CS="1" CONTENT="vorticism."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Ann"/>
+<SP/>
+<String CS="1" CONTENT="Arbor,"/>
+<SP/>
+<String CS="1" CONTENT="University"/>
+<SP/>
+<String CS="1" CONTENT="Microfilms."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="(Doctoral"/>
+<SP/>
+<String CS="1" CONTENT="dissertation"/>
+<SP/>
+<String CS="1" CONTENT="series)"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="William"/>
+<SP/>
+<String CS="1" CONTENT="Charles"/>
+<SP/>
+<String CS="1" CONTENT="Lipke;"/>
+<SP/>
+<String CS="1" CONTENT="31Aug67;"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<!-- cceid AB39823B-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A944726."/>
+</TextLine>
+<TextLine HEIGHT="30" WIDTH="274" VPOS="2239" HPOS="175" CS="1">
+<String CS="1" CONTENT="LIPMAN." HEIGHT="28" WIDTH="132" VPOS="2241" HPOS="175"/>
+<SP HEIGHT="27" WIDTH="28" VPOS="2241" HPOS="308"/>
+<String CONTENT="DAVID." HEIGHT="26" WIDTH="112" VPOS="2239" HPOS="337"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Ken"/>
+<SP/>
+<String CS="1" CONTENT="Boyer."/>
+<SP/>
+<String CS="1" CONTENT="New"/>
+<SP/>
+<String CS="1" CONTENT="York,"/>
+<SP/>
+<String CS="1" CONTENT="Putnam."/>
+<SP/>
+<String CS="1" CONTENT="221"/>
+<SP/>
+<String CS="1" CONTENT="p"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="David"/>
+<SP/>
+<String CS="1" CONTENT="Lipman;"/>
+<SP/>
+<String CS="1" CONTENT="18May67;"/>
+<SP/>
+<!-- cceid AB3A54D6-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A945424."/>
+</TextLine>
+<TextLine HEIGHT="38" WIDTH="273" VPOS="2359" HPOS="279" CS="1">
+<String CS="1" CONTENT="LIPP," HEIGHT="15" WIDTH="10" VPOS="2382" HPOS="279"/>
+<SP HEIGHT="32" WIDTH="28" VPOS="2365" HPOS="289"/>
+<String CONTENT="FREDERICK" HEIGHT="26" WIDTH="179" VPOS="2361" HPOS="317"/>
+<SP HEIGHT="24" WIDTH="21" VPOS="2359" HPOS="496"/>
+<String CS="1" CONTENT="J." HEIGHT="8" WIDTH="7" VPOS="2375" HPOS="544"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Ruiers"/>
+<SP/>
+<String CS="1" CONTENT="of"/>
+<SP/>
+<String CS="1" CONTENT="Darkness."/>
+<SP/>
+<String CS="1" CONTENT="Cleveland,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="World"/>
+<SP/>
+<String CS="1" CONTENT="Pub."/>
+<SP/>
+<String CS="1" CONTENT="Co."/>
+<SP/>
+<String CS="1" CONTENT="54"/>
+<SP/>
+<String CS="1" CONTENT="."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Frederick"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="J."/>
+<SP/>
+<String CS="1" CONTENT="Lipp;"/>
+<SP/>
+<String CS="1" CONTENT="18Jul66;"/>
+<SP/>
+<!-- cceid AB3B1928-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A927195."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIPPE,"/>
+<SP/>
+<String CS="1" CONTENT="PAUL."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="The"/>
+<SP/>
+<String CS="1" CONTENT="World"/>
+<SP/>
+<String CS="1" CONTENT="in"/>
+<SP/>
+<String CS="1" CONTENT="our"/>
+<SP/>
+<String CS="1" CONTENT="day."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="JOSPEH."/>
+</TextLine>
+<TextLine HEIGHT="29" WIDTH="215" VPOS="2656" HPOS="185" CS="1">
+<String CONTENT="LIPPERT," HEIGHT="28" WIDTH="155" VPOS="2657" HPOS="185"/>
+<SP HEIGHT="28" WIDTH="27" VPOS="2656" HPOS="341"/>
+<String CONTENT="C." HEIGHT="24" WIDTH="31" VPOS="2656" HPOS="369"/>
+<SP/>
+<String CS="1" CONTENT="O."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Modern"/>
+<SP/>
+<String CS="1" CONTENT="trapping"/>
+<SP/>
+<String CS="1" CONTENT="&amp;"/>
+<SP/>
+<String CS="1" CONTENT="fur"/>
+<SP/>
+<String CS="1" CONTENT="buying."/>
+<SP/>
+<String CS="1" CONTENT="1st"/>
+<SP/>
+<String CS="1" CONTENT="ed."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="55"/>
+<SP/>
+<String CS="1" CONTENT="p."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="C."/>
+<SP/>
+<String CS="1" CONTENT="O."/>
+<SP/>
+<String CS="1" CONTENT="Lippert;"/>
+<SP/>
+<String CS="1" CONTENT="2Nov67;"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<!-- cceid AB3CC43F-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A959809."/>
+</TextLine>
+<TextLine HEIGHT="43" WIDTH="596" VPOS="2789" HPOS="191" CS="1">
+<String CONTENT="LIPPERT," HEIGHT="28" WIDTH="151" VPOS="2804" HPOS="191"/>
+<SP HEIGHT="29" WIDTH="27" VPOS="2802" HPOS="343"/>
+<String CONTENT="FREDERICK" HEIGHT="28" WIDTH="180" VPOS="2797" HPOS="371"/>
+<SP HEIGHT="24" WIDTH="19" VPOS="2796" HPOS="552"/>
+<String CS="1" CONTENT="GEORGE,"/>
+<SP HEIGHT="28" WIDTH="29" VPOS="2790" HPOS="707"/>
+<String CONTENT="II." HEIGHT="26" WIDTH="50" VPOS="2789" HPOS="737"/>
+</TextLine>
+<TextLine HEIGHT="41" WIDTH="743" VPOS="2821" HPOS="231" CS="1">
+<String CONTENT="Authoritarianism" HEIGHT="32" WIDTH="322" VPOS="2830" HPOS="231"/>
+<SP HEIGHT="19" WIDTH="19" VPOS="2833" HPOS="554"/>
+<String CONTENT="and" HEIGHT="25" WIDTH="57" VPOS="2826" HPOS="574"/>
+<SP HEIGHT="23" WIDTH="22" VPOS="2826" HPOS="632"/>
+<String CONTENT="role" HEIGHT="24" WIDTH="77" VPOS="2824" HPOS="655"/>
+<SP HEIGHT="26" WIDTH="22" VPOS="2826" HPOS="733"/>
+<String CONTENT="pressure" HEIGHT="29" WIDTH="157" VPOS="2822" HPOS="756"/>
+<SP HEIGHT="19" WIDTH="24" VPOS="2821" HPOS="914"/>
+<String CONTENT="as" HEIGHT="18" WIDTH="35" VPOS="2821" HPOS="939"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="determinants"/>
+<SP/>
+<String CS="1" CONTENT="of"/>
+<SP/>
+<String CS="1" CONTENT="participative"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="leadership"/>
+<SP/>
+<String CS="1" CONTENT="style."/>
+<SP/>
+<String CS="1" CONTENT="Ann"/>
+<SP/>
+<String CS="1" CONTENT="Arbor,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="University"/>
+<SP/>
+<String CS="1" CONTENT="Microfilms."/>
+<SP/>
+<String CS="1" CONTENT="(Doctoral"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="dissertation"/>
+<SP/>
+<String CS="1" CONTENT="series)"/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Frederick"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="George"/>
+<SP/>
+<String CS="1" CONTENT="Lippert"/>
+<SP/>
+<String CS="1" CONTENT="II;"/>
+<SP/>
+<String CS="1" CONTENT="29Sep67;"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<!-- cceid AB3DA906-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A951960."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIPPHARD,"/>
+<SP/>
+<String CS="1" CONTENT="WILLIAM"/>
+<SP/>
+<String CS="1" CONTENT="B."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Disillusioned"/>
+<SP/>
+<String CS="1" CONTENT="world;"/>
+<SP/>
+<String CS="1" CONTENT="a"/>
+<SP/>
+<String CS="1" CONTENT="look"/>
+<SP/>
+<String CS="1" CONTENT="at"/>
+<SP/>
+<String CS="1" CONTENT="fifty"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="years"/>
+<SP/>
+<String CS="1" CONTENT="of"/>
+<SP/>
+<String CS="1" CONTENT="world"/>
+<SP/>
+<String CS="1" CONTENT="upheaval."/>
+<SP/>
+<String CS="1" CONTENT="1st"/>
+<SP/>
+<String CS="1" CONTENT="ed."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="New"/>
+<SP/>
+<String CS="1" CONTENT="York,"/>
+<SP/>
+<String CS="1" CONTENT="Exposition"/>
+<SP/>
+<String CS="1" CONTENT="Press."/>
+<SP/>
+<String CS="1" CONTENT="320"/>
+<SP/>
+<String CS="1" CONTENT="p."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="William"/>
+<SP/>
+<String CS="1" CONTENT="B."/>
+<SP/>
+<String CS="1" CONTENT="Lipphard;"/>
+<SP/>
+<String CS="1" CONTENT="18Aug67;"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<!-- cceid AB3E6F42-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A934100."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIPPIN,"/>
+<SP/>
+<String CS="1" CONTENT="GERARD."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="circuit"/>
+<SP/>
+<String CS="1" CONTENT="problems"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="solutions:"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Vol.1:"/>
+<SP/>
+<String CS="1" CONTENT="Elementary"/>
+<SP/>
+<String CS="1" CONTENT="methods."/>
+<SP/>
+<String CS="1" CONTENT="New"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="York,"/>
+<SP/>
+<String CS="1" CONTENT="Hayden"/>
+<SP/>
+<String CS="1" CONTENT="Book"/>
+<SP/>
+<String CS="1" CONTENT="Co."/>
+<SP/>
+<String CS="1" CONTENT="190"/>
+<SP/>
+<String CS="1" CONTENT="p."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Hayden"/>
+<SP/>
+<String CS="1" CONTENT="Book"/>
+<SP/>
+<String CS="1" CONTENT="Co.,"/>
+<SP/>
+<String CS="1" CONTENT="Inc.;"/>
+<SP/>
+<String CS="1" CONTENT="27Feb67;"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<!-- cceid AB3F493B-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A929151."/>
+</TextLine>
+</TextBlock>
+<TextBlock ID="Page2060_Block4" HEIGHT="3229" WIDTH="849" VPOS="292" HPOS="1015" LANG="en-US" CS="1" STYLEREFS="StyleId-95D2048A-E348-4756-8AD2-026E04C75374-">
+<Shape>
+<Polygon POINTS="1731,292 1845,292 1845,394 1846,394 1846,559 1847,559 1847,725 1848,725 1848,890 1849,890 1849,1056 1850,1056 1850,1221 1851,1221 1851,1387 1852,1387 1852,1552 1853,1552 1853,1718 1854,1718 1854,1883 1855,1883 1855,2049 1856,2049 1856,2214 1857,2214 1857,2380 1858,2380 1858,2545 1859,2545 1859,2711 1860,2711 1860,2876 1861,2876 1861,3042 1862,3042 1862,3207 1863,3207 1863,3373 1864,3373 1864,3516 1749,3516 1749,3517 1583,3517 1583,3518 1418,3518 1418,3519 1252,3519 1252,3520 1087,3520 1087,3521 1034,3521 1034,3378 1033,3378 1033,3213 1032,3213 1032,3047 1031,3047 1031,2882 1030,2882 1030,2716 1029,2716 1029,2551 1028,2551 1028,2385 1027,2385 1027,2220 1026,2220 1026,2054 1025,2054 1025,1889 1024,1889 1024,1723 1023,1723 1023,1558 1022,1558 1022,1392 1021,1392 1021,1227 1020,1227 1020,1061 1019,1061 1019,896 1018,896 1018,730 1017,730 1017,565 1016,565 1016,399 1015,399 1015,297 1069,297 1069,296 1235,296 1235,295 1400,295 1400,294 1566,294 1566,293 1731,293 1731,292"/>
+</Shape>
+<TextLine HEIGHT="42" WIDTH="436" VPOS="301" HPOS="1022" CS="1">
+<String CS="1" CONTENT="LIPPINCOTT" HEIGHT="26" WIDTH="199" VPOS="310" HPOS="1022"/>
+<SP HEIGHT="37" WIDTH="24" VPOS="305" HPOS="1222"/>
+<String CONTENT="(J." HEIGHT="36" WIDTH="50" VPOS="305" HPOS="1247"/>
+<SP HEIGHT="26" WIDTH="27" VPOS="307" HPOS="1298"/>
+<String CS="1" CONTENT="B.)" HEIGHT="36" WIDTH="27" VPOS="302" HPOS="1351"/>
+<SP HEIGHT="36" WIDTH="26" VPOS="302" HPOS="1379"/>
+<String CONTENT="CO." HEIGHT="25" WIDTH="52" VPOS="305" HPOS="1406"/>
+</TextLine>
+<TextLine HEIGHT="37" WIDTH="742" VPOS="334" HPOS="1062" CS="1">
+<String CONTENT="Adolescence." HEIGHT="26" WIDTH="235" VPOS="344" HPOS="1062"/>
+<SP HEIGHT="24" WIDTH="46" VPOS="342" HPOS="1298"/>
+<String CS="1" CONTENT="See" HEIGHT="22" WIDTH="17" VPOS="342" HPOS="1345"/>
+<SP HEIGHT="23" WIDTH="21" VPOS="340" HPOS="1403"/>
+<String CONTENT="USDIN," HEIGHT="30" WIDTH="115" VPOS="338" HPOS="1425"/>
+<SP HEIGHT="29" WIDTH="26" VPOS="339" HPOS="1541"/>
+<String CONTENT="GENE" HEIGHT="25" WIDTH="79" VPOS="337" HPOS="1568"/>
+<SP HEIGHT="23" WIDTH="22" VPOS="337" HPOS="1648"/>
+<String CONTENT="L.," HEIGHT="29" WIDTH="53" VPOS="337" HPOS="1671"/>
+<SP HEIGHT="25" WIDTH="25" VPOS="341" HPOS="1725"/>
+<String CONTENT="ed." HEIGHT="24" WIDTH="53" VPOS="334" HPOS="1751"/>
+</TextLine>
+<TextLine HEIGHT="31" WIDTH="645" VPOS="374" HPOS="1069" CS="1">
+<String CONTENT="Advances" HEIGHT="26" WIDTH="158" VPOS="378" HPOS="1069"/>
+<SP HEIGHT="25" WIDTH="27" VPOS="377" HPOS="1227"/>
+<String CS="1" CONTENT="in" HEIGHT="18" WIDTH="18" VPOS="383" HPOS="1271"/>
+<SP HEIGHT="25" WIDTH="24" VPOS="376" HPOS="1289"/>
+<String CS="1" CONTENT="immunogenetics." HEIGHT="24" WIDTH="279" VPOS="379" HPOS="1330"/>
+<SP HEIGHT="24" WIDTH="47" VPOS="374" HPOS="1609"/>
+<String CONTENT="See" HEIGHT="23" WIDTH="58" VPOS="374" HPOS="1656"/>
+</TextLine>
+<TextLine HEIGHT="36" WIDTH="481" VPOS="408" HPOS="1109" CS="1">
+<String CS="1" CONTENT="GREENWALT," HEIGHT="32" WIDTH="195" VPOS="412" HPOS="1109"/>
+<SP HEIGHT="32" WIDTH="26" VPOS="411" HPOS="1305"/>
+<String CS="1" CONTENT="TIBOR" HEIGHT="26" WIDTH="98" VPOS="409" HPOS="1332"/>
+<SP HEIGHT="23" WIDTH="22" VPOS="410" HPOS="1431"/>
+<String CONTENT="J.," HEIGHT="30" WIDTH="54" VPOS="410" HPOS="1454"/>
+<SP HEIGHT="26" WIDTH="26" VPOS="414" HPOS="1509"/>
+<String CONTENT="ed." HEIGHT="25" WIDTH="54" VPOS="408" HPOS="1536"/>
+</TextLine>
+<TextLine HEIGHT="34" WIDTH="660" VPOS="444" HPOS="1072" CS="1">
+<String CONTENT="Arthur" HEIGHT="25" WIDTH="119" VPOS="447" HPOS="1072"/>
+<SP HEIGHT="23" WIDTH="20" VPOS="449" HPOS="1192"/>
+<String CONTENT="Gordon" HEIGHT="25" WIDTH="119" VPOS="447" HPOS="1213"/>
+<SP HEIGHT="23" WIDTH="26" VPOS="447" HPOS="1333"/>
+<String CONTENT="Pym," HEIGHT="30" WIDTH="68" VPOS="446" HPOS="1360"/>
+<SP HEIGHT="30" WIDTH="26" VPOS="445" HPOS="1429"/>
+<String CS="1" CONTENT="Be"/>
+<String LANG="la" CONTENT="nit" HEIGHT="25" WIDTH="48" VPOS="445" HPOS="1499"/>
+<String CONTENT="o" HEIGHT="17" WIDTH="18" VPOS="451" HPOS="1559"/>
+<SP HEIGHT="24" WIDTH="20" VPOS="446" HPOS="1578"/>
+<String CS="1" CONTENT="Corono," HEIGHT="28" WIDTH="133" VPOS="446" HPOS="1599"/>
+</TextLine>
+<TextLine HEIGHT="32" WIDTH="484" VPOS="478" HPOS="1112" CS="1">
+<String CONTENT="and" HEIGHT="24" WIDTH="56" VPOS="482" HPOS="1112"/>
+<SP HEIGHT="24" WIDTH="25" VPOS="482" HPOS="1169"/>
+<String CS="1" CONTENT="related" HEIGHT="24" WIDTH="135" VPOS="481" HPOS="1195"/>
+<SP HEIGHT="22" WIDTH="23" VPOS="482" HPOS="1331"/>
+<String CONTENT="writings." HEIGHT="30" WIDTH="175" VPOS="479" HPOS="1355"/>
+<SP HEIGHT="25" WIDTH="47" VPOS="479" HPOS="1531"/>
+<String CS="1" CONTENT="See" HEIGHT="24" WIDTH="17" VPOS="479" HPOS="1579"/>
+</TextLine>
+<TextLine HEIGHT="23" WIDTH="18" VPOS="517" HPOS="1111" CS="1">
+<String CS="1" CONTENT="SSEELYE," HEIGHT="23" WIDTH="18" VPOS="517" HPOS="1111"/>
+<SP/>
+<String CS="1" CONTENT="JOHN,"/>
+<SP/>
+<String CS="1" CONTENT="ed."/>
+</TextLine>
+<TextLine HEIGHT="33" WIDTH="694" VPOS="545" HPOS="1074" CS="1">
+<String CONTENT="The" HEIGHT="25" WIDTH="57" VPOS="553" HPOS="1074"/>
+<SP HEIGHT="18" WIDTH="27" VPOS="558" HPOS="1131"/>
+<String CONTENT="author" HEIGHT="24" WIDTH="121" VPOS="552" HPOS="1158"/>
+<SP HEIGHT="18" WIDTH="22" VPOS="556" HPOS="1279"/>
+<String CONTENT="and" HEIGHT="24" WIDTH="56" VPOS="550" HPOS="1301"/>
+<SP HEIGHT="23" WIDTH="24" VPOS="550" HPOS="1357"/>
+<String CONTENT="his" HEIGHT="23" WIDTH="56" VPOS="549" HPOS="1381"/>
+<SP HEIGHT="18" WIDTH="26" VPOS="554" HPOS="1437"/>
+<String CONTENT="audience;" HEIGHT="28" WIDTH="174" VPOS="547" HPOS="1463"/>
+<SP HEIGHT="22" WIDTH="27" VPOS="552" HPOS="1637"/>
+<String CONTENT="with" HEIGHT="24" WIDTH="80" VPOS="545" HPOS="1664"/>
+<SP HEIGHT="24" WIDTH="24" VPOS="545" HPOS="1744"/>
+<String CS="1" CONTENT="a"/>
+</TextLine>
+<TextLine HEIGHT="36" WIDTH="663" VPOS="579" HPOS="1119">
+<String CONTENT="chronology" HEIGHT="30" WIDTH="198" VPOS="585" HPOS="1119"/>
+<SP HEIGHT="25" WIDTH="23" VPOS="589" HPOS="1318"/>
+<String CONTENT="of" HEIGHT="24" WIDTH="37" VPOS="584" HPOS="1342"/>
+<SP HEIGHT="23" WIDTH="21" VPOS="584" HPOS="1380"/>
+<String CONTENT="major" HEIGHT="29" WIDTH="101" VPOS="583" HPOS="1402"/>
+<SP HEIGHT="18" WIDTH="19" VPOS="587" HPOS="1504"/>
+<String CONTENT="events" HEIGHT="24" WIDTH="118" VPOS="581" HPOS="1524"/>
+<SP HEIGHT="23" WIDTH="25" VPOS="580" HPOS="1643"/>
+<String CONTENT="in" HEIGHT="24" WIDTH="35" VPOS="580" HPOS="1669"/>
+<SP HEIGHT="24" WIDTH="24" VPOS="580" HPOS="1705"/>
+<String CONTENT="the" HEIGHT="24" WIDTH="52" VPOS="579" HPOS="1730"/>
+</TextLine>
+<TextLine HEIGHT="66" WIDTH="686" VPOS="613" HPOS="1120" CS="1">
+<String CONTENT="publishing" HEIGHT="30" WIDTH="199" VPOS="619" HPOS="1120"/>
+<SP HEIGHT="29" WIDTH="20" VPOS="618" HPOS="1320"/>
+<String CONTENT="history" HEIGHT="29" WIDTH="139" VPOS="617" HPOS="1341"/>
+<SP HEIGHT="24" WIDTH="23" VPOS="621" HPOS="1481"/>
+<String CONTENT="of" HEIGHT="23" WIDTH="37" VPOS="616" HPOS="1505"/>
+<SP HEIGHT="23" WIDTH="20" VPOS="616" HPOS="1543"/>
+<String CONTENT="J." HEIGHT="25" WIDTH="34" VPOS="615" HPOS="1564"/>
+<SP HEIGHT="24" WIDTH="26" VPOS="615" HPOS="1599"/>
+<String CS="1" CONTENT="B." HEIGHT="8" WIDTH="7" VPOS="632" HPOS="1652"/>
+<SP HEIGHT="26" WIDTH="27" VPOS="614" HPOS="1660"/>
+<String CS="1" CONTENT="Lippincott" HEIGHT="66" WIDTH="686" VPOS="613" HPOS="1120"/>
+</TextLine>
+<TextLine HEIGHT="34" WIDTH="480" VPOS="648" HPOS="1220" CS="1">
+<String CONTENT="Company." HEIGHT="28" WIDTH="155" VPOS="654" HPOS="1220"/>
+<SP HEIGHT="29" WIDTH="46" VPOS="651" HPOS="1376"/>
+<String CONTENT="79" HEIGHT="29" WIDTH="38" VPOS="650" HPOS="1423"/>
+<SP HEIGHT="29" WIDTH="23" VPOS="650" HPOS="1462"/>
+<String CS="1" CONTENT="p."/>
+<SP HEIGHT="24" WIDTH="45" VPOS="651" HPOS="1518"/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CONTENT="J." HEIGHT="24" WIDTH="34" VPOS="649" HPOS="1606"/>
+<SP HEIGHT="25" WIDTH="25" VPOS="648" HPOS="1641"/>
+<String CONTENT="D." HEIGHT="25" WIDTH="33" VPOS="648" HPOS="1667"/>
+</TextLine>
+<TextLine HEIGHT="42" WIDTH="661" VPOS="676" HPOS="1120" CS="1">
+<String CS="1" CONTENT="Lippincott" HEIGHT="30" WIDTH="197" VPOS="688" HPOS="1120"/>
+<SP HEIGHT="24" WIDTH="23" VPOS="686" HPOS="1318"/>
+<String CONTENT="Co.;" HEIGHT="28" WIDTH="72" VPOS="685" HPOS="1342"/>
+<SP HEIGHT="28" WIDTH="31" VPOS="684" HPOS="1415"/>
+<String CS="1" CONTENT="15Mar67;" HEIGHT="34" WIDTH="112" VPOS="678" HPOS="1485"/>
+<SP HEIGHT="29" WIDTH="30" VPOS="682" HPOS="1598"/>
+<!-- cceid AB426613-6BFB-1014-B6FB-B9486FFAA365 --><String CONTENT="A926283." HEIGHT="34" WIDTH="152" VPOS="676" HPOS="1629"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Basic"/>
+<SP/>
+<String CS="1" CONTENT="keys"/>
+<SP/>
+<String CS="1" CONTENT="to"/>
+<SP/>
+<String CS="1" CONTENT="spelling."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="GLIM,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="THEODORE"/>
+<SP/>
+<String CS="1" CONTENT="E."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Basic"/>
+<SP/>
+<String CS="1" CONTENT="psychiatric"/>
+<SP/>
+<String CS="1" CONTENT="concepts"/>
+<SP/>
+<String CS="1" CONTENT="in"/>
+<SP/>
+<String CS="1" CONTENT="nursing."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="HOFLING,"/>
+<SP/>
+<String CS="1" CONTENT="CHARLES"/>
+<SP/>
+<String CS="1" CONTENT="K."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Birds"/>
+<SP/>
+<String CS="1" CONTENT="in"/>
+<SP/>
+<String CS="1" CONTENT="the"/>
+<SP/>
+<String CS="1" CONTENT="belfry."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="PAYNE,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LAURENCE."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Civilization"/>
+<SP/>
+<String CS="1" CONTENT="in"/>
+<SP/>
+<String CS="1" CONTENT="the"/>
+<SP/>
+<String CS="1" CONTENT="Western"/>
+<SP/>
+<String CS="1" CONTENT="World,"/>
+<SP/>
+<String CS="1" CONTENT="l."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="MAJOR,"/>
+<SP/>
+<String CS="1" CONTENT="J."/>
+<SP/>
+<String CS="1" CONTENT="RUSSELL"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Creative"/>
+<SP/>
+<String CS="1" CONTENT="history."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="NUGENT,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="WALTER"/>
+<SP/>
+<String CS="1" CONTENT="T."/>
+<SP/>
+<String CS="1" CONTENT="K."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Crosscurrents"/>
+<SP/>
+<String CS="1" CONTENT="in"/>
+<SP/>
+<String CS="1" CONTENT="psychiatry"/>
+<SP/>
+<String CS="1" CONTENT="&amp;"/>
+<SP/>
+<String CS="1" CONTENT="psycho"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="analysis."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="GIBSON,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="ROBERT"/>
+<SP/>
+<String CS="1" CONTENT="W.,"/>
+<SP/>
+<String CS="1" CONTENT="ed."/>
+</TextLine>
+<TextLine HEIGHT="34" WIDTH="708" VPOS="1156" HPOS="1073" CS="1">
+<String CONTENT="The" HEIGHT="25" WIDTH="57" VPOS="1164" HPOS="1073"/>
+<SP HEIGHT="23" WIDTH="23" VPOS="1163" HPOS="1131"/>
+<String CONTENT="doctor" HEIGHT="26" WIDTH="119" VPOS="1161" HPOS="1155"/>
+<SP HEIGHT="23" WIDTH="22" VPOS="1162" HPOS="1275"/>
+<String CS="1" CONTENT="talks" HEIGHT="22" WIDTH="96" VPOS="1162" HPOS="1298"/>
+<SP HEIGHT="22" WIDTH="25" VPOS="1162" HPOS="1395"/>
+<String CONTENT="to" HEIGHT="21" WIDTH="36" VPOS="1162" HPOS="1421"/>
+<SP HEIGHT="19" WIDTH="22" VPOS="1164" HPOS="1458"/>
+<String CONTENT="newlyweds." HEIGHT="30" WIDTH="195" VPOS="1157" HPOS="1481"/>
+<SP HEIGHT="24" WIDTH="45" VPOS="1157" HPOS="1677"/>
+<String CS="1" CONTENT="See" HEIGHT="17" WIDTH="16" VPOS="1162" HPOS="1765"/>
+</TextLine>
+<TextLine HEIGHT="33" WIDTH="301" VPOS="1194" HPOS="1114">
+<String LANG="de" CONTENT="OLIVEN," HEIGHT="31" WIDTH="135" VPOS="1196" HPOS="1114"/>
+<SP HEIGHT="31" WIDTH="29" VPOS="1195" HPOS="1249"/>
+<String LANG="en-US" CONTENT="JOHN" HEIGHT="24" WIDTH="77" VPOS="1195" HPOS="1278"/>
+<SP HEIGHT="23" WIDTH="23" VPOS="1195" HPOS="1356"/>
+<String LANG="en-US" CONTENT="F." HEIGHT="27" WIDTH="34" VPOS="1194" HPOS="1380"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Electroencephalography"/>
+<SP/>
+<String CS="1" CONTENT="for"/>
+<SP/>
+<String CS="1" CONTENT="anesthesiologists"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="Surgeons."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="SADOVE,"/>
+<SP/>
+<String CS="1" CONTENT="MAX"/>
+<SP/>
+<String CS="1" CONTENT="S."/>
+</TextLine>
+<TextLine HEIGHT="37" WIDTH="662" VPOS="1339" HPOS="1068" CS="1">
+<String CONTENT="The" HEIGHT="27" WIDTH="57" VPOS="1342" HPOS="1068"/>
+<SP HEIGHT="24" WIDTH="23" VPOS="1344" HPOS="1126"/>
+<String CONTENT="English" HEIGHT="30" WIDTH="138" VPOS="1342" HPOS="1150"/>
+<SP HEIGHT="24" WIDTH="21" VPOS="1343" HPOS="1289"/>
+<String CONTENT="novel." HEIGHT="26" WIDTH="115" VPOS="1342" HPOS="1311"/>
+<SP HEIGHT="24" WIDTH="45" VPOS="1343" HPOS="1427"/>
+<String CONTENT="Due" HEIGHT="23" WIDTH="57" VPOS="1343" HPOS="1473"/>
+<SP HEIGHT="22" WIDTH="24" VPOS="1344" HPOS="1531"/>
+<String CONTENT="BARTLETT," HEIGHT="32" WIDTH="174" VPOS="1341" HPOS="1556"/>
+</TextLine>
+<TextLine HEIGHT="24" WIDTH="77" VPOS="1379" HPOS="1110" CS="1">
+<String CONTENT="LYNN" HEIGHT="24" WIDTH="77" VPOS="1379" HPOS="1110"/>
+<SP/>
+<String CS="1" CONTENT="C."/>
+</TextLine>
+<TextLine HEIGHT="37" WIDTH="700" VPOS="1410" HPOS="1080" CS="1">
+<String CONTENT="Enjoying" HEIGHT="29" WIDTH="157" VPOS="1415" HPOS="1080"/>
+<SP HEIGHT="29" WIDTH="24" VPOS="1415" HPOS="1238"/>
+<String CONTENT="family" HEIGHT="30" WIDTH="116" VPOS="1413" HPOS="1263"/>
+<SP HEIGHT="29" WIDTH="24" VPOS="1414" HPOS="1380"/>
+<String CONTENT="living." HEIGHT="30" WIDTH="131" VPOS="1413" HPOS="1405"/>
+<SP HEIGHT="25" WIDTH="47" VPOS="1412" HPOS="1537"/>
+<String CONTENT="Den" HEIGHT="24" WIDTH="58" VPOS="1412" HPOS="1585"/>
+<SP HEIGHT="23" WIDTH="22" VPOS="1413" HPOS="1644"/>
+<String CONTENT="CROSS," HEIGHT="33" WIDTH="113" VPOS="1411" HPOS="1667"/>
+</TextLine>
+<TextLine HEIGHT="26" WIDTH="153" VPOS="1449" HPOS="1141" CS="1">
+<String LANG="el" CS="1" CONTENT="A"/>
+<String LANG="de" CS="1" CONTENT="LEENE" HEIGHT="24" WIDTH="98" VPOS="1450" HPOS="1141"/>
+<SP HEIGHT="25" WIDTH="19" VPOS="1449" HPOS="1240"/>
+<String LANG="el" CS="1" CONTENT="A." HEIGHT="8" WIDTH="7" VPOS="1466" HPOS="1287"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Essays,"/>
+<SP/>
+<String CS="1" CONTENT="classic"/>
+<SP/>
+<String CS="1" CONTENT="&amp;"/>
+<SP/>
+<String CS="1" CONTENT="contemporary."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LID,"/>
+<SP/>
+<String CS="1" CONTENT="R."/>
+<SP/>
+<String CS="1" CONTENT="W.,"/>
+<SP/>
+<String CS="1" CONTENT="ed."/>
+</TextLine>
+<TextLine HEIGHT="34" WIDTH="643" VPOS="1555" HPOS="1079" CS="1">
+<String CONTENT="Family" HEIGHT="29" WIDTH="119" VPOS="1559" HPOS="1079"/>
+<SP HEIGHT="30" WIDTH="21" VPOS="1558" HPOS="1199"/>
+<String CONTENT="development." HEIGHT="31" WIDTH="239" VPOS="1556" HPOS="1221"/>
+<SP HEIGHT="24" WIDTH="45" VPOS="1559" HPOS="1461"/>
+<String CS="1" CONTENT="See" HEIGHT="16" WIDTH="16" VPOS="1565" HPOS="1548"/>
+<SP HEIGHT="24" WIDTH="23" VPOS="1559" HPOS="1565"/>
+<String CONTENT="DUVALL," HEIGHT="28" WIDTH="133" VPOS="1558" HPOS="1589"/>
+</TextLine>
+<TextLine HEIGHT="27" WIDTH="257" VPOS="1592" HPOS="1120">
+<String CONTENT="EVELYN" HEIGHT="25" WIDTH="120" VPOS="1593" HPOS="1120"/>
+<SP HEIGHT="26" WIDTH="20" VPOS="1592" HPOS="1241"/>
+<String CONTENT="MILLS." HEIGHT="25" WIDTH="115" VPOS="1593" HPOS="1262"/>
+</TextLine>
+<TextLine HEIGHT="35" WIDTH="724" VPOS="1623" HPOS="1093" CS="1">
+<String CONTENT="The" HEIGHT="23" WIDTH="56" VPOS="1631" HPOS="1093"/>
+<SP HEIGHT="23" WIDTH="27" VPOS="1630" HPOS="1150"/>
+<String CONTENT="family" HEIGHT="31" WIDTH="113" VPOS="1627" HPOS="1178"/>
+<SP HEIGHT="28" WIDTH="27" VPOS="1629" HPOS="1292"/>
+<String CS="1" CONTENT="in" HEIGHT="17" WIDTH="15" VPOS="1634" HPOS="1337"/>
+<SP HEIGHT="18" WIDTH="23" VPOS="1633" HPOS="1353"/>
+<String CONTENT="various" HEIGHT="24" WIDTH="137" VPOS="1626" HPOS="1377"/>
+<SP HEIGHT="17" WIDTH="24" VPOS="1632" HPOS="1515"/>
+<String CONTENT="cultures." HEIGHT="26" WIDTH="172" VPOS="1624" HPOS="1540"/>
+<SP HEIGHT="25" WIDTH="47" VPOS="1624" HPOS="1713"/>
+<String CS="1" CONTENT="See" HEIGHT="17" WIDTH="16" VPOS="1629" HPOS="1801"/>
+</TextLine>
+<TextLine HEIGHT="29" WIDTH="318" VPOS="1662" HPOS="1131" CS="1">
+<String CONTENT="QUEEN." HEIGHT="27" WIDTH="117" VPOS="1664" HPOS="1131"/>
+<SP HEIGHT="27" WIDTH="27" VPOS="1663" HPOS="1249"/>
+<String CS="1" CONTENT="STUART" HEIGHT="24" WIDTH="100" VPOS="1663" HPOS="1295"/>
+<SP HEIGHT="25" WIDTH="20" VPOS="1662" HPOS="1396"/>
+<String CONTENT="A." HEIGHT="25" WIDTH="32" VPOS="1662" HPOS="1417"/>
+</TextLine>
+<TextLine HEIGHT="34" WIDTH="564" VPOS="1695" HPOS="1095">
+<String CONTENT="Food" HEIGHT="24" WIDTH="78" VPOS="1703" HPOS="1095"/>
+<SP HEIGHT="24" WIDTH="26" VPOS="1702" HPOS="1173"/>
+<String CONTENT="for" HEIGHT="25" WIDTH="55" VPOS="1701" HPOS="1199"/>
+<SP HEIGHT="18" WIDTH="22" VPOS="1707" HPOS="1254"/>
+<String CONTENT="modern" HEIGHT="25" WIDTH="121" VPOS="1700" HPOS="1276"/>
+<SP HEIGHT="25" WIDTH="25" VPOS="1699" HPOS="1397"/>
+<String CONTENT="living." HEIGHT="28" WIDTH="134" VPOS="1699" HPOS="1422"/>
+<SP HEIGHT="28" WIDTH="47" VPOS="1695" HPOS="1556"/>
+<String CONTENT="See" HEIGHT="26" WIDTH="56" VPOS="1695" HPOS="1603"/>
+</TextLine>
+<TextLine HEIGHT="31" WIDTH="379" VPOS="1730" HPOS="1136" CS="1">
+<String CS="1" CONTENT="MODERMOTT," HEIGHT="28" WIDTH="195" VPOS="1733" HPOS="1136"/>
+<SP HEIGHT="28" WIDTH="28" VPOS="1732" HPOS="1332"/>
+<String CONTENT="IRENE" HEIGHT="27" WIDTH="96" VPOS="1731" HPOS="1361"/>
+<SP HEIGHT="25" WIDTH="21" VPOS="1730" HPOS="1458"/>
+<String CONTENT="E." HEIGHT="27" WIDTH="35" VPOS="1730" HPOS="1480"/>
+</TextLine>
+<TextLine HEIGHT="34" WIDTH="659" VPOS="1764" HPOS="1089" CS="1">
+<String CONTENT="Foundations" HEIGHT="25" WIDTH="218" VPOS="1769" HPOS="1089"/>
+<SP HEIGHT="17" WIDTH="23" VPOS="1774" HPOS="1308"/>
+<String CONTENT="of" HEIGHT="24" WIDTH="38" VPOS="1767" HPOS="1332"/>
+<SP HEIGHT="30" WIDTH="21" VPOS="1767" HPOS="1371"/>
+<String CONTENT="pediatric" HEIGHT="31" WIDTH="176" VPOS="1766" HPOS="1393"/>
+<SP HEIGHT="18" WIDTH="24" VPOS="1771" HPOS="1570"/>
+<String CONTENT="nursing." HEIGHT="28" WIDTH="153" VPOS="1764" HPOS="1595"/>
+</TextLine>
+<TextLine HEIGHT="23" WIDTH="25" VPOS="1805" HPOS="1187" CS="1">
+<String CS="1" CONTENT="See"/>
+<SP HEIGHT="23" WIDTH="25" VPOS="1805" HPOS="1187"/>
+<String CS="1" CONTENT="BROADRIBB,"/>
+<SP/>
+<String CS="1" CONTENT="VIOLET."/>
+</TextLine>
+<TextLine HEIGHT="32" WIDTH="560" VPOS="1830" HPOS="1100" CS="1">
+<String CONTENT="Health" HEIGHT="26" WIDTH="119" VPOS="1836" HPOS="1100"/>
+<SP HEIGHT="24" WIDTH="22" VPOS="1837" HPOS="1220"/>
+<String CONTENT="science" HEIGHT="24" WIDTH="136" VPOS="1836" HPOS="1243"/>
+<SP HEIGHT="24" WIDTH="27" VPOS="1834" HPOS="1380"/>
+<String CONTENT="1," HEIGHT="27" WIDTH="31" VPOS="1833" HPOS="1408"/>
+<SP HEIGHT="26" WIDTH="46" VPOS="1833" HPOS="1440"/>
+<String CONTENT="See" HEIGHT="23" WIDTH="54" VPOS="1833" HPOS="1487"/>
+<SP HEIGHT="22" WIDTH="28" VPOS="1834" HPOS="1542"/>
+<String CONTENT="PILE," HEIGHT="29" WIDTH="89" VPOS="1830" HPOS="1571"/>
+</TextLine>
+<TextLine HEIGHT="29" WIDTH="420" VPOS="1867" HPOS="1140">
+<String CONTENT="DOROTHEA" HEIGHT="26" WIDTH="160" VPOS="1870" HPOS="1140"/>
+<SP HEIGHT="24" WIDTH="23" VPOS="1870" HPOS="1300"/>
+<String CONTENT="M." HEIGHT="25" WIDTH="35" VPOS="1870" HPOS="1323"/>
+<SP HEIGHT="26" WIDTH="25" VPOS="1869" HPOS="1358"/>
+<String CONTENT="WILLIAMS." HEIGHT="27" WIDTH="177" VPOS="1867" HPOS="1383"/>
+</TextLine>
+<TextLine HEIGHT="34" WIDTH="640" VPOS="1904" HPOS="1099" CS="1">
+<String CONTENT="Health" HEIGHT="24" WIDTH="119" VPOS="1907" HPOS="1099"/>
+<SP HEIGHT="24" WIDTH="23" VPOS="1907" HPOS="1219"/>
+<String CONTENT="science" HEIGHT="24" WIDTH="136" VPOS="1907" HPOS="1243"/>
+<SP HEIGHT="24" WIDTH="24" VPOS="1906" HPOS="1380"/>
+<String CS="1" CONTENT="2." HEIGHT="7" WIDTH="6" VPOS="1922" HPOS="1429"/>
+<SP HEIGHT="23" WIDTH="47" VPOS="1906" HPOS="1436"/>
+<String CONTENT="See" HEIGHT="22" WIDTH="56" VPOS="1906" HPOS="1484"/>
+<SP HEIGHT="24" WIDTH="21" VPOS="1905" HPOS="1541"/>
+<String CONTENT="WILLIAMS," HEIGHT="32" WIDTH="176" VPOS="1904" HPOS="1563"/>
+</TextLine>
+<TextLine HEIGHT="27" WIDTH="214" VPOS="1940" HPOS="1141">
+<String CONTENT="DOROTHEA" HEIGHT="26" WIDTH="159" VPOS="1940" HPOS="1141"/>
+<SP HEIGHT="23" WIDTH="19" VPOS="1941" HPOS="1301"/>
+<String CONTENT="M." HEIGHT="25" WIDTH="34" VPOS="1941" HPOS="1321"/>
+</TextLine>
+<TextLine HEIGHT="35" WIDTH="542" VPOS="1970" HPOS="1189" CS="1">
+<String CS="1" CONTENT="Histopathology" HEIGHT="32" WIDTH="177" VPOS="1973" HPOS="1189"/>
+<SP HEIGHT="25" WIDTH="23" VPOS="1979" HPOS="1367"/>
+<String CONTENT="of" HEIGHT="24" WIDTH="37" VPOS="1972" HPOS="1391"/>
+<SP HEIGHT="23" WIDTH="24" VPOS="1972" HPOS="1429"/>
+<String CONTENT="the" HEIGHT="23" WIDTH="54" VPOS="1973" HPOS="1454"/>
+<SP HEIGHT="17" WIDTH="25" VPOS="1978" HPOS="1509"/>
+<String CONTENT="skin." HEIGHT="26" WIDTH="90" VPOS="1970" HPOS="1535"/>
+<SP HEIGHT="23" WIDTH="48" VPOS="1972" HPOS="1626"/>
+<String CS="1" CONTENT="See" HEIGHT="19" WIDTH="36" VPOS="1977" HPOS="1695"/>
+</TextLine>
+<TextLine HEIGHT="29" WIDTH="315" VPOS="2007" HPOS="1129">
+<String CONTENT="LEVER," HEIGHT="27" WIDTH="113" VPOS="2009" HPOS="1129"/>
+<SP HEIGHT="27" WIDTH="25" VPOS="2009" HPOS="1243"/>
+<String CONTENT="WALTER" HEIGHT="24" WIDTH="119" VPOS="2009" HPOS="1269"/>
+<SP HEIGHT="26" WIDTH="21" VPOS="2007" HPOS="1389"/>
+<String CONTENT="F." HEIGHT="26" WIDTH="33" VPOS="2007" HPOS="1411"/>
+</TextLine>
+<TextLine HEIGHT="60" WIDTH="705" VPOS="2039" HPOS="1096" CS="1">
+<String CONTENT="How" HEIGHT="22" WIDTH="57" VPOS="2045" HPOS="1096"/>
+<SP HEIGHT="21" WIDTH="26" VPOS="2045" HPOS="1153"/>
+<String CONTENT="to" HEIGHT="20" WIDTH="36" VPOS="2045" HPOS="1179"/>
+<SP HEIGHT="23" WIDTH="24" VPOS="2043" HPOS="1215"/>
+<String CONTENT="test" HEIGHT="25" WIDTH="69" VPOS="2042" HPOS="1239"/>
+<SP HEIGHT="22" WIDTH="30" VPOS="2042" HPOS="1308"/>
+<String CONTENT="and" HEIGHT="21" WIDTH="58" VPOS="2043" HPOS="1338"/>
+<SP HEIGHT="24" WIDTH="24" VPOS="2041" HPOS="1396"/>
+<String CONTENT="hire" HEIGHT="23" WIDTH="77" VPOS="2041" HPOS="1420"/>
+<SP HEIGHT="22" WIDTH="27" VPOS="2042" HPOS="1497"/>
+<String CONTENT="for" HEIGHT="23" WIDTH="55" VPOS="2041" HPOS="1524"/>
+<SP HEIGHT="22" WIDTH="26" VPOS="2041" HPOS="1579"/>
+<String CONTENT="the" HEIGHT="23" WIDTH="54" VPOS="2040" HPOS="1605"/>
+<SP HEIGHT="23" WIDTH="26" VPOS="2045" HPOS="1659"/>
+<String CONTENT="professional" HEIGHT="60" WIDTH="664" VPOS="2039" HPOS="1137"/>
+</TextLine>
+<TextLine HEIGHT="32" WIDTH="522" VPOS="2071" HPOS="1280" CS="1">
+<String CONTENT="office." HEIGHT="26" WIDTH="133" VPOS="2073" HPOS="1280"/>
+<SP HEIGHT="23" WIDTH="47" VPOS="2075" HPOS="1414"/>
+<String CS="1" CONTENT="See" HEIGHT="23" WIDTH="56" VPOS="2075" HPOS="1462"/>
+<SP HEIGHT="23" WIDTH="23" VPOS="2075" HPOS="1519"/>
+<String CONTENT="SHORE," HEIGHT="29" WIDTH="111" VPOS="2073" HPOS="1543"/>
+<SP HEIGHT="27" WIDTH="30" VPOS="2074" HPOS="1655"/>
+<String CONTENT="NATHAN" HEIGHT="25" WIDTH="116" VPOS="2073" HPOS="1686"/>
+</TextLine>
+<TextLine HEIGHT="28" WIDTH="115" VPOS="2108" HPOS="1137">
+<String CONTENT="ALLEN." HEIGHT="28" WIDTH="115" VPOS="2108" HPOS="1137"/>
+</TextLine>
+<TextLine HEIGHT="36" WIDTH="667" VPOS="2139" HPOS="1092" CS="1">
+<String CS="1" CONTENT="Hypertensive" HEIGHT="30" WIDTH="222" VPOS="2145" HPOS="1092"/>
+<SP HEIGHT="19" WIDTH="23" VPOS="2148" HPOS="1333"/>
+<String CONTENT="vascular" HEIGHT="24" WIDTH="160" VPOS="2143" HPOS="1357"/>
+<SP HEIGHT="24" WIDTH="21" VPOS="2142" HPOS="1518"/>
+<String CONTENT="disease." HEIGHT="26" WIDTH="154" VPOS="2141" HPOS="1540"/>
+<SP HEIGHT="27" WIDTH="46" VPOS="2139" HPOS="1695"/>
+<String CS="1" CONTENT="See" HEIGHT="25" WIDTH="17" VPOS="2139" HPOS="1742"/>
+</TextLine>
+<TextLine HEIGHT="34" WIDTH="277" VPOS="2176" HPOS="1135">
+<String CONTENT="MOSER," HEIGHT="33" WIDTH="111" VPOS="2177" HPOS="1135"/>
+<SP HEIGHT="32" WIDTH="28" VPOS="2177" HPOS="1247"/>
+<String CONTENT="MARVIN." HEIGHT="28" WIDTH="136" VPOS="2176" HPOS="1276"/>
+</TextLine>
+<TextLine HEIGHT="34" WIDTH="721" VPOS="2213" HPOS="1084" CS="1">
+<String CS="1" CONTENT="Instructor's" HEIGHT="28" WIDTH="213" VPOS="2217" HPOS="1085"/>
+<SP HEIGHT="17" WIDTH="22" VPOS="2223" HPOS="1323"/>
+<String CONTENT="manual." HEIGHT="24" WIDTH="135" VPOS="2217" HPOS="1346"/>
+<SP HEIGHT="23" WIDTH="47" VPOS="2216" HPOS="1481"/>
+<String CONTENT="See" HEIGHT="24" WIDTH="58" VPOS="2215" HPOS="1528"/>
+<SP HEIGHT="23" WIDTH="25" VPOS="2215" HPOS="1586"/>
+<String CONTENT="LID," HEIGHT="30" WIDTH="72" VPOS="2214" HPOS="1611"/>
+<SP HEIGHT="30" WIDTH="27" VPOS="2214" HPOS="1683"/>
+<String LANG="la" CONTENT="R." HEIGHT="26" WIDTH="36" VPOS="2213" HPOS="1710"/>
+<SP HEIGHT="25" WIDTH="25" VPOS="2213" HPOS="1746"/>
+<String CONTENT="W." HEIGHT="25" WIDTH="34" VPOS="2213" HPOS="1771"/>
+</TextLine>
+<TextLine HEIGHT="35" WIDTH="719" VPOS="2248" HPOS="1092" CS="1">
+<String CONTENT="Living" HEIGHT="27" WIDTH="117" VPOS="2256" HPOS="1092"/>
+<SP HEIGHT="27" WIDTH="25" VPOS="2256" HPOS="1210"/>
+<String CS="1" CONTENT="in" HEIGHT="18" WIDTH="16" VPOS="2260" HPOS="1253"/>
+<SP HEIGHT="19" WIDTH="24" VPOS="2259" HPOS="1270"/>
+<String CONTENT="social" HEIGHT="24" WIDTH="114" VPOS="2253" HPOS="1295"/>
+<SP HEIGHT="29" WIDTH="24" VPOS="2252" HPOS="1410"/>
+<String CONTENT="groups." HEIGHT="24" WIDTH="133" VPOS="2257" HPOS="1435"/>
+<SP HEIGHT="25" WIDTH="48" VPOS="2251" HPOS="1569"/>
+<String CS="1" CONTENT="See" HEIGHT="17" WIDTH="15" VPOS="2256" HPOS="1638"/>
+<SP HEIGHT="27" WIDTH="20" VPOS="2250" HPOS="1674"/>
+<String CS="1" CONTENT="QUINN," HEIGHT="29" WIDTH="116" VPOS="2248" HPOS="1695"/>
+</TextLine>
+<TextLine HEIGHT="26" WIDTH="152" VPOS="2289" HPOS="1132" CS="1">
+<String LANG="de" CONTENT="JA" HEIGHT="23" WIDTH="34" VPOS="2290" HPOS="1132"/>
+<String LANG="en-US" CS="1" CONTENT="MES" HEIGHT="23" WIDTH="36" VPOS="2291" HPOS="1174"/>
+<SP HEIGHT="24" WIDTH="22" VPOS="2290" HPOS="1230"/>
+<String LANG="en-US" CONTENT="A." HEIGHT="24" WIDTH="31" VPOS="2290" HPOS="1253"/>
+</TextLine>
+<TextLine HEIGHT="34" WIDTH="740" VPOS="2321" HPOS="1098" CS="1">
+<String CONTENT="A" HEIGHT="23" WIDTH="15" VPOS="2326" HPOS="1098"/>
+<SP HEIGHT="23" WIDTH="23" VPOS="2326" HPOS="1114"/>
+<String CONTENT="manual" HEIGHT="23" WIDTH="114" VPOS="2326" HPOS="1138"/>
+<SP HEIGHT="23" WIDTH="28" VPOS="2325" HPOS="1253"/>
+<String CONTENT="for" HEIGHT="23" WIDTH="57" VPOS="2325" HPOS="1282"/>
+<SP HEIGHT="19" WIDTH="20" VPOS="2329" HPOS="1340"/>
+<String CONTENT="authors." HEIGHT="25" WIDTH="153" VPOS="2324" HPOS="1361"/>
+<SP HEIGHT="25" WIDTH="50" VPOS="2323" HPOS="1515"/>
+<String CS="1" CONTENT="12"/>
+<SP HEIGHT="29" WIDTH="22" VPOS="2323" HPOS="1602"/>
+<String CONTENT="p." HEIGHT="23" WIDTH="31" VPOS="2329" HPOS="1625"/>
+<SP HEIGHT="24" WIDTH="45" VPOS="2323" HPOS="1657"/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="J." HEIGHT="7" WIDTH="7" VPOS="2339" HPOS="1771"/>
+<SP HEIGHT="24" WIDTH="26" VPOS="2322" HPOS="1779"/>
+<String CS="1" CONTENT="B." HEIGHT="7" WIDTH="6" VPOS="2339" HPOS="1832"/>
+</TextLine>
+<TextLine HEIGHT="38" WIDTH="640" VPOS="2351" HPOS="1139" CS="1">
+<String CS="1" CONTENT="Lippincott" HEIGHT="29" WIDTH="199" VPOS="2360" HPOS="1139"/>
+<SP HEIGHT="24" WIDTH="22" VPOS="2358" HPOS="1338"/>
+<String CONTENT="Co.;" HEIGHT="27" WIDTH="74" VPOS="2357" HPOS="1361"/>
+<SP HEIGHT="30" WIDTH="27" VPOS="2353" HPOS="1435"/>
+<String CS="1" CONTENT="4Oct67;" HEIGHT="30" WIDTH="97" VPOS="2356" HPOS="1483"/>
+<SP HEIGHT="26" WIDTH="27" VPOS="2356" HPOS="1597"/>
+<!-- cceid AB54B3B8-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A951556." HEIGHT="29" WIDTH="154" VPOS="2355" HPOS="1625"/>
+</TextLine>
+<TextLine HEIGHT="30" WIDTH="564" VPOS="2396" HPOS="1089" CS="1">
+<String CONTENT="Neoplasms" HEIGHT="28" WIDTH="178" VPOS="2398" HPOS="1089"/>
+<SP HEIGHT="19" WIDTH="23" VPOS="2403" HPOS="1268"/>
+<String CONTENT="of" HEIGHT="23" WIDTH="37" VPOS="2399" HPOS="1292"/>
+<SP HEIGHT="22" WIDTH="24" VPOS="2399" HPOS="1330"/>
+<String CONTENT="the" HEIGHT="23" WIDTH="54" VPOS="2399" HPOS="1355"/>
+<SP HEIGHT="19" WIDTH="24" VPOS="2403" HPOS="1410"/>
+<String CONTENT="stomach." HEIGHT="27" WIDTH="152" VPOS="2396" HPOS="1435"/>
+<SP HEIGHT="25" WIDTH="48" VPOS="2397" HPOS="1588"/>
+<String CS="1" CONTENT="See" HEIGHT="24" WIDTH="16" VPOS="2397" HPOS="1637"/>
+</TextLine>
+<TextLine HEIGHT="30" WIDTH="297" VPOS="2431" HPOS="1129" CS="1">
+<String CS="1" CONTENT="MCNEER," HEIGHT="29" WIDTH="135" VPOS="2432" HPOS="1129"/>
+<SP HEIGHT="26" WIDTH="25" VPOS="2434" HPOS="1265"/>
+<String CONTENT="GORDON." HEIGHT="27" WIDTH="135" VPOS="2432" HPOS="1291"/>
+</TextLine>
+<TextLine HEIGHT="41" WIDTH="685" VPOS="2465" HPOS="1104" CS="1">
+<String LANG="la" CS="1" CONTENT="Orthopaedics," HEIGHT="33" WIDTH="255" VPOS="2473" HPOS="1104"/>
+<SP HEIGHT="24" WIDTH="26" VPOS="2478" HPOS="1360"/>
+<String LANG="en-US" CS="1" CONTENT="principles" HEIGHT="33" WIDTH="199" VPOS="2469" HPOS="1387"/>
+<SP HEIGHT="19" WIDTH="21" VPOS="2474" HPOS="1587"/>
+<String LANG="en-US" CONTENT="and" HEIGHT="24" WIDTH="57" VPOS="2469" HPOS="1609"/>
+<SP HEIGHT="22" WIDTH="26" VPOS="2469" HPOS="1667"/>
+<String LANG="en-US" CONTENT="their" HEIGHT="26" WIDTH="95" VPOS="2465" HPOS="1694"/>
+</TextLine>
+<TextLine HEIGHT="41" WIDTH="685" VPOS="2498" HPOS="1142" CS="1">
+<String CONTENT="application." HEIGHT="31" WIDTH="239" VPOS="2508" HPOS="1142"/>
+<SP HEIGHT="28" WIDTH="47" VPOS="2504" HPOS="1382"/>
+<String CS="1" CONTENT="See" HEIGHT="17" WIDTH="14" VPOS="2511" HPOS="1469"/>
+<SP HEIGHT="25" WIDTH="23" VPOS="2504" HPOS="1484"/>
+<String CONTENT="THREE," HEIGHT="32" WIDTH="116" VPOS="2502" HPOS="1508"/>
+<SP HEIGHT="33" WIDTH="26" VPOS="2500" HPOS="1625"/>
+<String CONTENT="SAMUEL" HEIGHT="28" WIDTH="119" VPOS="2498" HPOS="1652"/>
+<SP HEIGHT="25" WIDTH="21" VPOS="2499" HPOS="1772"/>
+<String CONTENT="L." HEIGHT="26" WIDTH="33" VPOS="2499" HPOS="1794"/>
+</TextLine>
+<TextLine HEIGHT="31" WIDTH="741" VPOS="2543" HPOS="1096" CS="1">
+<String CONTENT="Our" HEIGHT="22" WIDTH="56" VPOS="2551" HPOS="1097"/>
+<SP HEIGHT="24" WIDTH="22" VPOS="2550" HPOS="1154"/>
+<String CONTENT="American" HEIGHT="26" WIDTH="159" VPOS="2548" HPOS="1177"/>
+<SP HEIGHT="23" WIDTH="24" VPOS="2548" HPOS="1336"/>
+<String CONTENT="Government." HEIGHT="24" WIDTH="215" VPOS="2547" HPOS="1360"/>
+<SP HEIGHT="23" WIDTH="47" VPOS="2546" HPOS="1575"/>
+<String CS="1" CONTENT="See" HEIGHT="18" WIDTH="37" VPOS="2549" HPOS="1642"/>
+<SP HEIGHT="23" WIDTH="23" VPOS="2544" HPOS="1679"/>
+<String CS="1" CONTENT="DIMOND." HEIGHT="23" WIDTH="94" VPOS="2543" HPOS="1743"/>
+</TextLine>
+<TextLine HEIGHT="26" WIDTH="192" VPOS="2583" HPOS="1138">
+<String CONTENT="STANLEY" HEIGHT="25" WIDTH="137" VPOS="2583" HPOS="1138"/>
+<SP HEIGHT="23" WIDTH="22" VPOS="2583" HPOS="1276"/>
+<String CONTENT="K." HEIGHT="25" WIDTH="31" VPOS="2583" HPOS="1299"/>
+</TextLine>
+<TextLine HEIGHT="33" WIDTH="701" VPOS="2615" HPOS="1116" CS="1">
+<String CONTENT="Patient" HEIGHT="24" WIDTH="135" VPOS="2618" HPOS="1116"/>
+<SP HEIGHT="21" WIDTH="24" VPOS="2620" HPOS="1252"/>
+<String CONTENT="studies" HEIGHT="24" WIDTH="135" VPOS="2618" HPOS="1277"/>
+<SP HEIGHT="23" WIDTH="25" VPOS="2618" HPOS="1413"/>
+<String CS="1" CONTENT="in" HEIGHT="18" WIDTH="16" VPOS="2624" HPOS="1457"/>
+<SP HEIGHT="19" WIDTH="22" VPOS="2623" HPOS="1474"/>
+<String CS="1" CONTENT="medical-surgical" HEIGHT="30" WIDTH="320" VPOS="2616" HPOS="1497"/>
+</TextLine>
+<TextLine HEIGHT="30" WIDTH="201" VPOS="2652" HPOS="1155" CS="1">
+<String CONTENT="nursing." HEIGHT="30" WIDTH="152" VPOS="2652" HPOS="1155"/>
+<SP HEIGHT="23" WIDTH="48" VPOS="2653" HPOS="1308"/>
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="SECOR,"/>
+<SP/>
+<String CS="1" CONTENT="JANE."/>
+</TextLine>
+<TextLine HEIGHT="33" WIDTH="702" VPOS="2688" HPOS="1114" CS="1">
+<String CONTENT="Patterns" HEIGHT="24" WIDTH="155" VPOS="2694" HPOS="1114"/>
+<SP HEIGHT="17" WIDTH="25" VPOS="2698" HPOS="1269"/>
+<String CONTENT="of" HEIGHT="24" WIDTH="38" VPOS="2692" HPOS="1294"/>
+<SP HEIGHT="24" WIDTH="22" VPOS="2692" HPOS="1332"/>
+<String CONTENT="style" HEIGHT="29" WIDTH="97" VPOS="2691" HPOS="1354"/>
+<SP HEIGHT="23" WIDTH="31" VPOS="2691" HPOS="1451"/>
+<String CS="1" CONTENT="in" HEIGHT="17" WIDTH="17" VPOS="2697" HPOS="1497"/>
+<SP HEIGHT="18" WIDTH="23" VPOS="2696" HPOS="1514"/>
+<String CONTENT="exposition" HEIGHT="30" WIDTH="200" VPOS="2689" HPOS="1537"/>
+<SP HEIGHT="19" WIDTH="21" VPOS="2694" HPOS="1737"/>
+<String CONTENT="and" HEIGHT="24" WIDTH="56" VPOS="2688" HPOS="1759"/>
+</TextLine>
+<TextLine HEIGHT="33" WIDTH="701" VPOS="2723" HPOS="1152" CS="1">
+<String CONTENT="argument." HEIGHT="28" WIDTH="173" VPOS="2728" HPOS="1152"/>
+<SP HEIGHT="24" WIDTH="49" VPOS="2727" HPOS="1326"/>
+<String CONTENT="See" HEIGHT="24" WIDTH="54" VPOS="2726" HPOS="1376"/>
+<SP HEIGHT="23" WIDTH="27" VPOS="2727" HPOS="1431"/>
+<String CS="1" CONTENT="ALBRECHT," HEIGHT="28" WIDTH="170" VPOS="2724" HPOS="1459"/>
+<SP HEIGHT="27" WIDTH="28" VPOS="2724" HPOS="1630"/>
+<String CONTENT="ROBERT" HEIGHT="25" WIDTH="120" VPOS="2723" HPOS="1659"/>
+<SP HEIGHT="23" WIDTH="20" VPOS="2723" HPOS="1780"/>
+<String CONTENT="C.," HEIGHT="29" WIDTH="52" VPOS="2723" HPOS="1801"/>
+</TextLine>
+<TextLine HEIGHT="24" WIDTH="52" VPOS="2762" HPOS="1152">
+<String CONTENT="ed." HEIGHT="24" WIDTH="52" VPOS="2762" HPOS="1152"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Philosophic"/>
+<SP/>
+<String CS="1" CONTENT="problems"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="education."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="PAI,"/>
+<SP/>
+<String CS="1" CONTENT="YOUNG."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Plays,"/>
+<SP/>
+<String CS="1" CONTENT="classic"/>
+<SP/>
+<String CS="1" CONTENT="&amp;"/>
+<SP/>
+<String CS="1" CONTENT="contemporary."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LID,"/>
+<SP/>
+<String CS="1" CONTENT="R."/>
+<SP/>
+<String CS="1" CONTENT="W."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Progress"/>
+<SP/>
+<String CS="1" CONTENT="in"/>
+<SP/>
+<String CS="1" CONTENT="conception"/>
+<SP/>
+<String CS="1" CONTENT="control,"/>
+<SP/>
+<String CS="1" CONTENT="1967."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="CHARLES,"/>
+<SP/>
+<String CS="1" CONTENT="DAVID."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Reading"/>
+<SP/>
+<String CS="1" CONTENT="goals."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="MCCRACKEN,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="GLENN."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Reading"/>
+<SP/>
+<String CS="1" CONTENT="with"/>
+<SP/>
+<String CS="1" CONTENT="phonics."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="HAY"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="JULTE."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Readings"/>
+<SP/>
+<String CS="1" CONTENT="in"/>
+<SP/>
+<String CS="1" CONTENT="the"/>
+<SP/>
+<String CS="1" CONTENT="psychology"/>
+<SP/>
+<String CS="1" CONTENT="of"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="learning."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="HALL,"/>
+<SP/>
+<String CS="1" CONTENT="JOHN"/>
+<SP/>
+<String CS="1" CONTENT="F.,"/>
+<SP/>
+<String CS="1" CONTENT="ed."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Rheumatic"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="coronary"/>
+<SP/>
+<String CS="1" CONTENT="heart"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="disease."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="MEDICAL-SURGICAL,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="SYMPOSIUM"/>
+<SP/>
+<String CS="1" CONTENT="ON"/>
+<SP/>
+<String CS="1" CONTENT="CARDIOVASCULAR"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="DISEASES,"/>
+<SP/>
+<String CS="1" CONTENT="NEW"/>
+<SP/>
+<String CS="1" CONTENT="YORK,"/>
+<SP/>
+<String CS="1" CONTENT="1965."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="The"/>
+<SP/>
+<String CS="1" CONTENT="scarlet"/>
+<SP/>
+<String CS="1" CONTENT="letter"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="other"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="writings."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="HAWTHORNE,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="NATHANIEL."/>
+</TextLine>
+</TextBlock>
+<TextBlock ID="Page2060_Block5" HEIGHT="3243" WIDTH="880" VPOS="268" HPOS="1904" LANG="en-US" CS="1" STYLEREFS="StyleId-95D2048A-E348-4756-8AD2-026E04C75374-">
+<Shape>
+<Polygon POINTS="2724,268 2765,268 2765,389 2766,389 2766,555 2767,555 2767,720 2768,720 2768,886 2769,886 2769,1051 2770,1051 2770,1217 2771,1217 2771,1382 2772,1382 2772,1548 2773,1548 2773,1713 2774,1713 2774,1879 2775,1879 2775,2044 2776,2044 2776,2210 2777,2210 2777,2375 2778,2375 2778,2541 2779,2541 2779,2706 2780,2706 2780,2872 2781,2872 2781,3037 2782,3037 2782,3203 2783,3203 2783,3368 2784,3368 2784,3506 2742,3506 2742,3507 2576,3507 2576,3508 2411,3508 2411,3509 2245,3509 2245,3510 2080,3510 2080,3511 1923,3511 1923,3374 1922,3374 1922,3208 1921,3208 1921,3043 1920,3043 1920,2877 1919,2877 1919,2712 1918,2712 1918,2546 1917,2546 1917,2381 1916,2381 1916,2215 1915,2215 1915,2050 1914,2050 1914,1884 1913,1884 1913,1719 1912,1719 1912,1553 1911,1553 1911,1388 1910,1388 1910,1222 1909,1222 1909,1057 1908,1057 1908,891 1907,891 1907,726 1906,726 1906,560 1905,560 1905,395 1904,395 1904,273 2062,273 2062,272 2228,272 2228,271 2393,271 2393,270 2559,270 2559,269 2724,269 2724,268"/>
+</Shape>
+<TextLine HEIGHT="37" WIDTH="679" VPOS="276" HPOS="1964" CS="1">
+<String CONTENT="Scientific" HEIGHT="26" WIDTH="197" VPOS="279" HPOS="1964"/>
+<SP HEIGHT="21" WIDTH="28" VPOS="282" HPOS="2162"/>
+<String CONTENT="foundations" HEIGHT="25" WIDTH="214" VPOS="279" HPOS="2191"/>
+<SP HEIGHT="19" WIDTH="24" VPOS="285" HPOS="2406"/>
+<String CONTENT="of" HEIGHT="22" WIDTH="37" VPOS="282" HPOS="2431"/>
+<SP HEIGHT="22" WIDTH="21" VPOS="282" HPOS="2469"/>
+<String CONTENT="nursing." HEIGHT="30" WIDTH="152" VPOS="280" HPOS="2491"/>
+</TextLine>
+<TextLine HEIGHT="32" WIDTH="420" VPOS="312" HPOS="2063" CS="1">
+<String CS="1" CONTENT="See"/>
+<SP HEIGHT="23" WIDTH="22" VPOS="314" HPOS="2063"/>
+<String CONTENT="NORDMARK," HEIGHT="30" WIDTH="176" VPOS="313" HPOS="2086"/>
+<SP HEIGHT="28" WIDTH="24" VPOS="314" HPOS="2263"/>
+<String CONTENT="MADKLYN" HEIGHT="26" WIDTH="140" VPOS="313" HPOS="2288"/>
+<SP HEIGHT="24" WIDTH="19" VPOS="314" HPOS="2429"/>
+<String CONTENT="T." HEIGHT="25" WIDTH="34" VPOS="315" HPOS="2449"/>
+</TextLine>
+<TextLine HEIGHT="41" WIDTH="718" VPOS="338" HPOS="1957" CS="1">
+<String LANG="en-US" CONTENT="Scoliosis." HEIGHT="27" WIDTH="194" VPOS="352" HPOS="1957"/>
+<SP HEIGHT="28" WIDTH="46" VPOS="348" HPOS="2152"/>
+<String LANG="en-US" CS="1" CONTENT="See" HEIGHT="25" WIDTH="34" VPOS="348" HPOS="2199"/>
+<SP HEIGHT="24" WIDTH="22" VPOS="347" HPOS="2255"/>
+<String LANG="de" CONTENT="HOPFENFELD," HEIGHT="30" WIDTH="215" VPOS="341" HPOS="2278"/>
+<SP HEIGHT="30" WIDTH="26" VPOS="340" HPOS="2494"/>
+<String LANG="en-US" CONTENT="STANLEY." HEIGHT="27" WIDTH="154" VPOS="338" HPOS="2521"/>
+</TextLine>
+<TextLine HEIGHT="33" WIDTH="597" VPOS="379" HPOS="1951" CS="1">
+<String CONTENT="Social" HEIGHT="25" WIDTH="116" VPOS="386" HPOS="1951"/>
+<SP HEIGHT="25" WIDTH="26" VPOS="385" HPOS="2067"/>
+<String CONTENT="studies." HEIGHT="27" WIDTH="153" VPOS="383" HPOS="2093"/>
+<SP HEIGHT="24" WIDTH="46" VPOS="383" HPOS="2246"/>
+<String CONTENT="See" HEIGHT="23" WIDTH="58" VPOS="383" HPOS="2292"/>
+<SP HEIGHT="24" WIDTH="23" VPOS="381" HPOS="2350"/>
+<String CONTENT="DOUG" HEIGHT="25" WIDTH="78" VPOS="380" HPOS="2373"/>
+<SP HEIGHT="23" WIDTH="4" VPOS="380" HPOS="2451"/>
+<String CONTENT="LADD," HEIGHT="30" WIDTH="93" VPOS="379" HPOS="2455"/>
+</TextLine>
+<TextLine HEIGHT="26" WIDTH="194" VPOS="419" HPOS="1991">
+<String CONTENT="MALCOLM" HEIGHT="25" WIDTH="140" VPOS="420" HPOS="1991"/>
+<SP HEIGHT="24" WIDTH="20" VPOS="419" HPOS="2132"/>
+<String CONTENT="P." HEIGHT="24" WIDTH="32" VPOS="419" HPOS="2153"/>
+</TextLine>
+<TextLine HEIGHT="32" WIDTH="717" VPOS="447" HPOS="1953">
+<String CONTENT="Stories" HEIGHT="26" WIDTH="137" VPOS="453" HPOS="1953"/>
+<SP HEIGHT="19" WIDTH="24" VPOS="457" HPOS="2091"/>
+<String CONTENT="of" HEIGHT="23" WIDTH="35" VPOS="452" HPOS="2116"/>
+<SP HEIGHT="23" WIDTH="24" VPOS="452" HPOS="2152"/>
+<String CONTENT="the" HEIGHT="24" WIDTH="54" VPOS="452" HPOS="2177"/>
+<SP HEIGHT="24" WIDTH="23" VPOS="451" HPOS="2232"/>
+<String CONTENT="double." HEIGHT="23" WIDTH="133" VPOS="451" HPOS="2256"/>
+<SP HEIGHT="25" WIDTH="46" VPOS="449" HPOS="2390"/>
+<String CONTENT="See" HEIGHT="24" WIDTH="56" VPOS="449" HPOS="2437"/>
+<SP HEIGHT="23" WIDTH="24" VPOS="449" HPOS="2494"/>
+<String CONTENT="GUERAKD," HEIGHT="27" WIDTH="151" VPOS="447" HPOS="2519"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="ALBERT"/>
+<SP/>
+<String CS="1" CONTENT="J.,"/>
+<SP/>
+<String CS="1" CONTENT="ed."/>
+</TextLine>
+<TextLine HEIGHT="29" WIDTH="663" VPOS="520" HPOS="1953">
+<String CONTENT="Teacher's" HEIGHT="25" WIDTH="178" VPOS="524" HPOS="1953"/>
+<SP HEIGHT="19" WIDTH="20" VPOS="529" HPOS="2132"/>
+<String CONTENT="manual" HEIGHT="25" WIDTH="120" VPOS="523" HPOS="2153"/>
+<SP HEIGHT="23" WIDTH="23" VPOS="523" HPOS="2274"/>
+<String CONTENT="for" HEIGHT="23" WIDTH="57" VPOS="523" HPOS="2298"/>
+<SP HEIGHT="23" WIDTH="22" VPOS="523" HPOS="2356"/>
+<String CONTENT="Our" HEIGHT="25" WIDTH="57" VPOS="522" HPOS="2379"/>
+<SP HEIGHT="23" WIDTH="22" VPOS="523" HPOS="2437"/>
+<String CONTENT="American" HEIGHT="26" WIDTH="156" VPOS="520" HPOS="2460"/>
+</TextLine>
+<TextLine HEIGHT="34" WIDTH="479" VPOS="555" HPOS="1994" CS="1">
+<String CONTENT="government." HEIGHT="29" WIDTH="216" VPOS="558" HPOS="1994"/>
+<SP HEIGHT="24" WIDTH="46" VPOS="557" HPOS="2210"/>
+<String CONTENT="See" HEIGHT="23" WIDTH="59" VPOS="557" HPOS="2256"/>
+<SP HEIGHT="23" WIDTH="23" VPOS="556" HPOS="2315"/>
+<String CONTENT="DIMOND," HEIGHT="32" WIDTH="135" VPOS="555" HPOS="2338"/>
+</TextLine>
+<TextLine HEIGHT="26" WIDTH="195" VPOS="590" HPOS="1995">
+<String CONTENT="STANLEY" HEIGHT="26" WIDTH="140" VPOS="590" HPOS="1995"/>
+<SP HEIGHT="24" WIDTH="21" VPOS="591" HPOS="2136"/>
+<String CONTENT="E." HEIGHT="24" WIDTH="32" VPOS="591" HPOS="2158"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Textbook"/>
+<SP/>
+<String CS="1" CONTENT="of"/>
+<SP/>
+<String CS="1" CONTENT="clinical"/>
+<SP/>
+<String CS="1" CONTENT="psychiatry."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="CHAPMAN,"/>
+<SP/>
+<String CS="1" CONTENT="A."/>
+<SP/>
+<String CS="1" CONTENT="H."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Thinking:"/>
+<SP/>
+<String CS="1" CONTENT="current"/>
+<SP/>
+<String CS="1" CONTENT="experimental"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="studies."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="DUNCAN,"/>
+<SP/>
+<String CS="1" CONTENT="CARL"/>
+<SP/>
+<String CS="1" CONTENT="P.,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="GUERARD,"/>
+</TextLine>
+<TextLine HEIGHT="8" WIDTH="6" VPOS="779" HPOS="2053" CS="1">
+<String CS="1" CONTENT="ed." HEIGHT="8" WIDTH="6" VPOS="779" HPOS="2053"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Transactions"/>
+<SP/>
+<String CS="1" CONTENT="of"/>
+<SP/>
+<String CS="1" CONTENT="the"/>
+<SP/>
+<String CS="1" CONTENT="eighty-sixth"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="meeting"/>
+<SP/>
+<String CS="1" CONTENT="&#8230;"/>
+<SP/>
+<String CS="1" CONTENT="Boca"/>
+<SP/>
+<String CS="1" CONTENT="Raton,"/>
+<SP/>
+<String CS="1" CONTENT="Florida,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="May"/>
+<SP/>
+<String CS="1" CONTENT="25,"/>
+<SP/>
+<String CS="1" CONTENT="24,"/>
+<SP/>
+<String CS="1" CONTENT="25,"/>
+<SP/>
+<String CS="1" CONTENT="1966."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="AMERICAN"/>
+<SP/>
+<String CS="1" CONTENT="SURGICAL"/>
+<SP/>
+<String CS="1" CONTENT="ASSN."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIPPINCOTT"/>
+<SP/>
+<String CS="1" CONTENT="(J."/>
+<SP/>
+<String CS="1" CONTENT="B.)"/>
+<SP/>
+<String CS="1" CONTENT="CO."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="CLINICAL"/>
+<SP/>
+<String CS="1" CONTENT="ORTHOPAEDICS"/>
+<SP/>
+<String CS="1" CONTENT="AND"/>
+<SP/>
+<String CS="1" CONTENT="RELATED"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="RESEARCH."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="THE"/>
+<SP/>
+<String CS="1" CONTENT="PEDIATRIC"/>
+<SP/>
+<String CS="1" CONTENT="PATIENT,"/>
+<SP/>
+<String CS="1" CONTENT="1967."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIPPMAN,"/>
+<SP/>
+<String CS="1" CONTENT="BERTRAM."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Ernest"/>
+<SP/>
+<String CS="1" CONTENT="Hemingway's"/>
+<SP/>
+<String CS="1" CONTENT="The"/>
+<SP/>
+<String CS="1" CONTENT="Sun"/>
+<SP/>
+<String CS="1" CONTENT="also"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="rises."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="AMERICAN"/>
+<SP/>
+<String CS="1" CONTENT="R.D."/>
+<SP/>
+<String CS="1" CONTENT="M."/>
+<SP/>
+<String CS="1" CONTENT="CORP."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Study*Master:"/>
+<SP/>
+<String CS="1" CONTENT="a"/>
+<SP/>
+<String CS="1" CONTENT="critical"/>
+<SP/>
+<String CS="1" CONTENT="commentary."/>
+<SP/>
+<String CS="1" CONTENT="424"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIPPMANN,"/>
+<SP/>
+<String CS="1" CONTENT="HORST."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Plastomechanik"/>
+<SP/>
+<String CS="1" CONTENT="der"/>
+<SP/>
+<String CS="1" CONTENT="Umformung"/>
+<SP/>
+<String CS="1" CONTENT="metal"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="lischer"/>
+<SP/>
+<String CS="1" CONTENT="Werkstoffe,"/>
+<SP/>
+<String CS="1" CONTENT="von"/>
+<SP/>
+<String CS="1" CONTENT="H."/>
+<SP/>
+<String CS="1" CONTENT="Lippmann"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="und"/>
+<SP/>
+<String CS="1" CONTENT="O."/>
+<SP/>
+<String CS="1" CONTENT="Mahrenholtz."/>
+<SP/>
+<String CS="1" CONTENT="l."/>
+<SP/>
+<String CS="1" CONTENT="Bd."/>
+<SP/>
+<String CS="1" CONTENT="Berlin,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Springer."/>
+<SP/>
+<String CS="1" CONTENT="1106"/>
+<SP/>
+<String CS="1" CONTENT="p."/>
+<SP/>
+<String CS="1" CONTENT="9"/>
+<SP/>
+<String CS="1" CONTENT="Springer-Ver"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="lag;"/>
+<SP/>
+<String CS="1" CONTENT="30Mar67;"/>
+<SP/>
+<!-- cceid AB680327-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="AF25881"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIPSET,"/>
+<SP/>
+<String CS="1" CONTENT="SEYMOUR"/>
+<SP/>
+<String CS="1" CONTENT="MARTIN."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Public"/>
+<SP/>
+<String CS="1" CONTENT="opinion"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="Canadian"/>
+<SP/>
+<String CS="1" CONTENT="identity."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="SCHWARTZ,"/>
+<SP/>
+<String CS="1" CONTENT="MILDRED"/>
+<SP/>
+<String CS="1" CONTENT="A."/>
+</TextLine>
+<TextLine HEIGHT="24" WIDTH="18" VPOS="1690" HPOS="1943" CS="1">
+<String CS="1" CONTENT="LLIPSITT," HEIGHT="24" WIDTH="18" VPOS="1690" HPOS="1943"/>
+<SP/>
+<String CS="1" CONTENT="LEWIS"/>
+<SP/>
+<String CS="1" CONTENT="P."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="ADVANCES"/>
+<SP/>
+<String CS="1" CONTENT="IN"/>
+<SP/>
+<String CS="1" CONTENT="CHILD"/>
+<SP/>
+<String CS="1" CONTENT="DEVELOPMENT"/>
+<SP/>
+<String CS="1" CONTENT="AND"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="BEHAVIOR."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIPSITZ,"/>
+<SP/>
+<String CS="1" CONTENT="BERNARD"/>
+<SP/>
+<String CS="1" CONTENT="D."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Legal"/>
+<SP/>
+<String CS="1" CONTENT="dictionary."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="M."/>
+<SP/>
+<String CS="1" CONTENT="H.,"/>
+<SP/>
+<String CS="1" CONTENT="comp."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIPSITZ,"/>
+<SP/>
+<String CS="1" CONTENT="LEWIS,"/>
+<SP/>
+<String CS="1" CONTENT="ed."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="American"/>
+<SP/>
+<String CS="1" CONTENT="Government,"/>
+<SP/>
+<String CS="1" CONTENT="behavior"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="controversy;"/>
+<SP/>
+<String CS="1" CONTENT="a"/>
+<SP/>
+<String CS="1" CONTENT="book"/>
+<SP/>
+<String CS="1" CONTENT="of"/>
+<SP/>
+<String CS="1" CONTENT="selected"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="readings."/>
+<SP/>
+<String CS="1" CONTENT="Boston,"/>
+<SP/>
+<String CS="1" CONTENT="Allyn"/>
+<SP/>
+<String CS="1" CONTENT="&amp;"/>
+<SP/>
+<String CS="1" CONTENT="Bacon."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="678"/>
+<SP/>
+<String CS="1" CONTENT="p."/>
+<SP/>
+<String CS="1" CONTENT="NM:"/>
+<SP/>
+<String CS="1" CONTENT="pref.,"/>
+<SP/>
+<String CS="1" CONTENT="introd."/>
+<SP/>
+<String CS="1" CONTENT="&amp;"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="index."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Allyn"/>
+<SP/>
+<String CS="1" CONTENT="&amp;"/>
+<SP/>
+<String CS="1" CONTENT="Bacon,"/>
+<SP/>
+<String CS="1" CONTENT="Inc.;"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="6Mar67;"/>
+<SP/>
+<!-- cceid AB6B5BB1-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A932033."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIPSITZ,"/>
+<SP/>
+<String CS="1" CONTENT="LOU."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Cold"/>
+<SP/>
+<String CS="1" CONTENT="water."/>
+<SP/>
+<String CS="1" CONTENT="1st"/>
+<SP/>
+<String CS="1" CONTENT="ed."/>
+<SP/>
+<String CS="1" CONTENT="Middletown,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Conn.,"/>
+<SP/>
+<String CS="1" CONTENT="Wesleyan"/>
+<SP/>
+<String CS="1" CONTENT="University"/>
+<SP/>
+<String CS="1" CONTENT="Press."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="68"/>
+<SP/>
+<String CS="1" CONTENT="p."/>
+<SP/>
+<String CS="1" CONTENT="(The"/>
+<SP/>
+<String CS="1" CONTENT="Wesleyan"/>
+<SP/>
+<String CS="1" CONTENT="poetry"/>
+<SP/>
+<String CS="1" CONTENT="program"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT=")"/>
+<SP/>
+<String CS="1" CONTENT="Some"/>
+<SP/>
+<String CS="1" CONTENT="poems"/>
+<SP/>
+<String CS="1" CONTENT="prev."/>
+<SP/>
+<String CS="1" CONTENT="pub."/>
+<SP/>
+<String CS="1" CONTENT="in"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="various"/>
+<SP/>
+<String CS="1" CONTENT="publications."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Lou"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Lipsitz;"/>
+<SP/>
+<String CS="1" CONTENT="23Feb67;"/>
+<SP/>
+<!-- cceid AB6C25CC-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A932305."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIPSON,"/>
+<SP/>
+<String CS="1" CONTENT="MARCIA"/>
+<SP/>
+<String CS="1" CONTENT="JANE"/>
+<SP/>
+<String CS="1" CONTENT="SPIEGEL."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="A"/>
+<SP/>
+<String CS="1" CONTENT="histochemical"/>
+<SP/>
+<String CS="1" CONTENT="study"/>
+<SP/>
+<String CS="1" CONTENT="of"/>
+<SP/>
+<String CS="1" CONTENT="the"/>
+<SP/>
+<String CS="1" CONTENT="digestive"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="tract"/>
+<SP/>
+<String CS="1" CONTENT="of"/>
+<SP/>
+<String CS="1" CONTENT="amphibian"/>
+<SP/>
+<String CS="1" CONTENT="larvae"/>
+<SP/>
+<String CS="1" CONTENT="through"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="out"/>
+<SP/>
+<String CS="1" CONTENT="normal"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="thyroxin-induced"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="metamorphosis."/>
+<SP/>
+<String CS="1" CONTENT="Ann"/>
+<SP/>
+<String CS="1" CONTENT="Arbor,"/>
+<SP/>
+<String CS="1" CONTENT="University"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Microfilms."/>
+<SP/>
+<String CS="1" CONTENT="(Doctoral"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="dissertation"/>
+<SP/>
+<String CS="1" CONTENT="series)"/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Marcia"/>
+<SP/>
+<String CS="1" CONTENT="Jane"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Spiegel"/>
+<SP/>
+<String CS="1" CONTENT="Lipson;"/>
+<SP/>
+<String CS="1" CONTENT="31Oct67;"/>
+<SP/>
+<!-- cceid AB6D0194-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A955381."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIPSYTE,"/>
+<SP/>
+<String CS="1" CONTENT="ROBERT."/>
+<SP/>
+<String CS="1" CONTENT="M."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="The"/>
+<SP/>
+<String CS="1" CONTENT="contender."/>
+<SP/>
+<String CS="1" CONTENT="1st"/>
+<SP/>
+<String CS="1" CONTENT="ed."/>
+<SP/>
+<String CS="1" CONTENT="New"/>
+<SP/>
+<String CS="1" CONTENT="York,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Harper"/>
+<SP/>
+<String CS="1" CONTENT="&amp;"/>
+<SP/>
+<String CS="1" CONTENT="Row."/>
+<SP/>
+<String CS="1" CONTENT="182"/>
+<SP/>
+<String CS="1" CONTENT="p."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Robert"/>
+<SP/>
+<String CS="1" CONTENT="M."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Lipsyte;"/>
+<SP/>
+<String CS="1" CONTENT="11Oct07;"/>
+<SP/>
+<!-- cceid AB6DC8DE-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A948521."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIPTAK,"/>
+<SP/>
+<String CS="1" CONTENT="ANITA."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="HAWAIIAN"/>
+<SP/>
+<String CS="1" CONTENT="HOTEL"/>
+<SP/>
+<String CS="1" CONTENT="AND"/>
+<SP/>
+<String CS="1" CONTENT="TOUR"/>
+<SP/>
+<String CS="1" CONTENT="DIRECTORY,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="1967&#8211;68."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIPTON,"/>
+<SP/>
+<String CS="1" CONTENT="BENJAMIN"/>
+<SP/>
+<String CS="1" CONTENT="H."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Aim"/>
+<SP/>
+<String CS="1" CONTENT="for"/>
+<SP/>
+<String CS="1" CONTENT="a"/>
+<SP/>
+<String CS="1" CONTENT="job"/>
+<SP/>
+<String CS="1" CONTENT="in"/>
+<SP/>
+<String CS="1" CONTENT="watchmaking."/>
+<SP/>
+<String CS="1" CONTENT="1st"/>
+<SP/>
+<String CS="1" CONTENT="ed."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="New"/>
+<SP/>
+<String CS="1" CONTENT="York,"/>
+<SP/>
+<String CS="1" CONTENT="Richards"/>
+<SP/>
+<String CS="1" CONTENT="Rosen"/>
+<SP/>
+<String CS="1" CONTENT="Press."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="126"/>
+<SP/>
+<String CS="1" CONTENT="p."/>
+<SP/>
+<String CS="1" CONTENT="(Aim"/>
+<SP/>
+<String CS="1" CONTENT="high"/>
+<SP/>
+<String CS="1" CONTENT="vocational"/>
+<SP/>
+<String CS="1" CONTENT="series)"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Benjamin"/>
+<SP/>
+<String CS="1" CONTENT="H."/>
+<SP/>
+<String CS="1" CONTENT="Lipton;"/>
+<SP/>
+<String CS="1" CONTENT="1Nov67;"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<!-- cceid AB6F64BB-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A952563."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="LIQUILUX"/>
+<SP/>
+<String CS="1" CONTENT="GAS"/>
+<SP/>
+<String CS="1" CONTENT="SERVICES,"/>
+<SP/>
+<String CS="1" CONTENT="INC."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Liquilux"/>
+<SP/>
+<String CS="1" CONTENT="propane;"/>
+<SP/>
+<String CS="1" CONTENT="the"/>
+<SP/>
+<String CS="1" CONTENT="progressive"/>
+<SP/>
+<String CS="1" CONTENT="fork"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="lift"/>
+<SP/>
+<String CS="1" CONTENT="motor"/>
+<SP/>
+<String CS="1" CONTENT="fuel."/>
+<SP/>
+<String CS="1" CONTENT="8"/>
+<SP/>
+<String CS="1" CONTENT="p."/>
+<SP/>
+<String CS="1" CONTENT="(&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Liquilux"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Gas"/>
+<SP/>
+<String CS="1" CONTENT="Services,"/>
+<SP/>
+<String CS="1" CONTENT="Inc.;"/>
+<SP/>
+<String CS="1" CONTENT="27Jul67;"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<!-- cceid AB703842-6BFB-1014-B6FB-B9486FFAA365 --><String CS="1" CONTENT="A931543."/>
+</TextLine>
+</TextBlock>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>
