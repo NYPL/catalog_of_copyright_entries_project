@@ -471,6 +471,112 @@ which entries:
 	  </copyrightEntry>
 	</entryGroup>
 
+# Duplicate Registration Numbers
+
+Registration numbers are not unique because numbering was started over in 1946 with the switch from the "new series" to the "3rd series." You would expect registration numbers to be unique within a series or for the combination ofregistration number and registration date to be unique but even this is not always true. There are a number of cases where multiple entries may have the same registration number.
+
+## Duplicated Entries
+
+Sometimes it seems that a registration is mistakenly (?) repeated in more than one volume. For instance these two entries from 1950
+
+![](examples/A41836-1950.png)
+
+and 1951
+
+![](examples/A41836-1951.png)
+
+Both carry the number/date `A41836/1950-03-13`. The first entry is missing the publisher, so perhaps the second entry was printed to correct the first. In other cases, the entries are completely identical. Given a registration _A_, duplicate registration _B_, and renewal _C_, simply matching on registration number/date would link the renewal to both registrations:
+
+![](examples/duplicate-reg-1.png)
+
+The `duplicateOf` attribute of the `copyrightEntry` element can be used in this case to indicate that one entry is the duplicate of another. Since there is really only _one_ copyright and _one_ renewal we want to be able to designate one of two duplicates as the "main" entry and link a renewal to that only:
+
+![](examples/duplicate-reg-2.png)
+
+In the example above, since the 1951 entry has some more information than the 1950 entry, the attribute should be added to the earlier one with the UUID of the later one as the attribute value. 
+
+    <copyrightEntry id="3F97A4D3-79DE-1014-B198-F9D02DA5A3BD" 
+                    regnum="A41836"
+                    duplicateOf="252D32E5-6D96-1014-9FA7-88F81FCFA0F7">
+      <author><authorName>GORMAN, HERBERT SHERMAN.</authorName></author> 
+      <title>The breast of the dove.</title> 
+      <desc>440 p.</desc> &#x000A9; <claimant>Herbert Gorman</claimant>; 
+      <regDate date="1950-03-13">13Mar50</regDate>; <regNum>A41836</regNum>.
+    </copyrightEntry>
+
+The `duplicateOf` attribute indicates that the entry _with_ the attribute contains the same information as the entry it points to and _adds nothing to it_. They _must_ both have identical registration numbers and dates. In the example above, the 1951 entry should not have the `duplicateOf` attribute pointing to the 1950 entry because the former has the publisher where the latter does not.
+
+All other things being equal, later duplicates should refer to earlier entries. If there are multiple duplications all duplicates should point to the same "master" registration. That entry must _not_ have a `duplicateOf` attribute. 
+
+When processing, any entries carrying a `duplicateOf` attribute can be skipped since, if an entry is truly a duplicate, it adds nothing the copyright history of the wrok. When importing into a database, for instance, this will assure that there is only one row with the registration number/date combination. Renewals should be linked to registrations without the `duplicateOf` attribute. 
+
+## Parts of Books
+
+In some volumes, primarily from the 1930's, parts of books such as introductions, forwords, and illustrations are given their own entries alongside the main entry for the books, with the same registration number and dates as the main entry. For example, this edition of Melville's _Pierre, or the Ambiguities_:
+
+![](examples/A8524-main.png)
+
+has separate entries for the preface:
+
+![](examples/A8524-preface.png)
+
+and introduction:
+
+![](examples/A8524-introduction.png)
+
+This would cause one book to be counted as three and, if there were a renewal, simply linking on registration number/date would cause it to be linked to all three entries:
+ 
+![](examples/part-of-reg-1.png)
+
+We want to indicate that two of these entries are subordinate parts of the third, and be able to link a renewal only to the main entry:
+
+![](examples/part-of-reg-2.png)
+
+The _partOf_ attribute of the _copyrightEntry_ element can be used to indicate that one entry is a subordinate part of another. Like _duplicateOf_ the value should be the UUID of the main entry
+
+    <copyrightEntry id="9B2C37FC-6CFA-1014-9C3C-CEA95E7AA542" 
+                    regnum="A8524"
+                    partOf="9B2A1015-6CFA-1014-9C3C-CEA95E7AA542">
+      <author><authorName>Moore, John Brooks</authorName> </author>.  
+      [<title>Introduction</title>, <author><role>by</role> <authorName>John 
+      Brooks Moore</authorName> </author> <note>in the book entitled] Pierre; 
+      or, The ambiguities</note>, <author><role>by</role> <authorName>Herman 
+      Melville</authorName>, <role>with a preface by</role> <authorName>H. M. 
+      Tomlinson</authorName> </author> &#x02026; <publisher><pubPlace>New 
+      York</pubPlace>, 
+      <pubName claimant="yes">E. P. Dutton &amp; co., inc.</pubName>[ 
+      <pubDate date="1929">&#x00368;1929</pubDate>]</publisher> 
+      <desc>2 p. l., vii-xxvii, 505 p. 22&#x000BD;&#x00368;&#x0036B;</desc>. 
+      &#x000A9; <regDate date="1929-04-27">Apr. 27, 1929</regDate>; 
+      <copies>2c.</copies> <copyDate date="1929-04-29">Apr. 29</copyDate>; 
+      aff. <affDate date="1929-06-04">June 4</affDate>; 
+      <regNum>A 8524</regNum>; <publisher>
+      <pubName claimant="yes">E. P. Dutton &amp; co., inc.</pubName> 
+      </publisher>
+    </copyrightEntry>
+    
+## Bulk Registrations
+
+When a group of books is published together as a series or a collection, they are somtimes all registered together under a single number and date. For example, in n.s. vol. 28 there are 24 entries under `A46164/1931-11-16`. The first two:
+
+![](examples/A46164.png)
+
+In this example they are all listed together under a single author's name so it is easy to see that they all make up the _Builders of America_ series. In other cases they all be under different authors. They are separate books as indicated by their different LCCNs, [32-25](https://lccn.loc.gov/32000025) and [32-20](https://lccn.loc.gov/32000020). In this case they are also all renewed together:
+
+![](examples/R233373.png)
+
+As with the `partOf` situation, this creates a single renewal pointing to multiple registration entries:
+
+![](examples/part-of-reg-1.png)
+
+However, this is acceptable in this case. Even though these 24 entries all share a registration number, they should be counted as 24 entries and should all share the same renewal. The registration entries should have a `bulkRegistration` attribute (with a value of `yes`) to simply flag that this registration number is known to be duplicated (and can be ignored if performing a check for duplicates)
+
+    <copyrightEntry id="F2D7831F-6E8D-1014-9CF5-AEB3FCA41D69"
+                    regnum="A46164"
+                    bulkRegistration="yes">...
+
+
+
 # Corrections
 
 ## Handwritten corrections in Volumes
