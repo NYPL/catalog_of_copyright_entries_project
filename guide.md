@@ -295,17 +295,15 @@ The most important items in these entries are the details of the copyright claim
 
 #### regNum
 
-Every `<copyrightEntry>` should have a regnum. We _have_ found entries published without one, though. The registration number should both be marked up with a `regNum` element _and_ duplicated and regularized as the `regnum` attribute of the `copyrightEntry`. Most regNums follow the format
-
-    [class][serial prefix][serial number]
+Every `<copyrightEntry>` should have a regnum. We _have_ found entries published without one, though. The registration number should both be marked up with a `regNum` element _and_ duplicated and regularized as the `regnum` attribute of the `copyrightEntry`. Most regNums follow the format `[class][serial number]` with a space, hyphen, or nothing separating the class from the serial.
 	
-Where class is one of `A`, `AF`, or `AI` (though there are more than a dozen other class codes, so far only `AA`, `B`, `DF`, `DP`, `JP`, and `K`). Serial numbers consist only of the digits 0-9. The only serial prefix is `0-`. Examples of canonical registration numbers:
+Where class is one of `A`, `AF`, or `AI` (though there are more than a dozen other class codes, so far only `AA`, `B`, `DF`, `DP`, `JP`, and `K`). Serial numbers consist only of the digits 0-9. Some Classes in as `O` (letter O) not to be confused with `0` (number zero). A very few classes, such as `B5` end with a number and are always separated from the serial with a hyphen. Examples of canonical registration numbers:
 
     A12345
     AF12345
-    AF0-12345
+    AFO12345
     AI12345
-    AI0-12345
+    AIO12345
 
 Earlier volumes use fewer prefixes, but different class formats, usually with spaces between the class code and serial number. These registration numbers should be transcribed _verbatim_ in `<regNum>` entities, but regularized in the `regnum` attributes of `<copyrightEntry>` elements according to these examples:
 
