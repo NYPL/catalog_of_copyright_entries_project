@@ -73,4 +73,4 @@ By combining the two datasets we can determine how many books were registered fo
 
 For this period we have about 642,000 books registered for copyright. Of these about 162,000 or 25% had their copyrights renewed. So, the copyright has expired on 75% of the books published during these years, about 480,000, and they are now in the Public Domain.
 
-**Press Inqueries**: Please contact [Greg Cram](mailto:gregcram@nypl.org) or [Sean Redmond](mailto:seanredmond@nypl.org)
+**Press Inquiries**: Please contact [Greg Cram](mailto:gregcram@nypl.org) or [Sean Redmond](mailto:seanredmond@nypl.org)
