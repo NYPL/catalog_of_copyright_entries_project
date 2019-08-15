@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!ELEMENT copyrightEntries (header, (page | copyrightEntry| entryGroup | crossRef)*)>
-<!ELEMENT header (source, status?, cite)>
+<!ELEMENT header (source, status?, cite, note)>
 <!ELEMENT source EMPTY>
 <!ATTLIST source
 	  url CDATA #REQUIRED>
