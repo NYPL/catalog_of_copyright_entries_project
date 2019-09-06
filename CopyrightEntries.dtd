@@ -105,7 +105,7 @@
 <!ELEMENT renewalEntry (#PCDATA | author | title | vol | claimant | renewal)* >
 <!ATTLIST renewalEntry
 	  id NMTOKEN #REQUIRED>
-<!ELEMENT renewal (#PCDATA | registrations | renewalDate | renewalNum)*>
+<!ELEMENT renewal (#PCDATA | registrations | renewalDate | renewalNum | claimant)*>
 <!ELEMENT registrations (#PCDATA | registration)*>
 <!ELEMENT registration (#PCDATA | regNum | regDate)*>
 <!ELEMENT renewalDate (#PCDATA)>
