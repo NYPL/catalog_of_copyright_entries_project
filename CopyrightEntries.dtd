@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!ELEMENT copyrightEntries (header, (page | copyrightEntry| entryGroup | crossRef)*)>
-<!ELEMENT header (source, status?, cite, note)>
+<!ELEMENT header (source, status?, cite, note?)>
 <!ELEMENT source EMPTY>
 <!ATTLIST source
 	  url CDATA #REQUIRED>
@@ -37,7 +37,7 @@
 	  emended (yes|no) "no"
 	  emendationDesc CDATA #IMPLIED>
 
-<!ELEMENT entryGroup (#PCDATA | title | author | edition | volumes | series | note | copyrightEntry | crossRef | publisher | claimant | page | vol )*>
+<!ELEMENT entryGroup (#PCDATA | entryGroup | title | author | edition | volumes | series | note | copyrightEntry | crossRef | publisher | claimant | page | vol | renewalEntry )*>
 
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT page (#PCDATA)>
@@ -68,8 +68,10 @@
 <!ELEMENT employerName (#PCDATA)>
 <!ELEMENT prev-regNum (#PCDATA)>
 <!ELEMENT newMatterClaimed (#PCDATA)>
-<!ELEMENT claimant (#PCDATA)>
+<!ELEMENT claimant (#PCDATA | claimantName | claimantClass)*>
+<!ELEMENT claimantName (#PCDATA)>
 <!ELEMENT claimantPlace (#PCDATA)>
+<!ELEMENT claimantClass (#PCDATA)>
 <!ELEMENT regDate (#PCDATA)>
 <!ATTLIST regDate  
 	  date NMTOKEN #REQUIRED
@@ -99,4 +101,19 @@
 <!ELEMENT additionalEntry (#PCDATA | author | pubPlace | publisher | volumes | series | prevPub | employerName | copyDate | prev-regNum | newMatterClaimed | pubDate | pubName | claimant | claimantPlace | regDate | regNum | classCode | copies | affDate | vol | noticeDate | note | edition | see )*>
 <!ATTLIST additionalEntry
 	  regnum NMTOKENS #IMPLIED>
+
+<!ELEMENT renewalEntry (#PCDATA | author | title | vol | renewal)* >
+<!ATTLIST renewalEntry
+	  id NMTOKEN #REQUIRED>
+<!ELEMENT renewal (#PCDATA | registrations | renewalDate | renewalNum)*>
+<!ELEMENT registrations (#PCDATA | registration)*>
+<!ELEMENT registration (#PCDATA | regNum | regDate)*>
+<!ELEMENT renewalDate (#PCDATA)>
+<!ATTLIST renewalDate  
+	  date NMTOKEN #REQUIRED
+	  ignore (yes|no) "no">
+<!ELEMENT renewalNum (#PCDATA)>
+<!ATTLIST renewalNum
+	  ignore (yes|no) "no">
+
 
