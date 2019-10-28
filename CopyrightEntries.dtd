@@ -78,6 +78,7 @@
 	  ignore (yes|no) "no">
 <!ELEMENT regNum (#PCDATA)>
 <!ATTLIST regNum
+          nums NMTOKENS #IMPLIED
 	  ignore (yes|no) "no">
 <!ELEMENT copies (#PCDATA)>
 <!ATTLIST copies
@@ -114,6 +115,7 @@
 	  ignore (yes|no) "no">
 <!ELEMENT renewalNum (#PCDATA)>
 <!ATTLIST renewalNum
+          nums NMTOKENS #IMPLIED
 	  ignore (yes|no) "no">
 
 
