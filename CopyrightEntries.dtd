@@ -103,7 +103,7 @@
 <!ATTLIST additionalEntry
 	  regnum NMTOKENS #IMPLIED>
 
-<!ELEMENT renewalEntry (#PCDATA | author | title | vol | series | edition | note | claimant | renewal)* >
+<!ELEMENT renewalEntry (#PCDATA | author | title | vol | series | edition | note | newMatterClaimed | claimant | renewal)* >
 <!ATTLIST renewalEntry
 	  id NMTOKEN #REQUIRED>
 <!ELEMENT renewal (#PCDATA | registrations | renewalDate | renewalNum | claimant)*>
