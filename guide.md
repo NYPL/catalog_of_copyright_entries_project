@@ -592,5 +592,66 @@ We are interested in the _correct copyright information_, so only the corrected 
 To indicate that this entry contains corrections, we add the `emended` attribute (with the value of `yes`). There is also an `emendationDesc` attribute that can be used to give more specifics, for example:
 
     emended="yes" emendationDesc="Handwritten corrections in volume"
+    
+# Renewal
+
+Some entries in later volumes are renewals rather than registrations, which would normally be published in a different section of the _CCE_. For example:
+
+![](examples/R149031.png)
+
+This must be marked up as a `<renewalEntry>`:
+
+    <renewalEntry id="8BDBF399-728D-1014-8500-D70EB891A161">
+      <author><authorName>ADAMS, HERBERT.</authorName></author>
+      <title>The queen's gate mystery.</title>
+      <renewal>
+        <registrations> &#x000A9;
+          <registration><regDate date="1927-07-08">8Jul27</regDate>; <regNum>A999664</regNum></registration>.
+        </registrations>
+        <claimant><claimantName>Herbert Adams</claimantName> (<claimantClass>A</claimantClass>)</claimant>; 
+        <renewalDate date="1955-04-28">28Apr55</renewalDate>; <renewalNum>R149031</renewalNum>
+      </renewal>
+    </renewalEntry>
+
+Sometimes multiple registrations are renewed by a single renewal. For these cases, each original registration should have its own `<registration>` in the `<registrations>` element:
+
+![](examples/R219440.png)
+
+    <renewalEntry id="51CBFDE3-72C4-1014-84F6-87703AD4166D">
+      <author><authorName>SCOTT, WINIFRED MARY.</authorName></author>
+      <title>The last days of September</title>,
+      <author><role>by</role> <authorName>Pamela Wynne</authorName>, <role>pseud.</role> </author>
+      <renewal> ©
+        <registrations>
+          <registration><regDate date="1931-05-19">19May31</regDate>, <regNum>AI-15224</regNum></registration>;
+          <registration><regDate date="1931-08-06">6Aug31</regDate>, <regNum>A41100</regNum></registration>.
+        </registrations>
+        <claimant><claimantName>Winifred Mary Scott</claimantName> (<claimantClass>A</claimantClass>)</claimant>; 
+        <renewalDate date="1958-08-17">17Aug58</renewalDate>; <renewalNum>R219440</renewalNum>
+      </renewal>.
+    </renewalEntry>
+    
+There are also “bulk” renewals in which a number of registrations and renewals are listed together:
+
+![](examples/R218020.png)
+
+    <renewalEntry id="53727901-72C4-1014-84F6-87703AD4166D">
+      <title>STREET &amp; SMITH'S TOP NOTCH MAGAZINE.</title>
+      © <renewal>
+      <claimant><claimantName>Street &amp; Smith Publications, Inc.</claimantName> (<claimantClass>PCW</claimanClass>)<claimant> <vol>v.86, no. 3-6, July 1-Aug. 15, 1931</vol>.
+        <registrations> ©
+          <registration><regDate date="1931-05-29">29May31</regDate>, <regNum>B116123</regNum></registration>;
+          <registration><regDate date="1931-06-17">17Jun31</regDate>, <regNum>B118058</regNum></registration>;
+          <registration><regDate date="1931-07-01">1Jul31</regDate>, <regNum>B118953</regNum></registration>;
+          <registration><regDate date="1931-07-15">15Jul31</regDate>, <regNum>B121578</regNum></registration>.
+    </registrations>
+        <renewalDate date="1958-07-16">16Jul58</renewalDate>; <renewalNum nums="R218020 R218021 R218022 R218023">R218020-218023</renewalNum>.
+      </renewal>
+    </renewalEntry>
+
+Not the use of the `nums` attribute of the `renewalNum` element to unpack the range of registration numbers “R218020-218023”. This attribute can also be applied to a `regNum` element.
+
+
+
 
 
