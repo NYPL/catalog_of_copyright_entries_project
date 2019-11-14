@@ -20,7 +20,7 @@
 	  start NMTOKEN #REQUIRED
 	  end   NMTOKEN #REQUIRED>
 
-<!ELEMENT copyrightEntry (#PCDATA | title | author | desc | edition | publisher | volumes | series | copyDate | prevPub | prev-regNum | employerName | newMatterClaimed | claimant | claimantPlace | regDate | regNum | registrations | copies | affDate | vol | noticeDate | note | additionalEntry | lccn )*>
+<!ELEMENT copyrightEntry (#PCDATA | title | author | desc | edition | publisher | volumes | series | copyDate | prevPub | prev-regNum | employerName | newMatterClaimed | claimant | claimantPlace | regDate | regNum | registrations | copies | affDate | pubDate | vol | noticeDate | note | additionalEntry | lccn )*>
 <!ATTLIST copyrightEntry
 	  id NMTOKEN #REQUIRED
 	  regnum NMTOKENS #IMPLIED
