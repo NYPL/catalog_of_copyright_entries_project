@@ -59,7 +59,8 @@
 	  claimant (yes|no) "no">
 <!ELEMENT pubDate (#PCDATA)>
 <!ATTLIST pubDate 
-      date NMTOKEN #REQUIRED>
+          date NMTOKEN #REQUIRED
+          partial (yes|no) "no">
 <!ELEMENT publisher (#PCDATA | pubName | pubPlace | pubDate)*>
 <!ELEMENT volumes (#PCDATA)>
 <!ELEMENT vol (#PCDATA)>
@@ -75,6 +76,7 @@
 <!ELEMENT regDate (#PCDATA)>
 <!ATTLIST regDate  
 	  date NMTOKEN #REQUIRED
+	  partial (yes|no) "no"
 	  ignore (yes|no) "no">
 <!ELEMENT regNum (#PCDATA)>
 <!ATTLIST regNum
@@ -85,13 +87,16 @@
 	  num NMTOKEN #IMPLIED>
 <!ELEMENT copyDate (#PCDATA)>
 <!ATTLIST copyDate
-	  date NMTOKEN #REQUIRED>
+	  date NMTOKEN #REQUIRED
+	  partial (yes|no) "no">
 <!ELEMENT affDate (#PCDATA)>
 <!ATTLIST affDate
-	  date NMTOKEN #REQUIRED>
+	  date NMTOKEN #REQUIRED
+	  partial (yes|no) "no">
 <!ELEMENT noticeDate (#PCDATA)>
 <!ATTLIST noticeDate
-	  date NMTOKEN #REQUIRED>
+	  date NMTOKEN #REQUIRED
+	  partial (yes|no) "no">
 <!ELEMENT note (#PCDATA)>
 <!ELEMENT lccn (#PCDATA)>
 <!ATTLIST lccn
@@ -114,6 +119,7 @@
 <!ELEMENT renewalDate (#PCDATA)>
 <!ATTLIST renewalDate  
 	  date NMTOKEN #REQUIRED
+	  partial (yes|no) "no"
 	  ignore (yes|no) "no">
 <!ELEMENT renewalNum (#PCDATA)>
 <!ATTLIST renewalNum
