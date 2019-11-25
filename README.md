@@ -65,7 +65,7 @@ In addition every `<copyrightEntry`> and `<crossRef>` is assigned a UUID so that
 
 ### Renewals
 
-These volumes were chosen to transcribe first because they come from the period when a book may in copyright if its first 28-year copyright term was renewed, whike it is otherwise public domain. Renewal data is available from the Stanford [Copyright Renewals Database](https://exhibits.stanford.edu/copyrightrenewals) and from an [NYPL version](https://github.com/NYPL/cce-renewals/) of essentially the same sources. The NYPL version is better formatted for matching renewal entries the registrations in these XML files.
+These volumes were chosen to transcribe first because they come from the period when a book may in copyright if its first 28-year copyright term was renewed, while it is otherwise public domain. Renewal data is available from the Stanford [Copyright Renewals Database](https://exhibits.stanford.edu/copyrightrenewals) and from an [NYPL version](https://github.com/NYPL/cce-renewals/) of essentially the same sources. The NYPL version is better formatted for matching renewal entries with the registrations in these XML files.
 
 By combining the two datasets we can determine how many books were registered for copyright in every year between 1923 and 1963, as well as how many were renewed:
 
