@@ -1,3 +1,4 @@
+
 # Catalog of Copyright Entries Project
 NYPL Project to transcribe and parse pages from the US Catalog of Copyright Entries
 
@@ -10,6 +11,8 @@ For more on the catalog, see the following:
 - [UPenn Online Books Page for Copyright Catalog](http://onlinebooks.library.upenn.edu/cce/)
 - [Wikipedia article](https://en.wikipedia.org/wiki/Copyright_Catalog)
 - [Catalog Volumes on Internet Archive](http://archive.org/details/copyrightrecords/)
+
+Although all of the data extracted to date from the CCEs by the NYPL team is available on this GitHub repo, NYPL has added records from prior CCE projects and made it available in [this unofficial, experimental search interface](https://cce-search.nypl.org/).
 
 ## Data Structure and Contents
 
@@ -75,8 +78,35 @@ For this period we have about 642,000 books registered for copyright. Of these a
 
 
 ## User Stories for Search Interface
+Although we do not have an official search interface for this data yet (the [unofficial, experimental interface is here](https://cce-search.nypl.org/)), we gathered a group of experts in Copyright Office records to discuss user needs and requirements for a search interface system. That group prioritized a list of [user stories](https://github.com/NYPL/catalog_of_copyright_entries_project/wiki/User-Stories) that could be used to start to develop such a search interface system.
 
-Although we do not have an official search interface for this data yet, we gathered a group of experts in Copyright Office records to discuss user needs and requirements for a search interface system. That group prioritized a list of [user stories](https://github.com/NYPL/catalog_of_copyright_entries_project/wiki/User-Stories) that could be used to start to develop such a search interface system.
+## CCE Information and Organization Sheets
+The project team's goal is to complete the transcription and parsing of all of the CCEs. To keep us organized, we've created a number of spreadsheets in Google Sheets. While all of these sheets are works-in-progress, you may find the data useful. We will create a sheet for each major type of work or category within the CCE. Each sheet should include information about the particular CCE volumes relevant to that category, including direct links to each CCE volume, the page numbers that bound each category, the number of expected records based on either the counts included by the Copyright Office in the front matter for each volume or on the record count (depending on year), and other relevant data. For many years, data was published in cycles shorter than one year, creating multiple sections (in CCE lingo, "Numbers") for a single year. The data for each section is recorded in individual tabs for that year. As more sheets are built, sections will be added below.
+
+##### Overview of CCE Category Changes Over Time
+An overview of the organization of the CCEs from 1906 to 1977 is available [here](https://docs.google.com/spreadsheets/d/1EoPt7MggV7ZPgJUljD1wC2h2cIy1aiktBHzU4l6OEuQ/edit?usp=sharing). We've also built a [directory of links](https://docs.google.com/spreadsheets/d/1IwX2bU2UzPP6sW0Nz15RbW2YxczRqQB-w4a-NqEXswY/edit?usp=sharing) to the CCEs as they are presented in Internet Archive. Eventually, we will fill in the data for pre-1923 CCEs for both of these sheets.
+
+##### Part 1: Books
+Although the Books part designation changed over time (Part 1 Group 1 in 1923, Part 1A starting in 1947, and Part 1 starting in 1953) we've combined the data about books into [this sheet](https://docs.google.com/spreadsheets/d/14u_0gfhBnDvpuBTT8gqp1Hv-lSmK_DYKDXBfgUaVP2k/edit?usp=sharing).
+
+##### Part 1B: Pamphlets, Leaflets, and More
+From 1923-mid-1953, the CCEs grouped a number of different kinds of works into a sub-part of the Books category. Depending on year, this group included pamphlets, leaflets, contributions to newspapers or periodicals, lectures, sermons, addresses for oral delivery, dramatic compositions, maps, and motion pictures. A sheet with information about this sub-category for books is [available here](https://docs.google.com/spreadsheets/d/1iXdOCV2H6pmNDG1CHOnkvJTRSOCb8Uq2TjU3UGEhRjY/edit?usp=sharing).
+
+##### Part 2: Periodicals
+Periodicals have enjoyed their own category within the CCE. A sheet tracking information about this category can be found [here](https://docs.google.com/spreadsheets/d/1UrDf4zFfa7mbG0mw2gAWWLhQMqEb1sZZjtmgaxMnNaE/edit?usp=sharing).
+
+##### Part 5: Musical Compositions
+Data about musical composition registrations and renewals can be found [here](https://docs.google.com/spreadsheets/d/1YzOtE1ipOiIcWlTMK7FXn7NAERQxAO7towlbU-rHrPc/edit?usp=sharing).
 
 
+
+## Status of Project
+
+As of 8/15/22, the registrations for the "Books" category from 1923-1977 has been completed and data uploaded to this repository.
+
+As time permits, the team is recording information about the relevant CCE volumes for each category of work.
+
+The project team continues to pursue funding opportunities to tackle the transcription and parsing of the remaining CCEs.
+
+***
 **Press Inquiries**: Please contact [Greg Cram](mailto:gregcram@nypl.org) or [Sean Redmond](mailto:seanredmond@nypl.org)
